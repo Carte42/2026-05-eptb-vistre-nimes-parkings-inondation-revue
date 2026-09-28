@@ -5,5 +5,15 @@
   "commentaire": "Aire commerciale - conteneurs",
   "revu_le": "2026-09-28T12:55:36",
   "operateur": "Allan"
+ },
+ "bdtopo:EQ_RESEA0000000274510368": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-09-28T12:57:58",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-28T12:57:58",
+  "operateur": "Allan"
  }
 }
