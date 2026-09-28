@@ -38,13 +38,20 @@
   "operateur": "Allan"
  },
  "osm:w209111841": {
-  "statut": "a_revoir",
+  "statut": "corrigee",
   "streetview": {
    "controle_le": "2026-09-28T13:06:10",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-28T13:06:10",
-  "operateur": "Allan"
+  "revu_le": "2026-09-28T13:17:42",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Paloma",
+   "nb_pl_reel": 320,
+   "statut": "public"
+  }
  }
 }
