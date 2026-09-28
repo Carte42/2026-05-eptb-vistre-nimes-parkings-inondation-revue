@@ -29,5 +29,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "bdtopo:EQ_RESEA0000000027764978": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-28T13:05:52",
+  "operateur": "Allan"
  }
 }
