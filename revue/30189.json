@@ -17,5 +17,15 @@
   "operateur": "Allan",
   "motif": "prive",
   "commentaire": ""
+ },
+ "bdtopo:EQ_RESEA0000000312868256": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-09-28T13:02:47",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-28T13:02:47",
+  "operateur": "Allan"
  }
 }
