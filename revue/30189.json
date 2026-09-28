@@ -1,9 +1,9 @@
 {
  "bdtopo:EQ_RESEA0000000027764958": {
   "statut": "rejetee",
-  "motif": "prive",
+  "motif": "pas_parking",
   "commentaire": "Aire commerciale - conteneurs",
-  "revu_le": "2026-09-28T12:51:07",
+  "revu_le": "2026-09-28T12:55:36",
   "operateur": "Allan"
  }
 }
