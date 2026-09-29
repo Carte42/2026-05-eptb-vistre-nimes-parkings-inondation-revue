@@ -251,5 +251,39 @@
   "operateur": "Allan",
   "motif": "prive_ouvert",
   "commentaire": ""
+ },
+ "osm_point:n8731919729": {
+  "statut": "a_revoir",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.16675,
+      43.714371
+     ],
+     [
+      4.166712,
+      43.714285
+     ],
+     [
+      4.16756,
+      43.71412
+     ],
+     [
+      4.167622,
+      43.714246
+     ],
+     [
+      4.16675,
+      43.714371
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 881.4,
+  "nb_pl_est": 35,
+  "revu_le": "2026-09-29T15:20:44",
+  "operateur": "Allan"
  }
 }
