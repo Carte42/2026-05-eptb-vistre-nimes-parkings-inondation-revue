@@ -325,5 +325,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T09:11:30",
   "operateur": "Allan"
+ },
+ "osm:w41675411": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Super U"
+  },
+  "revu_le": "2026-09-29T09:11:45",
+  "operateur": "Allan"
  }
 }
