@@ -44,13 +44,15 @@
   "commentaire": ""
  },
  "osm:w412908136": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-29T09:44:50",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T09:44:50",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T09:44:59",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
