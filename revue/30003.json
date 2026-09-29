@@ -401,13 +401,13 @@
   "operateur": "Allan"
  },
  "osm_point:n13084116601": {
-  "statut": "a_controler",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-29T08:18:59",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T08:28:29",
+  "revu_le": "2026-09-29T08:32:45",
   "operateur": "Allan",
   "commentaire": "",
   "geometrie": {
@@ -462,6 +462,7 @@
    ]
   },
   "surf_m2": 4244,
-  "nb_pl_est": 113
+  "nb_pl_est": 113,
+  "motif": null
  }
 }
