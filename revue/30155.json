@@ -111,5 +111,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T16:15:35",
   "operateur": "Allan"
+ },
+ "osm:w680603017": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Intermarché"
+  },
+  "revu_le": "2026-09-29T16:15:49",
+  "operateur": "Allan"
  }
 }
