@@ -10,8 +10,37 @@
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T15:47:50",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T15:49:33",
+  "operateur": "Allan",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.349862,
+      43.726534
+     ],
+     [
+      4.349521,
+      43.726362
+     ],
+     [
+      4.349435,
+      43.726464
+     ],
+     [
+      4.349773,
+      43.726619
+     ],
+     [
+      4.349862,
+      43.726534
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 412.4,
+  "nb_pl_est": 19
  },
  "osm:w1095399964": {
   "statut": "validee",
