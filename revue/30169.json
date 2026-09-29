@@ -65,5 +65,15 @@
   },
   "revu_le": "2026-09-29T16:30:03",
   "operateur": "Allan"
+ },
+ "osm:w183607640": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-09-29T16:30:15",
+   "date_vue": null,
+   "disponible": false
+  },
+  "revu_le": "2026-09-29T16:30:15",
+  "operateur": "Allan"
  }
 }
