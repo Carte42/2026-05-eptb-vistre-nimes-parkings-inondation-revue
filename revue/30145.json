@@ -7,13 +7,14 @@
   "operateur": "Allan"
  },
  "osm:w750615583": {
-  "statut": "a_revoir",
+  "statut": "a_controler",
   "streetview": {
    "controle_le": "2026-09-29T16:08:09",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T16:08:09",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T16:08:39",
+  "operateur": "Allan",
+  "commentaire": ""
  }
 }
