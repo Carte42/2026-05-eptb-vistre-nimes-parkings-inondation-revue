@@ -47,5 +47,39 @@
   "nb_pl_est": 28,
   "motif": null,
   "commentaire": ""
+ },
+ "bdtopo:EQ_RESEA0000002488547102": {
+  "statut": "a_revoir",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.250287,
+      43.804505
+     ],
+     [
+      4.249856,
+      43.804465
+     ],
+     [
+      4.250006,
+      43.804273
+     ],
+     [
+      4.250375,
+      43.804334
+     ],
+     [
+      4.250287,
+      43.804505
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 703,
+  "nb_pl_est": 30,
+  "revu_le": "2026-09-29T15:51:21",
+  "operateur": "Allan"
  }
 }
