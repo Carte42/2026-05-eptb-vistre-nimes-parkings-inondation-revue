@@ -207,5 +207,15 @@
   "operateur": "Allan",
   "motif": "prive",
   "commentaire": ""
+ },
+ "osm:w172801563": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Carrefour contact"
+  },
+  "revu_le": "2026-09-29T09:41:49",
+  "operateur": "Allan"
  }
 }
