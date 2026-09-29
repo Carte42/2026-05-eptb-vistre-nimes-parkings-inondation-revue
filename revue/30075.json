@@ -83,7 +83,7 @@
   "operateur": "Allan"
  },
  "osm:w1152279656": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -113,7 +113,9 @@
   },
   "surf_m2": 533.4,
   "nb_pl_est": 24,
-  "revu_le": "2026-09-29T14:17:16",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T14:17:26",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
