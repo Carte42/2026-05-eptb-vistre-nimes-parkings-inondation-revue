@@ -1,0 +1,38 @@
+{
+ "osm:w965151305": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-29T08:14:53",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-29T08:15:07",
+  "operateur": "Allan",
+  "motif": "prive_ouvert",
+  "commentaire": ""
+ },
+ "osm:w160682325": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking complexe sportif"
+  },
+  "revu_le": "2026-09-29T08:15:22",
+  "operateur": "Allan"
+ },
+ "osm:w822899451": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T08:15:43",
+  "operateur": "Allan"
+ },
+ "osm:w160681741": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T08:15:49",
+  "operateur": "Allan"
+ }
+}
