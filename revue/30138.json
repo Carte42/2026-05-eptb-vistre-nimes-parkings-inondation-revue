@@ -90,5 +90,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T15:53:24",
   "operateur": "Allan"
+ },
+ "osm:w159681868": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Lidl"
+  },
+  "revu_le": "2026-09-29T15:53:38",
+  "operateur": "Allan"
  }
 }
