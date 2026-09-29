@@ -115,13 +115,15 @@
   "operateur": "Allan"
  },
  "osm:w1316756126": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-09-29T09:51:05",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T09:51:05",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T09:51:31",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
  }
 }
