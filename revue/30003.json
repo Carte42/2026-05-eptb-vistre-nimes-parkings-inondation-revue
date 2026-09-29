@@ -401,13 +401,14 @@
   "operateur": "Allan"
  },
  "osm_point:n13084116601": {
-  "statut": "a_revoir",
+  "statut": "a_controler",
   "streetview": {
    "controle_le": "2026-09-29T08:18:59",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T08:18:59",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T08:19:19",
+  "operateur": "Allan",
+  "commentaire": ""
  }
 }
