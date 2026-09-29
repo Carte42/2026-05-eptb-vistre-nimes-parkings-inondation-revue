@@ -109,13 +109,15 @@
   "operateur": "Allan"
  },
  "bdtopo:EQ_RESEA0000000337038259": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-09-29T08:37:53",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T08:37:53",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T08:39:23",
+  "operateur": "Allan",
+  "motif": "pas_parking",
+  "commentaire": ""
  }
 }
