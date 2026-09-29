@@ -12,5 +12,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T15:25:14",
   "operateur": "Allan"
+ },
+ "osm:w217843415": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking salle de fêtes"
+  },
+  "revu_le": "2026-09-29T15:25:26",
+  "operateur": "Allan"
  }
 }
