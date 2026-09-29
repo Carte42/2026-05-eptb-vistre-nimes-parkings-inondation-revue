@@ -52,5 +52,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "osm:w506253192": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T09:49:10",
+  "operateur": "Allan"
  }
 }
