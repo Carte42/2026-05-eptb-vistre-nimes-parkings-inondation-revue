@@ -93,5 +93,15 @@
   },
   "revu_le": "2026-09-29T07:29:35",
   "operateur": "Allan"
+ },
+ "osm:w505004871": {
+  "statut": "corrigee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "PArking Hypermarché Carrefour"
+  },
+  "revu_le": "2026-09-29T07:30:47",
+  "operateur": "Allan"
  }
 }
