@@ -38,5 +38,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T16:29:44",
   "operateur": "Allan"
+ },
+ "osm:w216981682": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Aire voie rapide"
+  },
+  "revu_le": "2026-09-29T16:29:53",
+  "operateur": "Allan"
  }
 }
