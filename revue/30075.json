@@ -10,5 +10,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "bdtopo:EQ_RESEA0000000130578585": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T14:15:14",
+  "operateur": "Allan"
  }
 }
