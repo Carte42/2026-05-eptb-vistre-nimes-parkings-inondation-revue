@@ -253,7 +253,7 @@
   "commentaire": ""
  },
  "osm_point:n8731919729": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -283,7 +283,9 @@
   },
   "surf_m2": 881.4,
   "nb_pl_est": 35,
-  "revu_le": "2026-09-29T15:20:44",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T15:20:46",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
