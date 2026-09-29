@@ -36,13 +36,13 @@
   "operateur": "Allan"
  },
  "osm:w230615800": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-29T08:12:38",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T08:13:46",
+  "revu_le": "2026-09-29T08:13:49",
   "operateur": "Allan",
   "geometrie": {
    "type": "Polygon",
@@ -92,6 +92,8 @@
    ]
   },
   "surf_m2": 3467.3,
-  "nb_pl_est": 92
+  "nb_pl_est": 92,
+  "motif": null,
+  "commentaire": ""
  }
 }
