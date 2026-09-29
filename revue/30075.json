@@ -131,13 +131,15 @@
   "commentaire": ""
  },
  "osm:w1020401722": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-09-29T14:18:10",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T14:18:10",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T14:18:38",
+  "operateur": "Allan",
+  "motif": "prive_ouvert",
+  "commentaire": ""
  }
 }
