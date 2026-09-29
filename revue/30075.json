@@ -1,12 +1,14 @@
 {
  "bdtopo:EQ_RESEA0000002488441902": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-29T14:14:25",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T14:14:25",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T14:15:00",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
