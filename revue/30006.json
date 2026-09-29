@@ -164,5 +164,12 @@
   "commentaire": "",
   "revu_le": "2026-09-29T08:59:59",
   "operateur": "Allan"
+ },
+ "osm:w850622950": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T09:00:12",
+  "operateur": "Allan"
  }
 }
