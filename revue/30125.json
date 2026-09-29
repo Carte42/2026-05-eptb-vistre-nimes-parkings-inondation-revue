@@ -52,13 +52,18 @@
   "operateur": "Allan"
  },
  "osm:w130796394": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-29T15:26:10",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T15:26:10",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T15:26:32",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking de la mairie"
+  }
  }
 }
