@@ -40,5 +40,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T16:38:32",
   "operateur": "Allan"
+ },
+ "osm:w1044806202": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Halle aux sports"
+  },
+  "revu_le": "2026-09-29T16:38:49",
+  "operateur": "Allan"
  }
 }
