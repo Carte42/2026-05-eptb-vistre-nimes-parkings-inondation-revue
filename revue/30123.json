@@ -28,5 +28,12 @@
   "revu_le": "2026-09-29T15:11:18",
   "operateur": "Allan",
   "commentaire": ""
+ },
+ "osm:w1102962890": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T15:11:34",
+  "operateur": "Allan"
  }
 }
