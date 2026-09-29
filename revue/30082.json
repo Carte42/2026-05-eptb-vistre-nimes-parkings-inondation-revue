@@ -31,5 +31,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T14:50:25",
   "operateur": "Allan"
+ },
+ "osm:w417366887": {
+  "statut": "corrigee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking de l'École Marie Pape Carpantier"
+  },
+  "revu_le": "2026-09-29T14:50:52",
+  "operateur": "Allan"
  }
 }
