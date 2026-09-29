@@ -100,5 +100,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "osm:w761806212": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T08:37:18",
+  "operateur": "Allan"
  }
 }
