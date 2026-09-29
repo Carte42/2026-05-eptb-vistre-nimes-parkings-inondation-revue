@@ -26,5 +26,12 @@
   "commentaire": "",
   "revu_le": "2026-09-29T09:45:21",
   "operateur": "Allan"
+ },
+ "osm:w1054231450": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-29T09:45:26",
+  "operateur": "Allan"
  }
 }
