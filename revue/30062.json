@@ -151,5 +151,12 @@
   "commentaire": "",
   "revu_le": "2026-09-29T09:52:38",
   "operateur": "Allan"
+ },
+ "osm:w1316756125": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-29T09:52:44",
+  "operateur": "Allan"
  }
 }
