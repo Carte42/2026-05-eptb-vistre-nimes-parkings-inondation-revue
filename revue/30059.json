@@ -175,5 +175,15 @@
   },
   "surf_m2": 254.9,
   "nb_pl_est": 13
+ },
+ "osm_point:n9501480761": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-09-29T16:02:59",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-29T16:02:59",
+  "operateur": "Allan"
  }
 }
