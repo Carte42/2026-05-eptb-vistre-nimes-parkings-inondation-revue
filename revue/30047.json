@@ -185,5 +185,15 @@
   "corrections": {
    "nom": "Parking KM4 Center"
   }
+ },
+ "osm:w931145352": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Aldi"
+  },
+  "revu_le": "2026-09-29T09:40:27",
+  "operateur": "Allan"
  }
 }
