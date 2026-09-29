@@ -458,5 +458,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T09:18:47",
   "operateur": "Allan"
+ },
+ "osm:w614228331": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Aldi"
+  },
+  "revu_le": "2026-09-29T09:19:00",
+  "operateur": "Allan"
  }
 }
