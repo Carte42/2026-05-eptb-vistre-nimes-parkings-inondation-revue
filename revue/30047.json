@@ -70,13 +70,18 @@
   "operateur": "Allan"
  },
  "osm:w563610770": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-29T09:38:15",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T09:38:15",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T09:38:42",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Arènes de Bouillargues"
+  }
  }
 }
