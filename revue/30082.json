@@ -41,5 +41,15 @@
   },
   "revu_le": "2026-09-29T14:50:52",
   "operateur": "Allan"
+ },
+ "osm:w159682186": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking U"
+  },
+  "revu_le": "2026-09-29T14:51:09",
+  "operateur": "Allan"
  }
 }
