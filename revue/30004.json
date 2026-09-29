@@ -109,5 +109,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T08:14:32",
   "operateur": "Allan"
+ },
+ "osm:w326383079": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Ecole Aqua Viva"
+  },
+  "revu_le": "2026-09-29T08:14:55",
+  "operateur": "Allan"
  }
 }
