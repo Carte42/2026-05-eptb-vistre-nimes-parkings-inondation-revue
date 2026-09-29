@@ -36,13 +36,18 @@
   }
  },
  "osm:w1091297965": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-29T16:36:37",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T16:36:37",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T16:37:23",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Ecole Georges Brassens"
+  }
  }
 }
