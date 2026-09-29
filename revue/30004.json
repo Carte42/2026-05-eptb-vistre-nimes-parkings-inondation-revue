@@ -119,5 +119,15 @@
   },
   "revu_le": "2026-09-29T08:14:55",
   "operateur": "Allan"
+ },
+ "osm:w41401246": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Brico Depot"
+  },
+  "revu_le": "2026-09-29T08:15:10",
+  "operateur": "Allan"
  }
 }
