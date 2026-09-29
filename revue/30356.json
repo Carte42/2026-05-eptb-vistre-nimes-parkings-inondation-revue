@@ -56,7 +56,7 @@
   "operateur": "Allan"
  },
  "osm_point:n1890287031": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -86,7 +86,9 @@
   },
   "surf_m2": 324.9,
   "nb_pl_est": 16,
-  "revu_le": "2026-09-29T16:40:45",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T16:40:46",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
