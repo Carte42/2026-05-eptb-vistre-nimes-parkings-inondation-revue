@@ -262,5 +262,12 @@
   },
   "revu_le": "2026-09-29T16:21:30",
   "operateur": "Allan"
+ },
+ "osm:w377447226": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-29T16:21:41",
+  "operateur": "Allan"
  }
 }
