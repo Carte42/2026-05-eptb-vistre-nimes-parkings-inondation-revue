@@ -105,13 +105,13 @@
   "operateur": "Allan"
  },
  "osm:w359180452": {
-  "statut": "validee",
-  "motif": null,
+  "statut": "rejetee",
+  "motif": "pas_parking",
   "commentaire": "",
   "corrections": {
    "nom": "Aire voie rapide"
   },
-  "revu_le": "2026-09-29T16:18:38",
+  "revu_le": "2026-09-29T16:19:58",
   "operateur": "Allan"
  },
  "osm:w316919798": {
