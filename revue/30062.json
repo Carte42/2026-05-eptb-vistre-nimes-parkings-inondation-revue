@@ -193,5 +193,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T09:53:47",
   "operateur": "Allan"
+ },
+ "osm:w226922109": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Groupe Scolaire Roger Leenhardt"
+  },
+  "revu_le": "2026-09-29T09:54:16",
+  "operateur": "Allan"
  }
 }
