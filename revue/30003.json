@@ -399,5 +399,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T08:13:53",
   "operateur": "Allan"
+ },
+ "osm_point:n13084116601": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-09-29T08:18:59",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-29T08:18:59",
+  "operateur": "Allan"
  }
 }
