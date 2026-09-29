@@ -213,5 +213,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T15:18:28",
   "operateur": "Allan"
+ },
+ "osm:w1102962892": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-09-29T15:18:42",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-29T15:18:42",
+  "operateur": "Allan"
  }
 }
