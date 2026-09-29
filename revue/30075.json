@@ -43,5 +43,12 @@
   "operateur": "Allan",
   "motif": "prive",
   "commentaire": ""
+ },
+ "osm:w934302588": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-29T14:16:07",
+  "operateur": "Allan"
  }
 }
