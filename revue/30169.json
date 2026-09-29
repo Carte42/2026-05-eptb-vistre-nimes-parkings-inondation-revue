@@ -79,13 +79,15 @@
   "commentaire": ""
  },
  "osm:w48650946": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-29T16:30:37",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T16:30:37",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T16:30:45",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
