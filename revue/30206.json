@@ -34,5 +34,15 @@
   "corrections": {
    "nom": "Place foraine"
   }
+ },
+ "osm:w1091297965": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-09-29T16:36:37",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-29T16:36:37",
+  "operateur": "Allan"
  }
 }
