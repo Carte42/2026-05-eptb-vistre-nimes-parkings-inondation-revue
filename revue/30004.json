@@ -153,5 +153,15 @@
   },
   "revu_le": "2026-09-29T08:16:07",
   "operateur": "Allan"
+ },
+ "osm:w965151289": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Foir'Fouille"
+  },
+  "revu_le": "2026-09-29T08:16:33",
+  "operateur": "Allan"
  }
 }
