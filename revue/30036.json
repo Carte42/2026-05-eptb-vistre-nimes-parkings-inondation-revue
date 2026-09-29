@@ -27,5 +27,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T09:34:04",
   "operateur": "Allan"
+ },
+ "osm:w497181805": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Netto"
+  },
+  "revu_le": "2026-09-29T09:34:18",
+  "operateur": "Allan"
  }
 }
