@@ -18,5 +18,12 @@
   "commentaire": "En construction sur les orthoimages de l'IGN",
   "revu_le": "2026-09-29T09:22:10",
   "operateur": "Allan"
+ },
+ "osm:w166397852": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T09:22:20",
+  "operateur": "Allan"
  }
 }
