@@ -21,13 +21,18 @@
   "operateur": "Allan"
  },
  "osm:w632657582": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-29T16:36:03",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T16:36:03",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T16:36:28",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Place foraine"
+  }
  }
 }
