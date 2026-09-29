@@ -110,5 +110,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T16:30:58",
   "operateur": "Allan"
+ },
+ "osm:w435273421": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Aire voie rapide"
+  },
+  "revu_le": "2026-09-29T16:31:03",
+  "operateur": "Allan"
  }
 }
