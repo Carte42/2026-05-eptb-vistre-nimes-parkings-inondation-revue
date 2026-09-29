@@ -203,5 +203,12 @@
   },
   "revu_le": "2026-09-29T09:54:16",
   "operateur": "Allan"
+ },
+ "osm:w226922110": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T09:54:23",
+  "operateur": "Allan"
  }
 }
