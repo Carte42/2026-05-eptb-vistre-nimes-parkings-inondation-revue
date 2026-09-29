@@ -78,10 +78,10 @@
   "commentaire": ""
  },
  "osm:w996898086": {
-  "statut": "validee",
-  "motif": null,
+  "statut": "rejetee",
+  "motif": "lineaire",
   "commentaire": "",
-  "revu_le": "2026-09-29T09:31:46",
+  "revu_le": "2026-09-29T09:31:53",
   "operateur": "Allan"
  }
 }
