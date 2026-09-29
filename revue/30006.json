@@ -494,5 +494,15 @@
   "operateur": "Allan",
   "motif": "prive_ouvert",
   "commentaire": ""
+ },
+ "osm:w614228333": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Aldi 2"
+  },
+  "revu_le": "2026-09-29T09:20:27",
+  "operateur": "Allan"
  }
 }
