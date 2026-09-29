@@ -13,5 +13,12 @@
   "corrections": {
    "nom": "Parking Ecole Maternelle Paul Fort"
   }
+ },
+ "osm:w226241314": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T09:33:59",
+  "operateur": "Allan"
  }
 }
