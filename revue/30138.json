@@ -49,7 +49,7 @@
   "commentaire": ""
  },
  "bdtopo:EQ_RESEA0000002488547102": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -79,7 +79,9 @@
   },
   "surf_m2": 703,
   "nb_pl_est": 30,
-  "revu_le": "2026-09-29T15:51:21",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T15:51:33",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
