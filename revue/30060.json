@@ -89,5 +89,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T09:46:21",
   "operateur": "Allan"
+ },
+ "osm:w985562864": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Metro"
+  },
+  "revu_le": "2026-09-29T09:46:35",
+  "operateur": "Allan"
  }
 }
