@@ -239,7 +239,7 @@
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T09:01:24",
+  "revu_le": "2026-09-29T09:01:43",
   "operateur": "Allan",
   "geometrie": {
    "type": "Polygon",
@@ -277,6 +277,11 @@
    ]
   },
   "surf_m2": 2080.9,
-  "nb_pl_est": 56
+  "nb_pl_est": 56,
+  "streetview": {
+   "controle_le": "2026-09-29T09:01:43",
+   "date_vue": null,
+   "disponible": true
+  }
  }
 }
