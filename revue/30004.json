@@ -187,5 +187,15 @@
   "commentaire": "",
   "revu_le": "2026-09-29T08:17:13",
   "operateur": "Allan"
+ },
+ "osm:w965151300": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Botte Gardiane"
+  },
+  "revu_le": "2026-09-29T08:17:59",
+  "operateur": "Allan"
  }
 }
