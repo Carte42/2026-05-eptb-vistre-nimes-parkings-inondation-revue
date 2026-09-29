@@ -95,5 +95,12 @@
   "nb_pl_est": 92,
   "motif": null,
   "commentaire": ""
+ },
+ "osm:w368815272": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-29T08:14:20",
+  "operateur": "Allan"
  }
 }
