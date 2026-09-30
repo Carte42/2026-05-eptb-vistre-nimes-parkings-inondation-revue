@@ -1,0 +1,23 @@
+{
+ "osm:w1044918866": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:05:14",
+  "operateur": "Allan"
+ },
+ "osm:w359113224": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:05:38",
+  "operateur": "Allan"
+ },
+ "osm:w1081136999": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:05:39",
+  "operateur": "Allan"
+ }
+}

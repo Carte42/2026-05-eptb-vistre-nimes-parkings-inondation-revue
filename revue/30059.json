@@ -3,58 +3,60 @@
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T15:53:54",
+  "revu_le": "2026-09-29T18:52:06",
   "operateur": "Allan"
  },
  "osm:w620384427": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T15:54:16",
+  "revu_le": "2026-09-29T18:52:06",
   "operateur": "Allan"
  },
  "osm:w853491090": {
   "statut": "rejetee",
   "motif": "pas_parking",
   "commentaire": "",
-  "revu_le": "2026-09-29T15:54:33",
+  "revu_le": "2026-09-29T18:52:06",
   "operateur": "Allan"
  },
  "osm:w1016641993": {
   "statut": "rejetee",
   "motif": "prive",
   "commentaire": "",
-  "revu_le": "2026-09-29T15:54:44",
+  "revu_le": "2026-09-29T18:52:06",
   "operateur": "Allan"
  },
  "osm:w1500339522": {
   "statut": "rejetee",
   "motif": "prive",
   "commentaire": "",
-  "revu_le": "2026-09-29T15:54:51",
+  "revu_le": "2026-09-29T18:52:06",
   "operateur": "Allan"
  },
  "osm:w642498712": {
   "statut": "rejetee",
   "motif": "pas_parking",
   "commentaire": "",
-  "revu_le": "2026-09-29T15:54:56",
+  "revu_le": "2026-09-29T18:52:06",
   "operateur": "Allan"
  },
  "osm:w640090953": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "streetview": {
-   "controle_le": "2026-09-29T15:55:04",
+   "controle_le": "2026-09-29T18:52:06",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T15:55:12",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "revu_le": "2026-09-29T18:52:06",
+  "operateur": "Allan"
  },
  "osm:w906759990": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -82,27 +84,27 @@
     ]
    ]
   },
-  "surf_m2": 1159.1,
+  "surf_m2": 1159.3,
   "nb_pl_est": 42,
-  "revu_le": "2026-09-29T15:55:38",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "revu_le": "2026-09-29T18:52:06",
+  "operateur": "Allan"
  },
  "osm:w640090952": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "streetview": {
-   "controle_le": "2026-09-29T15:55:43",
+   "controle_le": "2026-09-29T18:52:06",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T15:56:04",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "revu_le": "2026-09-29T18:52:06",
+  "operateur": "Allan"
  },
  "osm_point:n7883538622": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -132,20 +134,13 @@
   },
   "surf_m2": 112.2,
   "nb_pl_est": 6,
-  "revu_le": "2026-09-29T16:01:57",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "revu_le": "2026-09-29T18:52:06",
+  "operateur": "Allan"
  },
  "osm_point:n7883538623": {
   "statut": "validee",
-  "streetview": {
-   "controle_le": "2026-09-29T15:56:41",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-09-29T16:07:08",
-  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -173,20 +168,20 @@
     ]
    ]
   },
-  "surf_m2": 254.9,
+  "surf_m2": 255.0,
   "nb_pl_est": 13,
-  "motif": null,
-  "commentaire": ""
- },
- "osm_point:n9501480761": {
-  "statut": "validee",
   "streetview": {
-   "controle_le": "2026-09-29T16:02:59",
+   "controle_le": "2026-09-29T18:52:06",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T16:07:03",
-  "operateur": "Allan",
+  "revu_le": "2026-09-29T18:52:06",
+  "operateur": "Allan"
+ },
+ "osm_point:n9501480761": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -214,13 +209,20 @@
     ]
    ]
   },
-  "surf_m2": 165.7,
+  "surf_m2": 165.8,
   "nb_pl_est": 9,
-  "motif": null,
-  "commentaire": ""
+  "streetview": {
+   "controle_le": "2026-09-29T18:52:06",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-29T18:52:06",
+  "operateur": "Allan"
  },
  "osm_point:n8712683825": {
   "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -262,9 +264,7 @@
   },
   "surf_m2": 311.4,
   "nb_pl_est": 15,
-  "revu_le": "2026-09-29T16:07:15",
-  "operateur": "Allan",
-  "motif": "prive_ouvert",
-  "commentaire": ""
+  "revu_le": "2026-09-29T18:52:06",
+  "operateur": "Allan"
  }
 }

@@ -1,9 +1,575 @@
 {
  "osm:w974573552": {
   "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:06:25",
+  "operateur": "Allan"
+ },
+ "osm:w940724209": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:05:53",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:06:08",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w562015795": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:06:10",
+  "operateur": "Allan"
+ },
+ "osm:w50001962": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:06:38",
+  "operateur": "Allan"
+ },
+ "osm:w525856519": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:07:09",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:07:45",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w948258661": {
+  "statut": "rejetee",
   "motif": "prive",
   "commentaire": "",
-  "revu_le": "2026-09-29T07:21:35",
+  "revu_le": "2026-09-30T09:07:53",
+  "operateur": "Allan"
+ },
+ "osm:w957656367": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:08:08",
+  "operateur": "Allan"
+ },
+ "osm:w561323948": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:08:18",
+  "operateur": "Allan"
+ },
+ "osm:w543603902": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:08:30",
+  "operateur": "Allan"
+ },
+ "osm:w725334035": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:08:39",
+  "operateur": "Allan"
+ },
+ "osm:w168601405": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:08:49",
+  "operateur": "Allan"
+ },
+ "osm:w168601410": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:08:57",
+  "operateur": "Allan"
+ },
+ "osm:w725334039": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:09:06",
+  "operateur": "Allan"
+ },
+ "osm:w817986811": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:09:12",
+  "operateur": "Allan"
+ },
+ "osm:w1307280989": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:09:17",
+  "operateur": "Allan"
+ },
+ "osm:w561826499": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:09:38",
+  "operateur": "Allan"
+ },
+ "osm:w218624389": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:09:45",
+  "operateur": "Allan"
+ },
+ "osm:w753738285": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:09:54",
+  "operateur": "Allan"
+ },
+ "osm:w772046158": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Aldi"
+  },
+  "revu_le": "2026-09-30T09:10:06",
+  "operateur": "Allan"
+ },
+ "osm:w219554646": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Intermarché"
+  },
+  "revu_le": "2026-09-30T09:10:17",
+  "operateur": "Allan"
+ },
+ "osm:w219554647": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Weldom"
+  },
+  "revu_le": "2026-09-30T09:10:30",
+  "operateur": "Allan"
+ },
+ "osm:w974543189": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:10:58",
+  "operateur": "Allan"
+ },
+ "osm:w219554645": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Lidl"
+  },
+  "revu_le": "2026-09-30T09:11:07",
+  "operateur": "Allan"
+ },
+ "osm:w561044609": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:14:20",
+  "operateur": "Allan"
+ },
+ "osm:w974557580": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:14:28",
+  "operateur": "Allan"
+ },
+ "osm:w974679912": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:14:41",
+  "operateur": "Allan"
+ },
+ "osm:w604653874": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:14:47",
+  "operateur": "Allan"
+ },
+ "osm:w974769698": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:14:53",
+  "operateur": "Allan"
+ },
+ "osm:w974769700": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:14:56",
+  "operateur": "Allan"
+ },
+ "osm:w772045750": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:15:08",
+  "operateur": "Allan"
+ },
+ "osm:w550738110": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:15:26",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:15:58",
+  "operateur": "Allan",
+  "motif": "prive_ouvert",
+  "commentaire": ""
+ },
+ "osm:w1035328573": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:16:03",
+  "operateur": "Allan"
+ },
+ "osm:w92905583": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:16:13",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:16:32",
+  "operateur": "Allan",
+  "motif": "prive_ouvert",
+  "commentaire": ""
+ },
+ "osm:w957656378": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:16:41",
+  "operateur": "Allan"
+ },
+ "osm:w957656379": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:16:46",
+  "operateur": "Allan"
+ },
+ "osm:w169474150": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:20:08",
+  "operateur": "Allan"
+ },
+ "osm:w561825773": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:20:13",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:20:24",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w218629241": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:20:33",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:21:14",
+  "operateur": "Allan",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.435958,
+      43.675876
+     ],
+     [
+      4.435711,
+      43.675998
+     ],
+     [
+      4.436186,
+      43.67645
+     ],
+     [
+      4.436392,
+      43.676355
+     ],
+     [
+      4.435958,
+      43.675876
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 1387.2,
+  "nb_pl_est": 46,
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w604653875": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:21:20",
+  "operateur": "Allan"
+ },
+ "osm:w974654218": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:21:30",
+  "operateur": "Allan"
+ },
+ "osm:w831685928": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:21:33",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:25:09",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w219564752": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Ecole Ventoulet"
+  },
+  "revu_le": "2026-09-30T09:25:31",
+  "operateur": "Allan"
+ },
+ "osm:w525856500": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:25:40",
+  "operateur": "Allan"
+ },
+ "osm:w940724203": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:25:54",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:26:27",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w974661437": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:26:37",
+  "operateur": "Allan"
+ },
+ "osm:w975272129": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:26:47",
+  "operateur": "Allan"
+ },
+ "osm:w948258656": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:26:55",
+  "operateur": "Allan"
+ },
+ "osm:w817986808": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:27:18",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:28:01",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w603348764": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:29:35",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:30:04",
+  "operateur": "Allan",
+  "motif": "pas_parking",
+  "commentaire": ""
+ },
+ "osm:w604653885": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:30:09",
+  "operateur": "Allan"
+ },
+ "osm:w1033380380": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:30:10",
+  "operateur": "Allan"
+ },
+ "osm_point:n14168936884": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:30:46",
+  "operateur": "Allan"
+ },
+ "osm_point:n2401825271": {
+  "statut": "validee",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.428858,
+      43.678662
+     ],
+     [
+      4.428821,
+      43.67845
+     ],
+     [
+      4.429242,
+      43.67846
+     ],
+     [
+      4.42925,
+      43.678701
+     ],
+     [
+      4.428858,
+      43.678662
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 820.4,
+  "nb_pl_est": 33,
+  "revu_le": "2026-09-30T09:31:04",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm_point:n5131488959": {
+  "statut": "validee",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.389435,
+      43.661079
+     ],
+     [
+      4.389277,
+      43.660921
+     ],
+     [
+      4.389234,
+      43.660952
+     ],
+     [
+      4.389355,
+      43.661084
+     ],
+     [
+      4.389435,
+      43.661079
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 102.5,
+  "nb_pl_est": 5,
+  "revu_le": "2026-09-30T09:31:19",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm_point:n7042144880": {
+  "statut": "validee",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.429786,
+      43.677808
+     ],
+     [
+      4.429577,
+      43.67781
+     ],
+     [
+      4.429633,
+      43.67719
+     ],
+     [
+      4.429859,
+      43.677199
+     ],
+     [
+      4.429786,
+      43.677808
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 1200.1,
+  "nb_pl_est": 43,
+  "revu_le": "2026-09-30T09:31:35",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm_point:n7091286542": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:31:44",
   "operateur": "Allan"
  }
 }

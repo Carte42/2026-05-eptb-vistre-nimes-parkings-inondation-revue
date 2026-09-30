@@ -1,0 +1,159 @@
+{
+ "osm:w1016726921": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:38:18",
+  "operateur": "Allan"
+ },
+ "osm:w1016726922": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:38:04",
+  "operateur": "Allan"
+ },
+ "osm:w161764836": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking U Express"
+  },
+  "revu_le": "2026-09-30T09:38:33",
+  "operateur": "Allan"
+ },
+ "osm:w1308560222": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:38:39",
+  "operateur": "Allan"
+ },
+ "osm:w928879988": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:38:44",
+  "operateur": "Allan"
+ },
+ "osm:w288760963": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:38:49",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:39:16",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w795636579": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:39:22",
+  "operateur": "Allan"
+ },
+ "osm:w404388761": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:39:58",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:40:13",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w287371850": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:40:22",
+  "operateur": "Allan"
+ },
+ "osm:w1041553053": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:40:28",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:40:46",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "manuel:20260930094131": {
+  "statut": "validee",
+  "commentaire": "Aire ajoutée à la main",
+  "revu_le": "2026-09-30T09:42:53",
+  "operateur": "Allan",
+  "motif": null,
+  "streetview": {
+   "controle_le": "2026-09-30T09:42:53",
+   "date_vue": null,
+   "disponible": true
+  }
+ },
+ "osm:w965186062": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:41:39",
+  "operateur": "Allan"
+ },
+ "osm:w1273145703": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:41:58",
+  "operateur": "Allan"
+ },
+ "osm_point:n2412474207": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:42:06",
+  "operateur": "Allan"
+ },
+ "osm_point:n7952097673": {
+  "statut": "rejetee",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.180164,
+      43.622875
+     ],
+     [
+      4.179788,
+      43.622512
+     ],
+     [
+      4.17989,
+      43.622456
+     ],
+     [
+      4.180271,
+      43.622809
+     ],
+     [
+      4.180164,
+      43.622875
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 542.9,
+  "nb_pl_est": 24,
+  "revu_le": "2026-09-30T09:42:38",
+  "operateur": "Allan",
+  "motif": "prive_ouvert",
+  "commentaire": ""
+ }
+}

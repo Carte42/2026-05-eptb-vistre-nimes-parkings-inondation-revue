@@ -1,0 +1,433 @@
+{
+ "osm:w331269349": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:06",
+  "operateur": "Allan"
+ },
+ "osm:w330672684": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:08",
+  "operateur": "Allan"
+ },
+ "osm:w330672679": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:09",
+  "operateur": "Allan"
+ },
+ "osm:w1106285953": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:13",
+  "operateur": "Allan"
+ },
+ "osm:w330672696": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:14",
+  "operateur": "Allan"
+ },
+ "osm:w331269348": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:15",
+  "operateur": "Allan"
+ },
+ "osm:w229412475": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:34",
+  "operateur": "Allan"
+ },
+ "osm:w230047338": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:40",
+  "operateur": "Allan"
+ },
+ "osm:w1194038014": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:42",
+  "operateur": "Allan"
+ },
+ "osm:w330341284": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:48:54",
+  "operateur": "Allan"
+ },
+ "osm:w763332476": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:51:07",
+  "operateur": "Allan"
+ },
+ "osm:w330672700": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:51:09",
+  "operateur": "Allan"
+ },
+ "osm:w1345151366": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:51:19",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:51:41",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w763332477": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:51:59",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:52:26",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w763048211": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:52:29",
+  "operateur": "Allan"
+ },
+ "osm:w331269351": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:52:36",
+  "operateur": "Allan"
+ },
+ "osm:w620863238": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:52:52",
+  "operateur": "Allan"
+ },
+ "osm:w219735644": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:53:00",
+  "operateur": "Allan"
+ },
+ "osm:w331963797": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:53:02",
+  "operateur": "Allan"
+ },
+ "osm:w331269369": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:53:08",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:53:24",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w331269350": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:53:28",
+  "operateur": "Allan"
+ },
+ "osm:w330341282": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:53:33",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:54:32",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w763332480": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:54:34",
+  "operateur": "Allan"
+ },
+ "osm:w503989105": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:54:37",
+  "operateur": "Allan"
+ },
+ "osm:w330902724": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:54:43",
+  "operateur": "Allan"
+ },
+ "osm:w774983020": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:54:46",
+  "operateur": "Allan"
+ },
+ "osm:w890321606": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:55:35",
+  "operateur": "Allan"
+ },
+ "osm:w965183113": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Action"
+  },
+  "revu_le": "2026-09-30T09:55:45",
+  "operateur": "Allan"
+ },
+ "osm:w517306469": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Intermarché"
+  },
+  "revu_le": "2026-09-30T09:55:55",
+  "operateur": "Allan"
+ },
+ "osm:w219735869": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:55:58",
+  "operateur": "Allan"
+ },
+ "osm:w965183118": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:56:00",
+  "operateur": "Allan"
+ },
+ "osm:w908523369": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:58:49",
+  "operateur": "Allan",
+  "streetview": {
+   "controle_le": "2026-09-30T09:58:35",
+   "date_vue": null,
+   "disponible": true
+  }
+ },
+ "osm:w763332490": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:56:41",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:57:33",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w330939726": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:57:43",
+  "operateur": "Allan"
+ },
+ "osm:w813119687": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:58:02",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:58:18",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w908523370": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:58:31",
+  "operateur": "Allan"
+ },
+ "osm:w763048218": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:58:57",
+  "operateur": "Allan"
+ },
+ "osm:w620384431": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:59:06",
+  "operateur": "Allan"
+ },
+ "osm:w330939729": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:59:08",
+  "operateur": "Allan"
+ },
+ "osm:w762877849": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:59:18",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:59:39",
+  "operateur": "Allan",
+  "motif": "prive_ouvert",
+  "commentaire": ""
+ },
+ "osm:w636580138": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:59:45",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T10:00:05",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w330341286": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T10:00:16",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T10:01:45",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w1211117327": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:01:51",
+  "operateur": "Allan"
+ },
+ "osm:w1378066805": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T10:01:59",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T10:02:52",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w330341285": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:02:57",
+  "operateur": "Allan"
+ },
+ "osm:w762877848": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:03:03",
+  "operateur": "Allan"
+ },
+ "osm:w1345151364": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:03:20",
+  "operateur": "Allan"
+ },
+ "osm_point:n13724093044": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T10:06:56",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T10:07:17",
+  "operateur": "Allan",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.279816,
+      43.693761
+     ],
+     [
+      4.279683,
+      43.6937
+     ],
+     [
+      4.279966,
+      43.693483
+     ],
+     [
+      4.280095,
+      43.693544
+     ],
+     [
+      4.279816,
+      43.693761
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 408.4,
+  "nb_pl_est": 19,
+  "motif": null,
+  "commentaire": ""
+ }
+}

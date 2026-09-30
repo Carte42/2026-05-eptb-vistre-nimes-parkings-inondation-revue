@@ -1,0 +1,104 @@
+{
+ "osm:w219466996": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T08:59:12",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T08:59:48",
+  "operateur": "Allan",
+  "motif": "moins_10",
+  "commentaire": ""
+ },
+ "bdtopo:EQ_RESEA0000002323657372": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T08:59:54",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:00:07",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w1481154240": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:00:12",
+  "operateur": "Allan"
+ },
+ "osm:w444323391": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:00:15",
+  "operateur": "Allan"
+ },
+ "osm:w1364061644": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:00:26",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:00:36",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ },
+ "osm:w219473456": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:00:45",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:01:43",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
+ },
+ "osm:w1364061641": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:01:53",
+  "operateur": "Allan"
+ },
+ "osm:w160363510": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:01:55",
+  "operateur": "Allan"
+ },
+ "osm:w1328830563": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:01:57",
+  "operateur": "Allan"
+ },
+ "osm:w1331408717": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:02:00",
+  "operateur": "Allan"
+ },
+ "osm:w761045566": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:02:04",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:02:25",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
+ }
+}

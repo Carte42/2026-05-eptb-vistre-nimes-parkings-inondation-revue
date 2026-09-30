@@ -1,0 +1,65 @@
+{
+ "osm:w500256918": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:22:57",
+  "operateur": "Allan"
+ },
+ "osm:w500258151": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:23:05",
+  "operateur": "Allan"
+ },
+ "osm:w1074208084": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:23:14",
+  "operateur": "Allan"
+ },
+ "osm:w796561506": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:23:16",
+  "operateur": "Allan"
+ },
+ "osm:w284859308": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:23:17",
+  "operateur": "Allan"
+ },
+ "osm:w823919013": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:23:19",
+  "operateur": "Allan"
+ },
+ "osm:w931752918": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:23:21",
+  "operateur": "Allan"
+ },
+ "osm:w828528959": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:23:28",
+  "operateur": "Allan"
+ },
+ "osm:w1074208083": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T10:23:43",
+  "operateur": "Allan"
+ }
+}

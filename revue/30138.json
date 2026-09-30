@@ -1,13 +1,8 @@
 {
  "osm:w191440371": {
   "statut": "validee",
-  "streetview": {
-   "controle_le": "2026-09-29T15:50:52",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-09-29T15:51:07",
-  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -45,11 +40,18 @@
   },
   "surf_m2": 655.5,
   "nb_pl_est": 28,
-  "motif": null,
-  "commentaire": ""
+  "streetview": {
+   "controle_le": "2026-09-29T18:52:08",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-29T18:52:08",
+  "operateur": "Allan"
  },
  "bdtopo:EQ_RESEA0000002488547102": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -79,16 +81,14 @@
   },
   "surf_m2": 637.5,
   "nb_pl_est": 28,
-  "revu_le": "2026-09-29T15:52:59",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "revu_le": "2026-09-29T18:52:08",
+  "operateur": "Allan"
  },
  "osm:w1086190638": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T15:53:24",
+  "revu_le": "2026-09-29T18:52:08",
   "operateur": "Allan"
  },
  "osm:w159681868": {
@@ -98,7 +98,7 @@
   "corrections": {
    "nom": "Parking Lidl"
   },
-  "revu_le": "2026-09-29T15:53:38",
+  "revu_le": "2026-09-29T18:52:08",
   "operateur": "Allan"
  }
 }

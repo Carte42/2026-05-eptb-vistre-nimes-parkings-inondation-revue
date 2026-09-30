@@ -37,13 +37,8 @@
  },
  "osm:w230615800": {
   "statut": "validee",
-  "streetview": {
-   "controle_le": "2026-09-29T08:12:38",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-09-29T08:13:49",
-  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -91,23 +86,28 @@
     ]
    ]
   },
-  "surf_m2": 3467.3,
+  "surf_m2": 3467.6,
   "nb_pl_est": 92,
-  "motif": null,
-  "commentaire": ""
+  "streetview": {
+   "controle_le": "2026-09-29T18:52:05",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-29T18:52:05",
+  "operateur": "Allan"
  },
  "osm:w368815272": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T08:14:20",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w160681746": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T08:14:32",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w326383079": {
@@ -117,7 +117,7 @@
   "corrections": {
    "nom": "Parking Ecole Aqua Viva"
   },
-  "revu_le": "2026-09-29T08:14:55",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w41401246": {
@@ -127,21 +127,21 @@
   "corrections": {
    "nom": "Parking Brico Depot"
   },
-  "revu_le": "2026-09-29T08:15:10",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w1317388769": {
   "statut": "rejetee",
   "motif": "prive_ouvert",
   "commentaire": "",
-  "revu_le": "2026-09-29T08:15:39",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w157155041": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T08:15:54",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w41801824": {
@@ -151,7 +151,7 @@
   "corrections": {
    "nom": "Parking Lidl"
   },
-  "revu_le": "2026-09-29T08:16:07",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w965151289": {
@@ -161,14 +161,14 @@
   "corrections": {
    "nom": "Parking Foir'Fouille"
   },
-  "revu_le": "2026-09-29T08:16:33",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w511362306": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T08:16:55",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w359796100": {
@@ -178,14 +178,14 @@
   "corrections": {
    "nom": "Parking Brico Depot 2"
   },
-  "revu_le": "2026-09-29T08:17:11",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w965151303": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T08:17:13",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w965151300": {
@@ -195,7 +195,7 @@
   "corrections": {
    "nom": "Parking Botte Gardiane"
   },
-  "revu_le": "2026-09-29T08:17:59",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  },
  "osm:w965151294": {
@@ -205,7 +205,7 @@
   "corrections": {
    "nom": "Parking Caveau Charles Guitard"
   },
-  "revu_le": "2026-09-29T08:18:19",
+  "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
  }
 }

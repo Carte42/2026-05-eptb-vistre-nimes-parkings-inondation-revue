@@ -402,13 +402,7 @@
  },
  "osm_point:n13084116601": {
   "statut": "validee",
-  "streetview": {
-   "controle_le": "2026-09-29T08:18:59",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-09-29T08:32:45",
-  "operateur": "Allan",
+  "motif": null,
   "commentaire": "",
   "geometrie": {
    "type": "Polygon",
@@ -461,8 +455,14 @@
     ]
    ]
   },
-  "surf_m2": 4244,
+  "surf_m2": 4245.5,
   "nb_pl_est": 113,
-  "motif": null
+  "streetview": {
+   "controle_le": "2026-09-29T18:52:05",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-29T18:52:05",
+  "operateur": "Allan"
  }
 }

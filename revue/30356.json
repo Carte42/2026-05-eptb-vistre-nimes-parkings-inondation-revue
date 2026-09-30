@@ -3,60 +3,62 @@
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T16:39:50",
+  "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
  },
  "osm:w1216891319": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T16:39:53",
+  "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
  },
  "osm:w1011334693": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T16:39:57",
+  "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
  },
  "osm:w556364904": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T16:39:59",
+  "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
  },
  "osm:w556364898": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T16:40:17",
+  "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
  },
  "osm:w502847292": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T16:40:27",
+  "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
  },
  "osm:w47844954": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T16:40:32",
+  "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
  },
  "osm:w960652886": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T16:40:34",
+  "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
  },
  "osm_point:n1890287031": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -86,9 +88,7 @@
   },
   "surf_m2": 324.9,
   "nb_pl_est": 16,
-  "revu_le": "2026-09-29T16:40:46",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "revu_le": "2026-09-29T18:52:09",
+  "operateur": "Allan"
  }
 }

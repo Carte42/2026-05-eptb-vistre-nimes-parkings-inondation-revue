@@ -1,0 +1,67 @@
+{
+ "osm:w934305438": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:02:42",
+  "operateur": "Allan"
+ },
+ "bdtopo:EQ_RESEA0000002489369235": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:02:43",
+  "operateur": "Allan"
+ },
+ "osm:w934305452": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:02:45",
+  "operateur": "Allan"
+ },
+ "osm:w247575220": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-09-30T09:02:46",
+  "operateur": "Allan"
+ },
+ "osm:w26320059": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Action"
+  },
+  "revu_le": "2026-09-30T09:03:05",
+  "operateur": "Allan"
+ },
+ "osm:w1098073244": {
+  "statut": "validee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:03:22",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:03:43",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Biocoop"
+  }
+ },
+ "osm:w1024476698": {
+  "statut": "rejetee",
+  "streetview": {
+   "controle_le": "2026-09-30T09:03:57",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-09-30T09:04:32",
+  "operateur": "Allan",
+  "motif": "prive_ouvert",
+  "commentaire": ""
+ }
+}
