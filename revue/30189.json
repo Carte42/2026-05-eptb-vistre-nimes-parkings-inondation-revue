@@ -4310,13 +4310,15 @@
   "operateur": "Allan"
  },
  "osm:w1100619579": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-10-01T12:27:41",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-01T12:27:41",
-  "operateur": "Allan"
+  "revu_le": "2026-10-01T12:28:00",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
