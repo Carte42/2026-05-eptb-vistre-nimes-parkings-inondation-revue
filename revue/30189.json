@@ -4284,5 +4284,12 @@
   "corrections": {
    "nom": "Aire du marché"
   }
+ },
+ "osm_point:n8684325605": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-10-01T12:20:55",
+  "operateur": "Allan"
  }
 }
