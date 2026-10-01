@@ -4133,13 +4133,13 @@
   "operateur": "Allan"
  },
  "osm_point:n560810182": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-10-01T12:17:09",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-01T12:17:44",
+  "revu_le": "2026-10-01T12:17:46",
   "operateur": "Allan",
   "geometrie": {
    "type": "Polygon",
@@ -4173,6 +4173,8 @@
    ]
   },
   "surf_m2": 3262.4,
-  "nb_pl_est": 86
+  "nb_pl_est": 86,
+  "motif": null,
+  "commentaire": ""
  }
 }
