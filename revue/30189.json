@@ -3751,5 +3751,12 @@
   "commentaire": "",
   "revu_le": "2026-10-01T12:05:28",
   "operateur": "Allan"
+ },
+ "osm:w1019723545": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-01T12:05:33",
+  "operateur": "Allan"
  }
 }
