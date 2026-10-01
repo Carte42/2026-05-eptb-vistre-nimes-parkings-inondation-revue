@@ -3830,7 +3830,7 @@
   "operateur": "Allan"
  },
  "osm_point:n1681609605": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -3860,7 +3860,9 @@
   },
   "surf_m2": 250.3,
   "nb_pl_est": 13,
-  "revu_le": "2026-10-01T12:12:47",
-  "operateur": "Allan"
+  "revu_le": "2026-10-01T12:12:52",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
