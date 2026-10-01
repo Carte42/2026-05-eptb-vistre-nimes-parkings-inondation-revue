@@ -3672,7 +3672,12 @@
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-10-01T12:04:23",
-  "operateur": "Allan"
+  "revu_le": "2026-10-01T12:04:27",
+  "operateur": "Allan",
+  "streetview": {
+   "controle_le": "2026-10-01T12:04:27",
+   "date_vue": null,
+   "disponible": true
+  }
  }
 }
