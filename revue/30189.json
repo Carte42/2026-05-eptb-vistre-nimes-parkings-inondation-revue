@@ -4183,5 +4183,12 @@
   "commentaire": "",
   "revu_le": "2026-10-01T12:18:04",
   "operateur": "Allan"
+ },
+ "osm_point:n6461839922": {
+  "statut": "rejetee",
+  "motif": "souterrain",
+  "commentaire": "",
+  "revu_le": "2026-10-01T12:18:08",
+  "operateur": "Allan"
  }
 }
