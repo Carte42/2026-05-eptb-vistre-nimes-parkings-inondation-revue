@@ -593,8 +593,13 @@
   "statut": "rejetee",
   "motif": "prive",
   "commentaire": "Prétri agentique (Claude, 30/09/2026) : CROCO-IMMOBILIER (SCI, tag OSM private) — accès non mobilisable présumé, à confirmer.",
-  "revu_le": "2026-09-30T15:08:49",
-  "operateur": "Allan"
+  "revu_le": "2026-10-01T09:18:45",
+  "operateur": "Allan",
+  "streetview": {
+   "controle_le": "2026-10-01T09:18:45",
+   "date_vue": null,
+   "disponible": true
+  }
  },
  "osm:w1082267877": {
   "statut": "rejetee",
