@@ -4339,5 +4339,15 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "osm:w928168875": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-10-01T12:28:55",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-01T12:28:55",
+  "operateur": "Allan"
  }
 }
