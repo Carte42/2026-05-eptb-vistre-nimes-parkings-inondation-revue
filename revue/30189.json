@@ -3669,10 +3669,10 @@
   "operateur": "Allan"
  },
  "osm:w946545747": {
-  "statut": "validee",
-  "motif": null,
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
   "commentaire": "",
-  "revu_le": "2026-10-01T12:04:27",
+  "revu_le": "2026-10-01T12:04:37",
   "operateur": "Allan",
   "streetview": {
    "controle_le": "2026-10-01T12:04:27",
