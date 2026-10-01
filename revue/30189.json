@@ -4047,5 +4047,12 @@
   "commentaire": "",
   "revu_le": "2026-10-01T12:15:13",
   "operateur": "Allan"
+ },
+ "osm_point:n1683220183": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-10-01T12:15:23",
+  "operateur": "Allan"
  }
 }
