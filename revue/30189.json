@@ -4341,13 +4341,15 @@
   "commentaire": ""
  },
  "osm:w928168875": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-10-01T12:28:55",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-01T12:28:55",
-  "operateur": "Allan"
+  "revu_le": "2026-10-01T12:29:06",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
