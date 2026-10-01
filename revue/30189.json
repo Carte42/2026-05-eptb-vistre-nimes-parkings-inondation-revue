@@ -4298,5 +4298,15 @@
   "commentaire": "",
   "revu_le": "2026-10-01T12:21:00",
   "operateur": "Allan"
+ },
+ "osm:w46124855": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "corrections": {
+   "nom": "Parking Carrefour"
+  },
+  "revu_le": "2026-10-01T12:27:16",
+  "operateur": "Allan"
  }
 }
