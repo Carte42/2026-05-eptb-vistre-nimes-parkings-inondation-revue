@@ -3613,10 +3613,10 @@
   "commentaire": ""
  },
  "osm:w155799018": {
-  "statut": "validee",
-  "motif": null,
+  "statut": "rejetee",
+  "motif": "prive",
   "commentaire": "",
-  "revu_le": "2026-10-01T12:02:06",
+  "revu_le": "2026-10-01T12:02:11",
   "operateur": "Allan"
  }
 }
