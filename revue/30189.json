@@ -3036,13 +3036,15 @@
   "commentaire": ""
  },
  "osm:w153323525": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-10-01T09:52:05",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-01T09:52:05",
-  "operateur": "Allan"
+  "revu_le": "2026-10-01T09:54:35",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
  }
 }
