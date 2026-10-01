@@ -3411,13 +3411,15 @@
   "operateur": "Allan"
  },
  "osm:w1291161462": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-10-01T10:44:02",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-01T10:44:02",
-  "operateur": "Allan"
+  "revu_le": "2026-10-01T10:44:13",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
  }
 }
