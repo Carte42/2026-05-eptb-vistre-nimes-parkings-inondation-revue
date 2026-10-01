@@ -3374,5 +3374,12 @@
   "commentaire": "",
   "revu_le": "2026-10-01T10:42:58",
   "operateur": "Allan"
+ },
+ "osm:w155799019": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-10-01T10:43:03",
+  "operateur": "Allan"
  }
 }
