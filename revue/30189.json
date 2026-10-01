@@ -3625,5 +3625,12 @@
   "commentaire": "",
   "revu_le": "2026-10-01T12:03:19",
   "operateur": "Allan"
+ },
+ "osm:w39070542": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "",
+  "revu_le": "2026-10-01T12:03:29",
+  "operateur": "Allan"
  }
 }
