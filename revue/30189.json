@@ -3679,5 +3679,12 @@
    "date_vue": null,
    "disponible": true
   }
+ },
+ "osm:w954232981": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-01T12:04:45",
+  "operateur": "Allan"
  }
 }
