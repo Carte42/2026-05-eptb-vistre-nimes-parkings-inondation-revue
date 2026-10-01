@@ -94,8 +94,13 @@
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-29T08:05:58",
-  "operateur": "Allan"
+  "revu_le": "2026-10-01T12:39:55",
+  "operateur": "Allan",
+  "streetview": {
+   "controle_le": "2026-10-01T12:39:55",
+   "date_vue": null,
+   "disponible": true
+  }
  },
  "osm:w77128452": {
   "statut": "validee",
