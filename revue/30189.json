@@ -3107,5 +3107,12 @@
   "commentaire": "",
   "revu_le": "2026-10-01T10:02:01",
   "operateur": "Allan"
+ },
+ "osm:w903893595": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-01T10:02:07",
+  "operateur": "Allan"
  }
 }
