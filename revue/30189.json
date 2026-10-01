@@ -3906,5 +3906,12 @@
   "commentaire": "",
   "revu_le": "2026-10-01T12:13:36",
   "operateur": "Allan"
+ },
+ "osm_point:n1681609680": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "",
+  "revu_le": "2026-10-01T12:13:41",
+  "operateur": "Allan"
  }
 }
