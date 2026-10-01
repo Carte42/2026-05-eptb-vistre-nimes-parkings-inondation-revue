@@ -473,10 +473,10 @@
   "operateur": "Allan"
  },
  "osm:w505004876": {
-  "statut": "rejetee",
-  "motif": "prive",
+  "statut": "validee",
+  "motif": null,
   "commentaire": "Prétri agentique (Claude, 30/09/2026) : GGP IMMO (SCI) — accès non mobilisable présumé, à confirmer.",
-  "revu_le": "2026-09-30T15:08:48",
+  "revu_le": "2026-10-01T09:54:57",
   "operateur": "Allan"
  },
  "osm:w1082267875": {
