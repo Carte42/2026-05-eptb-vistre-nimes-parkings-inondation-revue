@@ -351,10 +351,10 @@
   }
  },
  "osm:w929882645": {
-  "statut": "rejetee",
-  "motif": "prive",
+  "statut": "validee",
+  "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-30T10:56:31",
+  "revu_le": "2026-10-01T12:02:02",
   "operateur": "Allan"
  },
  "osm:w572205073": {
