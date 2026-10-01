@@ -3660,5 +3660,12 @@
   "commentaire": "",
   "revu_le": "2026-10-01T12:04:04",
   "operateur": "Allan"
+ },
+ "osm:w926212391": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-10-01T12:04:10",
+  "operateur": "Allan"
  }
 }
