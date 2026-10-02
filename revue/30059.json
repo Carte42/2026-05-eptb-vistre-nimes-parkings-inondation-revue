@@ -173,7 +173,7 @@
     ]
    ]
   },
-  "surf_m2": 255,
+  "surf_m2": 255.0,
   "nb_pl_est": 13,
   "streetview": {
    "controle_le": "2026-09-29T18:52:06",
