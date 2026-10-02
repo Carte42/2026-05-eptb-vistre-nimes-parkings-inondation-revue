@@ -31,8 +31,13 @@
   "statut": "rejetee",
   "motif": "prive",
   "commentaire": "",
-  "revu_le": "2026-09-29T18:52:06",
-  "operateur": "Allan"
+  "revu_le": "2026-10-02T13:47:44",
+  "operateur": "Allan",
+  "streetview": {
+   "controle_le": "2026-10-02T13:47:44",
+   "date_vue": null,
+   "disponible": true
+  }
  },
  "osm:w642498712": {
   "statut": "rejetee",
@@ -168,7 +173,7 @@
     ]
    ]
   },
-  "surf_m2": 255.0,
+  "surf_m2": 255,
   "nb_pl_est": 13,
   "streetview": {
    "controle_le": "2026-09-29T18:52:06",
