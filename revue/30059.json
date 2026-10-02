@@ -28,13 +28,13 @@
   "operateur": "Allan"
  },
  "osm:w1500339522": {
-  "statut": "rejetee",
-  "motif": "prive",
-  "commentaire": "",
-  "revu_le": "2026-10-02T13:47:44",
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rejet du 30/09 au motif « privé » fondé sur une proposition foncière fausse : l'identifiant du fichier DGFiP ne s'appariait pas au cadastre sur les communes à sections d'une seule lettre (D25). Foncier corrigé, aire réexaminée le 02/10 et reconnue mobilisable. Le Cailar, aux abords de la place de la Saint-Jean Statut proposé : public.",
+  "revu_le": "2026-10-02T15:53:31",
   "operateur": "Allan",
   "streetview": {
-   "controle_le": "2026-10-02T13:47:44",
+   "controle_le": "2026-10-02T15:50:25",
    "date_vue": null,
    "disponible": true
   }

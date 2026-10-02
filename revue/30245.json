@@ -50,16 +50,16 @@
   "commentaire": ""
  },
  "osm:w219473456": {
-  "statut": "rejetee",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-30T09:00:45",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-30T09:01:43",
+  "revu_le": "2026-10-02T15:53:31",
   "operateur": "Allan",
-  "motif": "prive",
-  "commentaire": ""
+  "motif": null,
+  "commentaire": "Rejet du 30/09 au motif « privé » fondé sur une proposition foncière fausse : l'identifiant du fichier DGFiP ne s'appariait pas au cadastre sur les communes à sections d'une seule lettre (D25). Foncier corrigé, aire réexaminée le 02/10 et reconnue mobilisable. Saint-Côme-et-Maruéjols, en cœur de village près de la salle Statut proposé : mixte."
  },
  "osm:w1364061641": {
   "statut": "rejetee",

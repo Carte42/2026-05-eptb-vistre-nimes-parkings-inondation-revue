@@ -14,15 +14,15 @@
   "operateur": "Allan"
  },
  "osm:w1442600303": {
-  "statut": "rejetee",
-  "motif": "prive",
-  "commentaire": "",
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rejet du 30/09 au motif « privé » fondé sur une proposition foncière fausse : l'identifiant du fichier DGFiP ne s'appariait pas au cadastre sur les communes à sections d'une seule lettre (D25). Foncier corrigé, aire réexaminée le 02/10 et reconnue mobilisable. Nages-et-Solorgues, devant l'école primaire Statut proposé : public.",
   "streetview": {
    "controle_le": "2026-09-29T18:52:09",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T18:52:09",
+  "revu_le": "2026-10-02T15:53:31",
   "operateur": "Allan"
  },
  "osm_point:n13775191522": {

@@ -85,10 +85,10 @@
   "operateur": "Allan"
  },
  "osm:w1091931727": {
-  "statut": "rejetee",
-  "motif": "prive",
-  "commentaire": "",
-  "revu_le": "2026-09-29T18:52:06",
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rejet du 30/09 au motif « privé » fondé sur une proposition foncière fausse : l'identifiant du fichier DGFiP ne s'appariait pas au cadastre sur les communes à sections d'une seule lettre (D25). Foncier corrigé, aire réexaminée le 02/10 et reconnue mobilisable. Beauvoisin, desserte de l'EHPAD Résidence Petite Camargue Statut proposé : public.",
+  "revu_le": "2026-10-02T15:53:31",
   "operateur": "Allan"
  }
 }
