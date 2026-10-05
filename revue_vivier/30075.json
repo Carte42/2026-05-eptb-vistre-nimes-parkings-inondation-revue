@@ -56,5 +56,12 @@
   "surf_m2": 1030.2,
   "nb_pl_est": 39,
   "commentaire": ""
+ },
+ "vivier:30075:010": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "",
+  "revu_le": "2026-10-05T16:40:06",
+  "operateur": "Allan"
  }
 }
