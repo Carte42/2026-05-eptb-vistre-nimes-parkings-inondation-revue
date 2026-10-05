@@ -128,5 +128,12 @@
   "commentaire": "",
   "revu_le": "2026-10-05T10:45:30",
   "operateur": "Allan"
+ },
+ "vivier:30004:005": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-10-05T10:45:50",
+  "operateur": "Allan"
  }
 }
