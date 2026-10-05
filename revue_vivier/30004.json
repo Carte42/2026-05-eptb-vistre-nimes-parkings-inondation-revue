@@ -137,13 +137,15 @@
   "operateur": "Allan"
  },
  "vivier:30004:011": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-10-05T11:24:37",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-05T11:24:37",
-  "operateur": "Allan"
+  "revu_le": "2026-10-05T11:58:41",
+  "operateur": "Allan",
+  "motif": "pas_parking",
+  "commentaire": ""
  }
 }
