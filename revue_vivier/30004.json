@@ -61,7 +61,7 @@
   "commentaire": ""
  },
  "vivier:30004:003": {
-  "statut": "a_revoir",
+  "statut": "a_controler",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -111,7 +111,8 @@
   },
   "surf_m2": 3075.3,
   "nb_pl_est": 81,
-  "revu_le": "2026-10-05T10:16:46",
-  "operateur": "Allan"
+  "revu_le": "2026-10-05T10:17:29",
+  "operateur": "Allan",
+  "commentaire": ""
  }
 }
