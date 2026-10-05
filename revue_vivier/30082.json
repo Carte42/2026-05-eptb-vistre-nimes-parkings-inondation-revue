@@ -6,9 +6,38 @@
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-05T16:42:29",
+  "revu_le": "2026-10-05T16:42:42",
   "operateur": "Allan",
   "motif": null,
-  "commentaire": ""
+  "commentaire": "",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.222508,
+      43.827824
+     ],
+     [
+      4.223097,
+      43.827923
+     ],
+     [
+      4.223177,
+      43.827669
+     ],
+     [
+      4.222559,
+      43.827554
+     ],
+     [
+      4.222508,
+      43.827824
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 1476.2,
+  "nb_pl_est": 48
  }
 }
