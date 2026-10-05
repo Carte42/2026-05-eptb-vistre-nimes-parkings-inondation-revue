@@ -19,13 +19,15 @@
   "operateur": "Allan"
  },
  "vivier:30057:015": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-10-05T15:40:10",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-05T15:40:10",
-  "operateur": "Allan"
+  "revu_le": "2026-10-05T15:40:24",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
  }
 }
