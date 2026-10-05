@@ -12,13 +12,15 @@
   "commentaire": ""
  },
  "vivier:30062:012": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-10-05T16:30:31",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-05T16:30:31",
-  "operateur": "Allan"
+  "revu_le": "2026-10-05T16:30:59",
+  "operateur": "Allan",
+  "motif": "pas_parking",
+  "commentaire": ""
  }
 }
