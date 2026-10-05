@@ -99,7 +99,7 @@
   "commentaire": ""
  },
  "vivier:30003:020": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -129,7 +129,9 @@
   },
   "surf_m2": 459.6,
   "nb_pl_est": 21,
-  "revu_le": "2026-10-05T09:38:19",
-  "operateur": "Allan"
+  "revu_le": "2026-10-05T09:38:20",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
