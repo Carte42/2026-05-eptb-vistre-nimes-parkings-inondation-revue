@@ -61,13 +61,15 @@
   "commentaire": ""
  },
  "vivier:30047:002": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-10-05T13:56:34",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-05T13:56:34",
-  "operateur": "Allan"
+  "revu_le": "2026-10-05T13:57:23",
+  "operateur": "Allan",
+  "motif": "moins_10",
+  "commentaire": ""
  }
 }
