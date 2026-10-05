@@ -51,5 +51,15 @@
   "nb_pl_est": 32,
   "motif": "prive",
   "commentaire": ""
+ },
+ "vivier:30036:004": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-10-05T13:27:56",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-05T13:27:56",
+  "operateur": "Allan"
  }
 }
