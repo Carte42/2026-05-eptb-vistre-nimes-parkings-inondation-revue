@@ -33,5 +33,12 @@
   "commentaire": "",
   "revu_le": "2026-10-05T12:42:01",
   "operateur": "Allan"
+ },
+ "vivier:30006:040": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "",
+  "revu_le": "2026-10-05T12:42:10",
+  "operateur": "Allan"
  }
 }
