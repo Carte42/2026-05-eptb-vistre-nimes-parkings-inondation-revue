@@ -1,12 +1,14 @@
 {
  "vivier:30003:006": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-10-05T08:53:36",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-05T08:53:36",
-  "operateur": "Allan"
+  "revu_le": "2026-10-05T09:32:34",
+  "operateur": "Allan",
+  "motif": "espace_naturel",
+  "commentaire": ""
  }
 }
