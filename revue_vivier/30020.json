@@ -55,13 +55,15 @@
   "commentaire": ""
  },
  "vivier:30020:009": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-10-05T12:55:45",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-05T12:55:45",
-  "operateur": "Allan"
+  "revu_le": "2026-10-05T12:55:59",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
