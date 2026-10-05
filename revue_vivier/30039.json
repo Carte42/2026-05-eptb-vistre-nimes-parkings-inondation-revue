@@ -79,7 +79,7 @@
   "operateur": "Allan"
  },
  "vivier:30039:003": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -109,7 +109,9 @@
   },
   "surf_m2": 843.6,
   "nb_pl_est": 34,
-  "revu_le": "2026-10-05T13:33:25",
-  "operateur": "Allan"
+  "revu_le": "2026-10-05T13:33:27",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
