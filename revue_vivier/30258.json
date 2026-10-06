@@ -98,5 +98,12 @@
   "commentaire": "",
   "revu_le": "2026-10-06T09:55:06",
   "operateur": "Allan"
+ },
+ "vivier:30258:012": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-10-06T09:55:17",
+  "operateur": "Allan"
  }
 }
