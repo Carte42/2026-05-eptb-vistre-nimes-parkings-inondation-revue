@@ -49,7 +49,7 @@
   }
  },
  "vivier:30128:013": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -103,7 +103,9 @@
   },
   "surf_m2": 2019.4,
   "nb_pl_est": 56,
-  "revu_le": "2026-10-06T08:58:44",
-  "operateur": "Allan"
+  "revu_le": "2026-10-06T08:58:46",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
