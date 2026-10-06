@@ -103,13 +103,13 @@
   "commentaire": ""
  },
  "vivier:30341:023": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-10-06T14:29:19",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-06T14:29:49",
+  "revu_le": "2026-10-06T14:29:51",
   "operateur": "Allan",
   "geometrie": {
    "type": "Polygon",
@@ -163,6 +163,8 @@
    ]
   },
   "surf_m2": 942.2,
-  "nb_pl_est": 37
+  "nb_pl_est": 37,
+  "motif": null,
+  "commentaire": ""
  }
 }
