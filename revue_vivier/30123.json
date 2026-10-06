@@ -17,5 +17,15 @@
   "commentaire": "",
   "revu_le": "2026-10-06T08:55:44",
   "operateur": "Allan"
+ },
+ "vivier:30123:017": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-10-06T08:55:51",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-06T08:55:51",
+  "operateur": "Allan"
  }
 }
