@@ -168,5 +168,43 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": "Parking refait recemment, mieux rangé (2026)"
+ },
+ "vivier:30189:168": {
+  "statut": "a_revoir",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.340815,
+      43.825255
+     ],
+     [
+      4.340326,
+      43.825023
+     ],
+     [
+      4.340391,
+      43.824893
+     ],
+     [
+      4.340624,
+      43.824952
+     ],
+     [
+      4.34097,
+      43.825238
+     ],
+     [
+      4.340815,
+      43.825255
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 841.2,
+  "nb_pl_est": 34,
+  "revu_le": "2026-10-06T14:40:42",
+  "operateur": "Allan"
  }
 }
