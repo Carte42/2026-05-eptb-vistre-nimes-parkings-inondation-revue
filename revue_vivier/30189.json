@@ -132,5 +132,15 @@
   "surf_m2": 2925.4,
   "nb_pl_est": 77,
   "commentaire": ""
+ },
+ "vivier:30189:212": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-10-06T14:37:11",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-06T14:37:11",
+  "operateur": "Allan"
  }
 }
