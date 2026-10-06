@@ -107,13 +107,13 @@
   "operateur": "Allan"
  },
  "vivier:30258:010": {
-  "statut": "a_revoir",
+  "statut": "a_controler",
   "streetview": {
    "controle_le": "2026-10-06T09:55:28",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-06T09:56:11",
+  "revu_le": "2026-10-06T09:56:13",
   "operateur": "Allan",
   "geometrie": {
    "type": "Polygon",
@@ -151,6 +151,7 @@
    ]
   },
   "surf_m2": 4768.4,
-  "nb_pl_est": 127
+  "nb_pl_est": 127,
+  "commentaire": ""
  }
 }
