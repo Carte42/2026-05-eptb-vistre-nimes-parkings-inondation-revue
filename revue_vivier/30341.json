@@ -91,13 +91,15 @@
   }
  },
  "vivier:30341:017": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-10-06T14:28:53",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-06T14:28:53",
-  "operateur": "Allan"
+  "revu_le": "2026-10-06T14:29:12",
+  "operateur": "Allan",
+  "motif": "pas_parking",
+  "commentaire": ""
  }
 }
