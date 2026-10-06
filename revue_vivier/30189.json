@@ -865,7 +865,7 @@
   "commentaire": ""
  },
  "vivier:30189:226": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -959,7 +959,9 @@
   },
   "surf_m2": 2870.4,
   "nb_pl_est": 75,
-  "revu_le": "2026-10-06T15:58:05",
-  "operateur": "Allan"
+  "revu_le": "2026-10-06T15:58:07",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
