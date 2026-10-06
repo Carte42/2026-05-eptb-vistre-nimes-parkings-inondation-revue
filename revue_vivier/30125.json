@@ -38,5 +38,12 @@
   },
   "surf_m2": 561.2,
   "nb_pl_est": 25
+ },
+ "vivier:30125:007": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-10-06T08:56:51",
+  "operateur": "Allan"
  }
 }
