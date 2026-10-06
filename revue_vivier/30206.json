@@ -43,7 +43,7 @@
   "operateur": "Allan"
  },
  "vivier:30206:006": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -77,7 +77,9 @@
   },
   "surf_m2": 1215.1,
   "nb_pl_est": 43,
-  "revu_le": "2026-10-06T09:39:59",
-  "operateur": "Allan"
+  "revu_le": "2026-10-06T09:40:02",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
