@@ -144,5 +144,15 @@
   "operateur": "Allan",
   "motif": "prive",
   "commentaire": ""
+ },
+ "vivier:30189:252": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-10-06T14:38:16",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-06T14:38:16",
+  "operateur": "Allan"
  }
 }
