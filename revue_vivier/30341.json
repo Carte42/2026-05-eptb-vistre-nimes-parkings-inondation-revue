@@ -101,5 +101,15 @@
   "operateur": "Allan",
   "motif": "pas_parking",
   "commentaire": ""
+ },
+ "vivier:30341:023": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-10-06T14:29:19",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-06T14:29:19",
+  "operateur": "Allan"
  }
 }
