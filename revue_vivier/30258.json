@@ -50,5 +50,15 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "vivier:30258:050": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-10-06T09:54:42",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-06T09:54:42",
+  "operateur": "Allan"
  }
 }
