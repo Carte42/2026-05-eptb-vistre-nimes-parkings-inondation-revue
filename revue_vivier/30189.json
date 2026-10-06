@@ -627,5 +627,12 @@
    "date_vue": null,
    "disponible": true
   }
+ },
+ "vivier:30189:138": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-10-06T15:38:18",
+  "operateur": "Allan"
  }
 }
