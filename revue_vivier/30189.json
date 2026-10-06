@@ -134,13 +134,15 @@
   "commentaire": ""
  },
  "vivier:30189:212": {
-  "statut": "a_revoir",
+  "statut": "rejetee",
   "streetview": {
    "controle_le": "2026-10-06T14:37:11",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-06T14:37:11",
-  "operateur": "Allan"
+  "revu_le": "2026-10-06T14:37:50",
+  "operateur": "Allan",
+  "motif": "prive",
+  "commentaire": ""
  }
 }
