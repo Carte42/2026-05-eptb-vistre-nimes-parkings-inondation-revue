@@ -618,9 +618,14 @@
   },
   "surf_m2": 3707.4,
   "nb_pl_est": 98,
-  "revu_le": "2026-10-06T15:37:04",
+  "revu_le": "2026-10-06T15:37:08",
   "operateur": "Allan",
   "motif": null,
-  "commentaire": ""
+  "commentaire": "",
+  "streetview": {
+   "controle_le": "2026-10-06T15:37:08",
+   "date_vue": null,
+   "disponible": true
+  }
  }
 }
