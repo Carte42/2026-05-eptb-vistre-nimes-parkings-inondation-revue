@@ -10,5 +10,15 @@
   "operateur": "Allan",
   "motif": "espace_naturel",
   "commentaire": ""
+ },
+ "vivier:30138:014": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-10-06T09:03:18",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-06T09:03:18",
+  "operateur": "Allan"
  }
 }
