@@ -1306,7 +1306,7 @@
   "operateur": "Allan"
  },
  "vivier:30189:307": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -1344,7 +1344,9 @@
   },
   "surf_m2": 741.3,
   "nb_pl_est": 31,
-  "revu_le": "2026-10-07T04:59:12",
-  "operateur": "Allan"
+  "revu_le": "2026-10-07T04:59:14",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
