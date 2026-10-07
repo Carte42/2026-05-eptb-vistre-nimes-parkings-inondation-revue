@@ -1381,5 +1381,15 @@
    "date_vue": null,
    "disponible": true
   }
+ },
+ "vivier:30189:457": {
+  "statut": "a_revoir",
+  "streetview": {
+   "controle_le": "2026-10-07T05:00:28",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-07T05:00:28",
+  "operateur": "Allan"
  }
 }
