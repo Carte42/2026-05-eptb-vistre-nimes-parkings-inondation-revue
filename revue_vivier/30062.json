@@ -1,26 +1,26 @@
 {
  "vivier:30062:013": {
   "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-05T16:30:12",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-05T16:30:25",
-  "operateur": "Allan",
-  "motif": "prive",
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30062:012": {
   "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-05T16:30:31",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-05T16:31:24",
-  "operateur": "Allan",
-  "motif": "prive",
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

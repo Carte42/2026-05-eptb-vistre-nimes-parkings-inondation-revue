@@ -1,14 +1,14 @@
 {
  "vivier:30333:009": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-06T14:26:14",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-06T14:27:15",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

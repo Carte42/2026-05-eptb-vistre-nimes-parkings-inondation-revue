@@ -1,15 +1,15 @@
 {
  "vivier:30123:013": {
   "statut": "rejetee",
+  "motif": "espace_naturel",
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-06T08:55:27",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-06T08:55:39",
-  "operateur": "Allan",
-  "motif": "espace_naturel",
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30123:014": {
   "statut": "rejetee",
@@ -20,14 +20,14 @@
  },
  "vivier:30123:017": {
   "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-06T08:55:51",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-06T08:56:19",
-  "operateur": "Allan",
-  "motif": "prive_ouvert",
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

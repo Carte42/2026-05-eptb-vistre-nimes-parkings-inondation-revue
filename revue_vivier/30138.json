@@ -1,25 +1,20 @@
 {
  "vivier:30138:019": {
   "statut": "rejetee",
+  "motif": "espace_naturel",
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-06T09:02:50",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-06T09:03:09",
-  "operateur": "Allan",
-  "motif": "espace_naturel",
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30138:014": {
   "statut": "validee",
-  "streetview": {
-   "controle_le": "2026-10-06T09:03:18",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-10-06T09:03:54",
-  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -49,7 +44,12 @@
   },
   "surf_m2": 501.2,
   "nb_pl_est": 23,
-  "motif": null,
-  "commentaire": ""
+  "streetview": {
+   "controle_le": "2026-10-06T09:03:18",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-06T09:03:54",
+  "operateur": "Allan"
  }
 }

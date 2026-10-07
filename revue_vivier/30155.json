@@ -1,6 +1,8 @@
 {
  "vivier:30155-30211:012": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -28,12 +30,10 @@
     ]
    ]
   },
-  "surf_m2": 510.2,
+  "surf_m2": 510.1,
   "nb_pl_est": 23,
   "revu_le": "2026-10-06T09:07:45",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30155-30211:046": {
   "statut": "rejetee",
@@ -44,6 +44,8 @@
  },
  "vivier:30155-30211:010": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -74,8 +76,6 @@
   "surf_m2": 1967.9,
   "nb_pl_est": 55,
   "revu_le": "2026-10-06T09:08:11",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

@@ -1,13 +1,6 @@
 {
  "vivier:30082:006": {
   "statut": "validee",
-  "streetview": {
-   "controle_le": "2026-10-05T16:41:15",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-10-05T16:42:44",
-  "operateur": "Allan",
   "motif": null,
   "commentaire": "",
   "geometrie": {
@@ -38,6 +31,13 @@
    ]
   },
   "surf_m2": 1476.2,
-  "nb_pl_est": 48
+  "nb_pl_est": 48,
+  "streetview": {
+   "controle_le": "2026-10-05T16:41:15",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-05T16:42:44",
+  "operateur": "Allan"
  }
 }

@@ -3,8 +3,6 @@
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-10-06T08:56:40",
-  "operateur": "Allan",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -37,7 +35,9 @@
    ]
   },
   "surf_m2": 561.2,
-  "nb_pl_est": 25
+  "nb_pl_est": 25,
+  "revu_le": "2026-10-06T08:56:40",
+  "operateur": "Allan"
  },
  "vivier:30125:007": {
   "statut": "rejetee",

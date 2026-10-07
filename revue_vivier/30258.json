@@ -1,6 +1,8 @@
 {
  "vivier:30258:034": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -44,22 +46,15 @@
     ]
    ]
   },
-  "surf_m2": 752.5,
+  "surf_m2": 752.7,
   "nb_pl_est": 31,
   "revu_le": "2026-10-06T09:54:36",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30258:050": {
   "statut": "validee",
-  "streetview": {
-   "controle_le": "2026-10-06T09:54:42",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-10-06T09:55:00",
-  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -87,10 +82,15 @@
     ]
    ]
   },
-  "surf_m2": 865.9,
+  "surf_m2": 866.1,
   "nb_pl_est": 35,
-  "motif": null,
-  "commentaire": ""
+  "streetview": {
+   "controle_le": "2026-10-06T09:54:42",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-06T09:55:00",
+  "operateur": "Allan"
  },
  "vivier:30258:055": {
   "statut": "validee",
@@ -108,13 +108,7 @@
  },
  "vivier:30258:010": {
   "statut": "a_controler",
-  "streetview": {
-   "controle_le": "2026-10-06T09:55:28",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-10-06T09:56:13",
-  "operateur": "Allan",
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -150,12 +144,20 @@
     ]
    ]
   },
-  "surf_m2": 4768.4,
+  "surf_m2": 4769.3,
   "nb_pl_est": 127,
-  "commentaire": ""
+  "streetview": {
+   "controle_le": "2026-10-06T09:55:28",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-06T09:56:13",
+  "operateur": "Allan"
  },
  "vivier:30258:021": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -211,12 +213,10 @@
     ]
    ]
   },
-  "surf_m2": 1649.9,
+  "surf_m2": 1650.2,
   "nb_pl_est": 51,
   "revu_le": "2026-10-06T09:56:36",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30258:052": {
   "statut": "rejetee",
@@ -227,6 +227,8 @@
  },
  "vivier:30258:049": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -258,15 +260,15 @@
     ]
    ]
   },
-  "surf_m2": 842.3,
+  "surf_m2": 842.4,
   "nb_pl_est": 34,
   "revu_le": "2026-10-06T09:56:56",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30258:023": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -294,17 +296,15 @@
     ]
    ]
   },
-  "surf_m2": 1773.5,
+  "surf_m2": 1773.8,
   "nb_pl_est": 52,
-  "revu_le": "2026-10-06T14:22:04",
-  "operateur": "Allan",
   "streetview": {
    "controle_le": "2026-10-06T14:21:03",
    "date_vue": null,
    "disponible": true
   },
-  "motif": null,
-  "commentaire": ""
+  "revu_le": "2026-10-06T14:22:04",
+  "operateur": "Allan"
  },
  "vivier:30258:008": {
   "statut": "rejetee",
@@ -315,6 +315,8 @@
  },
  "vivier:30258:004": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -342,11 +344,9 @@
     ]
    ]
   },
-  "surf_m2": 492.7,
+  "surf_m2": 492.8,
   "nb_pl_est": 22,
   "revu_le": "2026-10-06T14:22:00",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

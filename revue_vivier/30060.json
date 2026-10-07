@@ -8,14 +8,14 @@
  },
  "vivier:30060:006": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-05T16:01:46",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-05T16:02:21",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

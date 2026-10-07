@@ -1,15 +1,15 @@
 {
  "vivier:30003:006": {
   "statut": "rejetee",
+  "motif": "espace_naturel",
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-05T08:53:36",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-05T09:32:34",
-  "operateur": "Allan",
-  "motif": "espace_naturel",
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30003:008": {
   "statut": "rejetee",
@@ -20,6 +20,8 @@
  },
  "vivier:30003:016": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -55,23 +57,21 @@
     ]
    ]
   },
-  "surf_m2": 451.6,
+  "surf_m2": 451.8,
   "nb_pl_est": 21,
   "revu_le": "2026-10-05T09:33:48",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30003:022": {
   "statut": "a_controler",
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-05T09:34:35",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-05T09:35:30",
-  "operateur": "Allan",
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30003:011": {
   "statut": "a_controler",
@@ -88,18 +88,20 @@
  },
  "vivier:30003:018": {
   "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-05T09:36:45",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-05T09:37:45",
-  "operateur": "Allan",
-  "motif": "pas_parking",
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30003:020": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -127,11 +129,9 @@
     ]
    ]
   },
-  "surf_m2": 459.6,
+  "surf_m2": 459.7,
   "nb_pl_est": 21,
   "revu_le": "2026-10-05T09:38:20",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

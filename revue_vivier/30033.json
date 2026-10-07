@@ -1,6 +1,8 @@
 {
  "vivier:30033:001": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -52,12 +54,10 @@
     ]
    ]
   },
-  "surf_m2": 3092.2,
+  "surf_m2": 3092.6,
   "nb_pl_est": 81,
   "revu_le": "2026-10-05T12:56:43",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30033:007": {
   "statut": "rejetee",
@@ -75,13 +75,8 @@
  },
  "vivier:30033:008": {
   "statut": "validee",
-  "streetview": {
-   "controle_le": "2026-10-05T12:57:12",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-10-05T12:57:55",
-  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -125,10 +120,15 @@
     ]
    ]
   },
-  "surf_m2": 1697.8,
+  "surf_m2": 1698.0,
   "nb_pl_est": 51,
-  "motif": null,
-  "commentaire": ""
+  "streetview": {
+   "controle_le": "2026-10-05T12:57:12",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-05T12:57:55",
+  "operateur": "Allan"
  },
  "vivier:30033:012": {
   "statut": "validee",
@@ -160,15 +160,15 @@
  },
  "vivier:30033:015": {
   "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-05T12:58:31",
    "date_vue": null,
    "disponible": true
   },
   "revu_le": "2026-10-05T12:58:55",
-  "operateur": "Allan",
-  "motif": "moins_10",
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "vivier:30033:002": {
   "statut": "rejetee",

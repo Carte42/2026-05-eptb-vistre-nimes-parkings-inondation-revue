@@ -73,8 +73,9 @@
  "manuel:20260929080543": {
   "statut": "validee",
   "commentaire": "Aire ajoutée à la main",
-  "revu_le": "2026-09-29T08:05:43",
-  "operateur": "Allan"
+  "revu_le": "2026-09-29T08:32:49",
+  "operateur": "Allan",
+  "motif": null
  },
  "osm:w77128470": {
   "statut": "validee",
