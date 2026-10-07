@@ -1374,7 +1374,12 @@
   "statut": "rejetee",
   "motif": "prive",
   "commentaire": "",
-  "revu_le": "2026-10-07T04:59:45",
-  "operateur": "Allan"
+  "revu_le": "2026-10-07T05:00:00",
+  "operateur": "Allan",
+  "streetview": {
+   "controle_le": "2026-10-07T05:00:00",
+   "date_vue": null,
+   "disponible": true
+  }
  }
 }
