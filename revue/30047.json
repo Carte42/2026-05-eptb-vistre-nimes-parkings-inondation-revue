@@ -54,11 +54,6 @@
   "commentaire": "",
   "revu_le": "2026-10-13T16:01:57",
   "operateur": "Allan",
-  "streetview": {
-   "controle_le": "2026-10-13T15:59:49",
-   "date_vue": null,
-   "disponible": true
-  },
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -143,7 +138,12 @@
    ]
   },
   "surf_m2": 1976.6,
-  "nb_pl_est": 55
+  "nb_pl_est": 55,
+  "streetview": {
+   "controle_le": "2026-10-13T15:59:49",
+   "date_vue": null,
+   "disponible": true
+  }
  },
  "osm:w172322567": {
   "statut": "validee",
