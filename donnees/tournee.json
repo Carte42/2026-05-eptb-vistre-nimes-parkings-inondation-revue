@@ -780,72 +780,6 @@
  ],
  "jours": [
   {
-   "id": "mer",
-   "libelle": "Mercredi 4 novembre",
-   "date": "2026-11-04",
-   "debut": "15:30",
-   "fin": "17:30",
-   "etapes": [
-    {
-     "ordre": 1,
-     "cle": "PK_30344_013",
-     "heure": "15:44",
-     "commune": "Vergèze",
-     "nom": "Ombrage - Vergèze espace",
-     "classe": "grande",
-     "surf_m2": 2408
-    },
-    {
-     "ordre": 2,
-     "cle": "PK_30344_014",
-     "heure": "15:58",
-     "commune": "Vergèze",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 2213
-    },
-    {
-     "ordre": 3,
-     "cle": "PK_30344_022",
-     "heure": "16:11",
-     "commune": "Vergèze",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 2085
-    },
-    {
-     "ordre": 4,
-     "cle": "PK_30344_018",
-     "heure": "16:25",
-     "commune": "Vergèze",
-     "nom": "Parking Maurin",
-     "classe": "moyenne",
-     "surf_m2": 1234
-    },
-    {
-     "ordre": 5,
-     "cle": "PK_30004_013",
-     "heure": "16:43",
-     "commune": "Aigues-Vives",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 3468
-    },
-    {
-     "ordre": 6,
-     "cle": "PK_30004_006",
-     "heure": "16:58",
-     "commune": "Aigues-Vives",
-     "nom": "Parking complexe sportif",
-     "classe": "grande",
-     "surf_m2": 2144
-    }
-   ],
-   "km": 31,
-   "fin_visites": "17:08",
-   "retour": "17:30"
-  },
-  {
    "id": "jeu",
    "libelle": "Jeudi 5 novembre",
    "date": "2026-11-05",
@@ -1238,262 +1172,245 @@
    "etapes": [
     {
      "ordre": 1,
-     "cle": "PK_30062_009",
-     "heure": "08:19",
-     "commune": "Calvisson",
-     "nom": null,
-     "classe": "moyenne",
-     "surf_m2": 1215
-    },
-    {
-     "ordre": 2,
-     "cle": "PK_30062_005",
-     "heure": "08:33",
-     "commune": "Calvisson",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 3007
-    },
-    {
-     "ordre": 3,
-     "cle": "PK_30062_003",
-     "heure": "08:49",
-     "commune": "Calvisson",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 4102
-    },
-    {
-     "ordre": 4,
-     "cle": "PK_30075_002",
-     "heure": "09:15",
-     "commune": "Caveirac",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 3236
-    },
-    {
-     "ordre": 5,
-     "cle": "PK_30075_003",
-     "heure": "09:29",
-     "commune": "Caveirac",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 2834
-    },
-    {
-     "ordre": 6,
-     "cle": "PK_30206_002",
-     "heure": "10:03",
-     "commune": "Poulx",
-     "nom": "Parking Ecole Georges Brassens",
-     "classe": "moyenne",
-     "surf_m2": 1933
-    },
-    {
-     "ordre": 7,
-     "cle": "PK_30206_001",
-     "heure": "10:17",
-     "commune": "Poulx",
-     "nom": "Place foraine",
-     "classe": "grande",
-     "surf_m2": 6124
-    },
-    {
-     "ordre": 8,
-     "cle": "PK_30257_001",
-     "heure": "10:46",
-     "commune": "Saint-Gervasy",
-     "nom": "Place du Marché",
-     "classe": "grande",
-     "surf_m2": 2723
-    },
-    {
-     "ordre": 9,
-     "cle": "PK_30156_006",
-     "heure": "11:03",
-     "commune": "Marguerittes",
-     "nom": "Aire voie rapide",
-     "classe": "grande",
-     "surf_m2": 2976
-    },
-    {
-     "ordre": 10,
-     "cle": "30156:033",
-     "heure": "11:21",
-     "commune": "Marguerittes",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 2747
-    },
-    {
-     "ordre": 11,
-     "cle": "PK_30156_020",
-     "heure": "11:38",
-     "commune": "Marguerittes",
-     "nom": null,
-     "classe": "moyenne",
-     "surf_m2": 1686
-    },
-    {
-     "ordre": 12,
-     "cle": "PK_30156_014",
-     "heure": "11:55",
-     "commune": "Marguerittes",
-     "nom": "Aire voie rapide",
-     "classe": "grande",
-     "surf_m2": 2079
-    },
-    {
-     "ordre": 13,
-     "cle": "PK_30317_003",
-     "heure": "13:08",
-     "commune": "Sernhac",
-     "nom": null,
-     "classe": "moyenne",
-     "surf_m2": 1376
-    },
-    {
-     "ordre": 14,
-     "cle": "30317:011",
-     "heure": "13:22",
-     "commune": "Sernhac",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 2565
-    },
-    {
-     "ordre": 15,
-     "cle": "PK_30039_001",
-     "heure": "13:47",
-     "commune": "Bezouce",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 3385
-    },
-    {
-     "ordre": 16,
-     "cle": "PK_30211_008",
-     "heure": "14:08",
-     "commune": "Redessan",
-     "nom": "Parking Halle aux sports",
-     "classe": "moyenne",
-     "surf_m2": 1476
-    },
-    {
-     "ordre": 17,
-     "cle": "PK_30211_003",
-     "heure": "14:23",
-     "commune": "Redessan",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 2527
-    },
-    {
-     "ordre": 18,
-     "cle": "PK_30155_005",
-     "heure": "14:41",
-     "commune": "Manduel",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 2140
-    },
-    {
-     "ordre": 19,
-     "cle": "PK_30356_003",
-     "heure": "15:01",
-     "commune": "Rodilhan",
-     "nom": "Place de la Mairie",
-     "classe": "moyenne",
-     "surf_m2": 1710
-    },
-    {
-     "ordre": 20,
-     "cle": "PK_30356_002",
-     "heure": "15:15",
-     "commune": "Rodilhan",
-     "nom": null,
-     "classe": "moyenne",
-     "surf_m2": 1931
-    },
-    {
-     "ordre": 21,
-     "cle": "PK_30356_001",
-     "heure": "15:29",
-     "commune": "Rodilhan",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 3830
-    },
-    {
-     "ordre": 22,
-     "cle": "PK_30047_002",
-     "heure": "15:47",
-     "commune": "Bouillargues",
-     "nom": "Parking de l'Europe",
-     "classe": "grande",
-     "surf_m2": 3417
-    },
-    {
-     "ordre": 23,
-     "cle": "PK_30047_010",
-     "heure": "16:00",
-     "commune": "Bouillargues",
-     "nom": "Parking de la Madone",
-     "classe": "moyenne",
-     "surf_m2": 1021
-    },
-    {
-     "ordre": 24,
-     "cle": "PK_30047_008",
-     "heure": "16:14",
-     "commune": "Bouillargues",
-     "nom": null,
-     "classe": "moyenne",
-     "surf_m2": 1558
-    },
-    {
-     "ordre": 25,
-     "cle": "PK_30047_022",
-     "heure": "16:29",
-     "commune": "Bouillargues",
-     "nom": null,
-     "classe": "grande",
-     "surf_m2": 2735
-    },
-    {
-     "ordre": 26,
      "cle": "30047:003",
-     "heure": "16:46",
+     "heure": "08:17",
      "commune": "Bouillargues",
      "nom": null,
      "classe": "grande",
      "surf_m2": 3676
     },
     {
-     "ordre": 27,
-     "cle": "PK_30060_003",
-     "heure": "17:08",
-     "commune": "Caissargues",
+     "ordre": 2,
+     "cle": "PK_30047_022",
+     "heure": "08:34",
+     "commune": "Bouillargues",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2735
+    },
+    {
+     "ordre": 3,
+     "cle": "PK_30047_002",
+     "heure": "08:49",
+     "commune": "Bouillargues",
+     "nom": "Parking de l'Europe",
+     "classe": "grande",
+     "surf_m2": 3417
+    },
+    {
+     "ordre": 4,
+     "cle": "PK_30047_010",
+     "heure": "09:03",
+     "commune": "Bouillargues",
+     "nom": "Parking de la Madone",
+     "classe": "moyenne",
+     "surf_m2": 1021
+    },
+    {
+     "ordre": 5,
+     "cle": "PK_30356_001",
+     "heure": "09:20",
+     "commune": "Rodilhan",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3830
+    },
+    {
+     "ordre": 6,
+     "cle": "PK_30356_002",
+     "heure": "09:34",
+     "commune": "Rodilhan",
      "nom": null,
      "classe": "moyenne",
-     "surf_m2": 1692
+     "surf_m2": 1931
+    },
+    {
+     "ordre": 7,
+     "cle": "PK_30155_005",
+     "heure": "09:54",
+     "commune": "Manduel",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2140
+    },
+    {
+     "ordre": 8,
+     "cle": "PK_30211_003",
+     "heure": "10:11",
+     "commune": "Redessan",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2527
+    },
+    {
+     "ordre": 9,
+     "cle": "PK_30039_001",
+     "heure": "10:34",
+     "commune": "Bezouce",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3385
+    },
+    {
+     "ordre": 10,
+     "cle": "30317:011",
+     "heure": "10:58",
+     "commune": "Sernhac",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2565
+    },
+    {
+     "ordre": 11,
+     "cle": "PK_30156_014",
+     "heure": "11:27",
+     "commune": "Marguerittes",
+     "nom": "Aire voie rapide",
+     "classe": "grande",
+     "surf_m2": 2079
+    },
+    {
+     "ordre": 12,
+     "cle": "30156:033",
+     "heure": "11:46",
+     "commune": "Marguerittes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2747
+    },
+    {
+     "ordre": 13,
+     "cle": "PK_30156_006",
+     "heure": "12:04",
+     "commune": "Marguerittes",
+     "nom": "Aire voie rapide",
+     "classe": "grande",
+     "surf_m2": 2976
+    },
+    {
+     "ordre": 14,
+     "cle": "PK_30257_001",
+     "heure": "13:07",
+     "commune": "Saint-Gervasy",
+     "nom": "Place du Marché",
+     "classe": "grande",
+     "surf_m2": 2723
+    },
+    {
+     "ordre": 15,
+     "cle": "PK_30206_001",
+     "heure": "13:30",
+     "commune": "Poulx",
+     "nom": "Place foraine",
+     "classe": "grande",
+     "surf_m2": 6124
+    },
+    {
+     "ordre": 16,
+     "cle": "PK_30075_003",
+     "heure": "14:09",
+     "commune": "Caveirac",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2834
+    },
+    {
+     "ordre": 17,
+     "cle": "PK_30075_002",
+     "heure": "14:23",
+     "commune": "Caveirac",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3236
+    },
+    {
+     "ordre": 18,
+     "cle": "PK_30062_003",
+     "heure": "14:49",
+     "commune": "Calvisson",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 4102
+    },
+    {
+     "ordre": 19,
+     "cle": "PK_30062_005",
+     "heure": "15:05",
+     "commune": "Calvisson",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3007
+    },
+    {
+     "ordre": 20,
+     "cle": "PK_30344_013",
+     "heure": "15:28",
+     "commune": "Vergèze",
+     "nom": "Ombrage - Vergèze espace",
+     "classe": "grande",
+     "surf_m2": 2408
+    },
+    {
+     "ordre": 21,
+     "cle": "PK_30344_014",
+     "heure": "15:41",
+     "commune": "Vergèze",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2213
+    },
+    {
+     "ordre": 22,
+     "cle": "PK_30344_022",
+     "heure": "15:55",
+     "commune": "Vergèze",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2085
+    },
+    {
+     "ordre": 23,
+     "cle": "PK_30344_018",
+     "heure": "16:08",
+     "commune": "Vergèze",
+     "nom": "Parking Maurin",
+     "classe": "moyenne",
+     "surf_m2": 1234
+    },
+    {
+     "ordre": 24,
+     "cle": "PK_30004_013",
+     "heure": "16:27",
+     "commune": "Aigues-Vives",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3468
+    },
+    {
+     "ordre": 25,
+     "cle": "PK_30004_009",
+     "heure": "16:41",
+     "commune": "Aigues-Vives",
+     "nom": "Parking des Arènes",
+     "classe": "moyenne",
+     "surf_m2": 1295
+    },
+    {
+     "ordre": 26,
+     "cle": "PK_30004_006",
+     "heure": "16:55",
+     "commune": "Aigues-Vives",
+     "nom": "Parking complexe sportif",
+     "classe": "grande",
+     "surf_m2": 2144
     }
    ],
-   "km": 117,
-   "fin_visites": "17:18",
+   "km": 128,
+   "fin_visites": "17:05",
    "retour": "17:27"
   }
  ],
  "hors_tournee": [
-  "PK_30004_009",
-  "PK_30019_001",
-  "PK_30123_011",
-  "PK_30333_002",
-  "PK_30333_003",
-  "PK_30344_017",
-  "PK_30347_002",
-  "30004:002",
   "PK_30033_002",
   "PK_30341_014",
   "PK_30341_017",
@@ -1511,16 +1428,31 @@
   "PK_30189_246",
   "PK_30189_249",
   "PK_30189_252",
+  "PK_30019_001",
   "PK_30047_006",
+  "PK_30047_008",
   "PK_30047_015",
   "PK_30057_002",
+  "PK_30060_003",
   "PK_30060_005",
+  "PK_30062_009",
   "PK_30082_001",
+  "PK_30123_011",
   "PK_30125_006",
   "PK_30125_011",
   "PK_30138_002",
   "PK_30155_011",
+  "PK_30156_020",
+  "PK_30206_002",
+  "PK_30211_008",
   "PK_30211_010",
+  "PK_30317_003",
+  "PK_30333_002",
+  "PK_30333_003",
+  "PK_30344_017",
+  "PK_30347_002",
+  "PK_30356_003",
+  "30004:002",
   "30043:005",
   "30155-30211:010",
   "30206:006"
