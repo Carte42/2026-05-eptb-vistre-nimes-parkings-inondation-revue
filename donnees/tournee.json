@@ -1,0 +1,1528 @@
+{
+ "candidates": [
+  {
+   "cle": "PK_30003_002",
+   "commune": "Aigues-Mortes",
+   "nom": "P4",
+   "surf_m2": 8626,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30003_004",
+   "commune": "Aigues-Mortes",
+   "nom": "P5",
+   "surf_m2": 7402,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30003_007",
+   "commune": "Aigues-Mortes",
+   "nom": "P2",
+   "surf_m2": 3948,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30003_010",
+   "commune": "Aigues-Mortes",
+   "nom": "P3",
+   "surf_m2": 3503,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30003_012",
+   "commune": "Aigues-Mortes",
+   "nom": "P1",
+   "surf_m2": 2913,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30003_017",
+   "commune": "Aigues-Mortes",
+   "nom": null,
+   "surf_m2": 1798,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30003_018",
+   "commune": "Aigues-Mortes",
+   "nom": "Parking Gymnase Antoine Liguori",
+   "surf_m2": 1698,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30003_028",
+   "commune": "Aigues-Mortes",
+   "nom": null,
+   "surf_m2": 1034,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30004_006",
+   "commune": "Aigues-Vives",
+   "nom": "Parking complexe sportif",
+   "surf_m2": 2144,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30004_009",
+   "commune": "Aigues-Vives",
+   "nom": "Parking des Arènes",
+   "surf_m2": 1295,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30004_013",
+   "commune": "Aigues-Vives",
+   "nom": null,
+   "surf_m2": 3468,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30006_008",
+   "commune": "Aimargues",
+   "nom": null,
+   "surf_m2": 3916,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30006_016",
+   "commune": "Aimargues",
+   "nom": null,
+   "surf_m2": 1490,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30006_018",
+   "commune": "Aimargues",
+   "nom": null,
+   "surf_m2": 1350,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30006_025",
+   "commune": "Aimargues",
+   "nom": null,
+   "surf_m2": 1096,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30006_035",
+   "commune": "Aimargues",
+   "nom": null,
+   "surf_m2": 2081,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30019_001",
+   "commune": "Aubais",
+   "nom": null,
+   "surf_m2": 1838,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30033_002",
+   "commune": "Beauvoisin",
+   "nom": null,
+   "surf_m2": 1004,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30039_001",
+   "commune": "Bezouce",
+   "nom": null,
+   "surf_m2": 3385,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30047_002",
+   "commune": "Bouillargues",
+   "nom": "Parking de l'Europe",
+   "surf_m2": 3417,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30047_006",
+   "commune": "Bouillargues",
+   "nom": null,
+   "surf_m2": 1896,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30047_008",
+   "commune": "Bouillargues",
+   "nom": null,
+   "surf_m2": 1558,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30047_010",
+   "commune": "Bouillargues",
+   "nom": "Parking de la Madone",
+   "surf_m2": 1021,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30047_015",
+   "commune": "Bouillargues",
+   "nom": null,
+   "surf_m2": 1977,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30047_022",
+   "commune": "Bouillargues",
+   "nom": null,
+   "surf_m2": 2735,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30057_002",
+   "commune": "Cabrières",
+   "nom": null,
+   "surf_m2": 1452,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30059_003",
+   "commune": "Le Cailar",
+   "nom": null,
+   "surf_m2": 2022,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30059_008",
+   "commune": "Le Cailar",
+   "nom": null,
+   "surf_m2": 1159,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30060_003",
+   "commune": "Caissargues",
+   "nom": null,
+   "surf_m2": 1692,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30060_005",
+   "commune": "Caissargues",
+   "nom": "Place Cocconato",
+   "surf_m2": 1281,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30062_003",
+   "commune": "Calvisson",
+   "nom": null,
+   "surf_m2": 4102,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30062_005",
+   "commune": "Calvisson",
+   "nom": null,
+   "surf_m2": 3007,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30062_009",
+   "commune": "Calvisson",
+   "nom": null,
+   "surf_m2": 1215,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30075_002",
+   "commune": "Caveirac",
+   "nom": null,
+   "surf_m2": 3236,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30075_003",
+   "commune": "Caveirac",
+   "nom": null,
+   "surf_m2": 2834,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30082_001",
+   "commune": "Clarensac",
+   "nom": "Parking de l'École Marie Pape Carpantier",
+   "surf_m2": 1850,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30123_011",
+   "commune": "Gallargues-le-Montueux",
+   "nom": null,
+   "surf_m2": 1327,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30125_006",
+   "commune": "Garons",
+   "nom": null,
+   "surf_m2": 1827,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30125_011",
+   "commune": "Garons",
+   "nom": null,
+   "surf_m2": 1011,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30128_001",
+   "commune": "Générac",
+   "nom": null,
+   "surf_m2": 1488,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30138_002",
+   "commune": "Langlade",
+   "nom": null,
+   "surf_m2": 1625,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30155_005",
+   "commune": "Manduel",
+   "nom": null,
+   "surf_m2": 2140,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30155_011",
+   "commune": "Manduel",
+   "nom": null,
+   "surf_m2": 1445,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30156_006",
+   "commune": "Marguerittes",
+   "nom": "Aire voie rapide",
+   "surf_m2": 2976,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30156_014",
+   "commune": "Marguerittes",
+   "nom": "Aire voie rapide",
+   "surf_m2": 2079,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30156_020",
+   "commune": "Marguerittes",
+   "nom": null,
+   "surf_m2": 1686,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_005",
+   "commune": "Nîmes",
+   "nom": "Stade des Costières",
+   "surf_m2": 22523,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_010",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 17402,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_012",
+   "commune": "Nîmes",
+   "nom": "Parc Relais Parnasse",
+   "surf_m2": 16054,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_018",
+   "commune": "Nîmes",
+   "nom": "Parking Paloma",
+   "surf_m2": 9672,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_023",
+   "commune": "Nîmes",
+   "nom": "Parking relais A54",
+   "surf_m2": 7194,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_064",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 3724,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_090",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 2953,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_109",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 2509,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_117",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 2363,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_119",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 2336,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_131",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 2152,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_137",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 2042,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30189_147",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 1928,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_156",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 1797,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_165",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 1719,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_169",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 1657,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_183",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 1540,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_184",
+   "commune": "Nîmes",
+   "nom": "Parking de la Sernam",
+   "surf_m2": 1531,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_207",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 1350,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_209",
+   "commune": "Nîmes",
+   "nom": "Place de la Révolution",
+   "surf_m2": 1340,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_246",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 1097,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_249",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 1091,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30189_252",
+   "commune": "Nîmes",
+   "nom": null,
+   "surf_m2": 1068,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30206_001",
+   "commune": "Poulx",
+   "nom": "Place foraine",
+   "surf_m2": 6124,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30206_002",
+   "commune": "Poulx",
+   "nom": "Parking Ecole Georges Brassens",
+   "surf_m2": 1933,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30211_003",
+   "commune": "Redessan",
+   "nom": null,
+   "surf_m2": 2527,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30211_008",
+   "commune": "Redessan",
+   "nom": "Parking Halle aux sports",
+   "surf_m2": 1476,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30211_010",
+   "commune": "Redessan",
+   "nom": null,
+   "surf_m2": 1120,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30257_001",
+   "commune": "Saint-Gervasy",
+   "nom": "Place du Marché",
+   "surf_m2": 2723,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30258_002",
+   "commune": "Saint-Gilles",
+   "nom": "Charles de Gaulle",
+   "surf_m2": 15403,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30258_028",
+   "commune": "Saint-Gilles",
+   "nom": "Place Jean Jaurès",
+   "surf_m2": 1147,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30258_032",
+   "commune": "Saint-Gilles",
+   "nom": null,
+   "surf_m2": 1387,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30276_004",
+   "commune": "Saint-Laurent-d'Aigouze",
+   "nom": null,
+   "surf_m2": 3247,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30276_006",
+   "commune": "Saint-Laurent-d'Aigouze",
+   "nom": null,
+   "surf_m2": 1910,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30317_003",
+   "commune": "Sernhac",
+   "nom": null,
+   "surf_m2": 1376,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30333_002",
+   "commune": "Uchaud",
+   "nom": null,
+   "surf_m2": 1790,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30333_003",
+   "commune": "Uchaud",
+   "nom": null,
+   "surf_m2": 1449,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30341_008",
+   "commune": "Vauvert",
+   "nom": null,
+   "surf_m2": 2698,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30341_012",
+   "commune": "Vauvert",
+   "nom": null,
+   "surf_m2": 1945,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30341_013",
+   "commune": "Vauvert",
+   "nom": null,
+   "surf_m2": 1877,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30341_014",
+   "commune": "Vauvert",
+   "nom": null,
+   "surf_m2": 1722,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30341_017",
+   "commune": "Vauvert",
+   "nom": null,
+   "surf_m2": 1201,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30341_020",
+   "commune": "Vauvert",
+   "nom": "Place du Docteur Jacques Arnoux",
+   "surf_m2": 1118,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30341_021",
+   "commune": "Vauvert",
+   "nom": "Place du Jeu de Ballon",
+   "surf_m2": 1080,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30344_013",
+   "commune": "Vergèze",
+   "nom": "Ombrage - Vergèze espace",
+   "surf_m2": 2408,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30344_014",
+   "commune": "Vergèze",
+   "nom": null,
+   "surf_m2": 2213,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30344_017",
+   "commune": "Vergèze",
+   "nom": null,
+   "surf_m2": 1509,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30344_018",
+   "commune": "Vergèze",
+   "nom": "Parking Maurin",
+   "surf_m2": 1234,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30344_022",
+   "commune": "Vergèze",
+   "nom": null,
+   "surf_m2": 2085,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30347_002",
+   "commune": "Vestric-et-Candiac",
+   "nom": null,
+   "surf_m2": 1091,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30356_001",
+   "commune": "Rodilhan",
+   "nom": null,
+   "surf_m2": 3830,
+   "classe": "grande"
+  },
+  {
+   "cle": "PK_30356_002",
+   "commune": "Rodilhan",
+   "nom": null,
+   "surf_m2": 1931,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "PK_30356_003",
+   "commune": "Rodilhan",
+   "nom": "Place de la Mairie",
+   "surf_m2": 1710,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "30004:002",
+   "commune": "Aigues-Vives",
+   "nom": null,
+   "surf_m2": 1164,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "30006:008",
+   "commune": "Aimargues",
+   "nom": null,
+   "surf_m2": 5856,
+   "classe": "grande"
+  },
+  {
+   "cle": "30006:014",
+   "commune": "Aimargues",
+   "nom": null,
+   "surf_m2": 2300,
+   "classe": "grande"
+  },
+  {
+   "cle": "30033:008",
+   "commune": "Beauvoisin",
+   "nom": null,
+   "surf_m2": 1698,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "30043:005",
+   "commune": "Boissières",
+   "nom": null,
+   "surf_m2": 1355,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "30047:003",
+   "commune": "Bouillargues",
+   "nom": null,
+   "surf_m2": 3676,
+   "classe": "grande"
+  },
+  {
+   "cle": "30128:005",
+   "commune": "Générac",
+   "nom": null,
+   "surf_m2": 2541,
+   "classe": "grande"
+  },
+  {
+   "cle": "30128:013",
+   "commune": "Générac",
+   "nom": null,
+   "surf_m2": 2020,
+   "classe": "grande"
+  },
+  {
+   "cle": "30155-30211:010",
+   "commune": "Manduel",
+   "nom": null,
+   "surf_m2": 1968,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "30156:033",
+   "commune": "Marguerittes",
+   "nom": null,
+   "surf_m2": 2747,
+   "classe": "grande"
+  },
+  {
+   "cle": "30206:006",
+   "commune": "Poulx",
+   "nom": null,
+   "surf_m2": 1215,
+   "classe": "moyenne"
+  },
+  {
+   "cle": "30317:011",
+   "commune": "Sernhac",
+   "nom": null,
+   "surf_m2": 2565,
+   "classe": "grande"
+  }
+ ],
+ "jours": [
+  {
+   "id": "mer",
+   "libelle": "Mercredi 4 novembre",
+   "date": "2026-11-04",
+   "debut": "15:30",
+   "fin": "17:30",
+   "etapes": [
+    {
+     "ordre": 1,
+     "cle": "PK_30344_013",
+     "heure": "15:44",
+     "commune": "Vergèze",
+     "nom": "Ombrage - Vergèze espace",
+     "classe": "grande",
+     "surf_m2": 2408
+    },
+    {
+     "ordre": 2,
+     "cle": "PK_30344_014",
+     "heure": "15:58",
+     "commune": "Vergèze",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2213
+    },
+    {
+     "ordre": 3,
+     "cle": "PK_30344_022",
+     "heure": "16:11",
+     "commune": "Vergèze",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2085
+    },
+    {
+     "ordre": 4,
+     "cle": "PK_30344_018",
+     "heure": "16:25",
+     "commune": "Vergèze",
+     "nom": "Parking Maurin",
+     "classe": "moyenne",
+     "surf_m2": 1234
+    },
+    {
+     "ordre": 5,
+     "cle": "PK_30004_013",
+     "heure": "16:43",
+     "commune": "Aigues-Vives",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3468
+    },
+    {
+     "ordre": 6,
+     "cle": "PK_30004_006",
+     "heure": "16:58",
+     "commune": "Aigues-Vives",
+     "nom": "Parking complexe sportif",
+     "classe": "grande",
+     "surf_m2": 2144
+    }
+   ],
+   "km": 31,
+   "fin_visites": "17:08",
+   "retour": "17:30"
+  },
+  {
+   "id": "jeu",
+   "libelle": "Jeudi 5 novembre",
+   "date": "2026-11-05",
+   "debut": "08:00",
+   "fin": "17:30",
+   "etapes": [
+    {
+     "ordre": 1,
+     "cle": "PK_30128_001",
+     "heure": "08:11",
+     "commune": "Générac",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1488
+    },
+    {
+     "ordre": 2,
+     "cle": "30128:005",
+     "heure": "08:25",
+     "commune": "Générac",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2541
+    },
+    {
+     "ordre": 3,
+     "cle": "30128:013",
+     "heure": "08:40",
+     "commune": "Générac",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2020
+    },
+    {
+     "ordre": 4,
+     "cle": "PK_30006_008",
+     "heure": "09:08",
+     "commune": "Aimargues",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3916
+    },
+    {
+     "ordre": 5,
+     "cle": "PK_30006_016",
+     "heure": "09:21",
+     "commune": "Aimargues",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1490
+    },
+    {
+     "ordre": 6,
+     "cle": "PK_30006_025",
+     "heure": "09:35",
+     "commune": "Aimargues",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1096
+    },
+    {
+     "ordre": 7,
+     "cle": "30006:014",
+     "heure": "09:49",
+     "commune": "Aimargues",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2300
+    },
+    {
+     "ordre": 8,
+     "cle": "PK_30006_018",
+     "heure": "10:02",
+     "commune": "Aimargues",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1350
+    },
+    {
+     "ordre": 9,
+     "cle": "30006:008",
+     "heure": "10:16",
+     "commune": "Aimargues",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 5856
+    },
+    {
+     "ordre": 10,
+     "cle": "PK_30006_035",
+     "heure": "10:35",
+     "commune": "Aimargues",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2081
+    },
+    {
+     "ordre": 11,
+     "cle": "PK_30276_004",
+     "heure": "10:58",
+     "commune": "Saint-Laurent-d'Aigouze",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3247
+    },
+    {
+     "ordre": 12,
+     "cle": "PK_30276_006",
+     "heure": "11:12",
+     "commune": "Saint-Laurent-d'Aigouze",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1910
+    },
+    {
+     "ordre": 13,
+     "cle": "PK_30003_017",
+     "heure": "11:40",
+     "commune": "Aigues-Mortes",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1798
+    },
+    {
+     "ordre": 14,
+     "cle": "PK_30003_028",
+     "heure": "11:53",
+     "commune": "Aigues-Mortes",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1034
+    },
+    {
+     "ordre": 15,
+     "cle": "PK_30003_004",
+     "heure": "12:07",
+     "commune": "Aigues-Mortes",
+     "nom": "P5",
+     "classe": "grande",
+     "surf_m2": 7402
+    },
+    {
+     "ordre": 16,
+     "cle": "PK_30003_012",
+     "heure": "13:12",
+     "commune": "Aigues-Mortes",
+     "nom": "P1",
+     "classe": "grande",
+     "surf_m2": 2913
+    },
+    {
+     "ordre": 17,
+     "cle": "PK_30003_007",
+     "heure": "13:25",
+     "commune": "Aigues-Mortes",
+     "nom": "P2",
+     "classe": "grande",
+     "surf_m2": 3948
+    },
+    {
+     "ordre": 18,
+     "cle": "PK_30003_010",
+     "heure": "13:39",
+     "commune": "Aigues-Mortes",
+     "nom": "P3",
+     "classe": "grande",
+     "surf_m2": 3503
+    },
+    {
+     "ordre": 19,
+     "cle": "PK_30003_002",
+     "heure": "13:53",
+     "commune": "Aigues-Mortes",
+     "nom": "P4",
+     "classe": "grande",
+     "surf_m2": 8626
+    },
+    {
+     "ordre": 20,
+     "cle": "PK_30003_018",
+     "heure": "14:12",
+     "commune": "Aigues-Mortes",
+     "nom": "Parking Gymnase Antoine Liguori",
+     "classe": "moyenne",
+     "surf_m2": 1698
+    },
+    {
+     "ordre": 21,
+     "cle": "PK_30059_003",
+     "heure": "14:41",
+     "commune": "Le Cailar",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2022
+    },
+    {
+     "ordre": 22,
+     "cle": "PK_30059_008",
+     "heure": "14:55",
+     "commune": "Le Cailar",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1159
+    },
+    {
+     "ordre": 23,
+     "cle": "PK_30341_013",
+     "heure": "15:15",
+     "commune": "Vauvert",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1877
+    },
+    {
+     "ordre": 24,
+     "cle": "PK_30341_012",
+     "heure": "15:31",
+     "commune": "Vauvert",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1945
+    },
+    {
+     "ordre": 25,
+     "cle": "PK_30341_008",
+     "heure": "15:44",
+     "commune": "Vauvert",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2698
+    },
+    {
+     "ordre": 26,
+     "cle": "PK_30258_002",
+     "heure": "16:14",
+     "commune": "Saint-Gilles",
+     "nom": "Charles de Gaulle",
+     "classe": "grande",
+     "surf_m2": 15403
+    },
+    {
+     "ordre": 27,
+     "cle": "PK_30258_028",
+     "heure": "16:33",
+     "commune": "Saint-Gilles",
+     "nom": "Place Jean Jaurès",
+     "classe": "moyenne",
+     "surf_m2": 1147
+    },
+    {
+     "ordre": 28,
+     "cle": "PK_30258_032",
+     "heure": "16:47",
+     "commune": "Saint-Gilles",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1387
+    }
+   ],
+   "km": 97,
+   "fin_visites": "16:57",
+   "retour": "17:15"
+  },
+  {
+   "id": "ven",
+   "libelle": "Vendredi 6 novembre",
+   "date": "2026-11-06",
+   "debut": "13:30",
+   "fin": "17:30",
+   "etapes": [
+    {
+     "ordre": 1,
+     "cle": "PK_30189_119",
+     "heure": "13:38",
+     "commune": "Nîmes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2336
+    },
+    {
+     "ordre": 2,
+     "cle": "PK_30189_109",
+     "heure": "13:59",
+     "commune": "Nîmes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2509
+    },
+    {
+     "ordre": 3,
+     "cle": "PK_30189_064",
+     "heure": "14:16",
+     "commune": "Nîmes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3724
+    },
+    {
+     "ordre": 4,
+     "cle": "PK_30189_117",
+     "heure": "14:29",
+     "commune": "Nîmes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2363
+    },
+    {
+     "ordre": 5,
+     "cle": "PK_30189_090",
+     "heure": "14:42",
+     "commune": "Nîmes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2953
+    },
+    {
+     "ordre": 6,
+     "cle": "PK_30189_137",
+     "heure": "14:55",
+     "commune": "Nîmes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2042
+    },
+    {
+     "ordre": 7,
+     "cle": "PK_30189_010",
+     "heure": "15:09",
+     "commune": "Nîmes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 17402
+    },
+    {
+     "ordre": 8,
+     "cle": "PK_30189_005",
+     "heure": "15:28",
+     "commune": "Nîmes",
+     "nom": "Stade des Costières",
+     "classe": "grande",
+     "surf_m2": 22523
+    },
+    {
+     "ordre": 9,
+     "cle": "PK_30189_012",
+     "heure": "15:47",
+     "commune": "Nîmes",
+     "nom": "Parc Relais Parnasse",
+     "classe": "grande",
+     "surf_m2": 16054
+    },
+    {
+     "ordre": 10,
+     "cle": "PK_30189_131",
+     "heure": "16:13",
+     "commune": "Nîmes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2152
+    },
+    {
+     "ordre": 11,
+     "cle": "PK_30189_018",
+     "heure": "16:30",
+     "commune": "Nîmes",
+     "nom": "Parking Paloma",
+     "classe": "grande",
+     "surf_m2": 9672
+    },
+    {
+     "ordre": 12,
+     "cle": "PK_30189_023",
+     "heure": "16:60",
+     "commune": "Nîmes",
+     "nom": "Parking relais A54",
+     "classe": "grande",
+     "surf_m2": 7194
+    }
+   ],
+   "km": 32,
+   "fin_visites": "17:15",
+   "retour": "17:27"
+  },
+  {
+   "id": "sam",
+   "libelle": "Samedi 7 novembre",
+   "date": "2026-11-07",
+   "debut": "08:00",
+   "fin": "17:30",
+   "etapes": [
+    {
+     "ordre": 1,
+     "cle": "PK_30062_009",
+     "heure": "08:19",
+     "commune": "Calvisson",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1215
+    },
+    {
+     "ordre": 2,
+     "cle": "PK_30062_005",
+     "heure": "08:33",
+     "commune": "Calvisson",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3007
+    },
+    {
+     "ordre": 3,
+     "cle": "PK_30062_003",
+     "heure": "08:49",
+     "commune": "Calvisson",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 4102
+    },
+    {
+     "ordre": 4,
+     "cle": "PK_30075_002",
+     "heure": "09:15",
+     "commune": "Caveirac",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3236
+    },
+    {
+     "ordre": 5,
+     "cle": "PK_30075_003",
+     "heure": "09:29",
+     "commune": "Caveirac",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2834
+    },
+    {
+     "ordre": 6,
+     "cle": "PK_30206_002",
+     "heure": "10:03",
+     "commune": "Poulx",
+     "nom": "Parking Ecole Georges Brassens",
+     "classe": "moyenne",
+     "surf_m2": 1933
+    },
+    {
+     "ordre": 7,
+     "cle": "PK_30206_001",
+     "heure": "10:17",
+     "commune": "Poulx",
+     "nom": "Place foraine",
+     "classe": "grande",
+     "surf_m2": 6124
+    },
+    {
+     "ordre": 8,
+     "cle": "PK_30257_001",
+     "heure": "10:46",
+     "commune": "Saint-Gervasy",
+     "nom": "Place du Marché",
+     "classe": "grande",
+     "surf_m2": 2723
+    },
+    {
+     "ordre": 9,
+     "cle": "PK_30156_006",
+     "heure": "11:03",
+     "commune": "Marguerittes",
+     "nom": "Aire voie rapide",
+     "classe": "grande",
+     "surf_m2": 2976
+    },
+    {
+     "ordre": 10,
+     "cle": "30156:033",
+     "heure": "11:21",
+     "commune": "Marguerittes",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2747
+    },
+    {
+     "ordre": 11,
+     "cle": "PK_30156_020",
+     "heure": "11:38",
+     "commune": "Marguerittes",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1686
+    },
+    {
+     "ordre": 12,
+     "cle": "PK_30156_014",
+     "heure": "11:55",
+     "commune": "Marguerittes",
+     "nom": "Aire voie rapide",
+     "classe": "grande",
+     "surf_m2": 2079
+    },
+    {
+     "ordre": 13,
+     "cle": "PK_30317_003",
+     "heure": "13:08",
+     "commune": "Sernhac",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1376
+    },
+    {
+     "ordre": 14,
+     "cle": "30317:011",
+     "heure": "13:22",
+     "commune": "Sernhac",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2565
+    },
+    {
+     "ordre": 15,
+     "cle": "PK_30039_001",
+     "heure": "13:47",
+     "commune": "Bezouce",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3385
+    },
+    {
+     "ordre": 16,
+     "cle": "PK_30211_008",
+     "heure": "14:08",
+     "commune": "Redessan",
+     "nom": "Parking Halle aux sports",
+     "classe": "moyenne",
+     "surf_m2": 1476
+    },
+    {
+     "ordre": 17,
+     "cle": "PK_30211_003",
+     "heure": "14:23",
+     "commune": "Redessan",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2527
+    },
+    {
+     "ordre": 18,
+     "cle": "PK_30155_005",
+     "heure": "14:41",
+     "commune": "Manduel",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2140
+    },
+    {
+     "ordre": 19,
+     "cle": "PK_30356_003",
+     "heure": "15:01",
+     "commune": "Rodilhan",
+     "nom": "Place de la Mairie",
+     "classe": "moyenne",
+     "surf_m2": 1710
+    },
+    {
+     "ordre": 20,
+     "cle": "PK_30356_002",
+     "heure": "15:15",
+     "commune": "Rodilhan",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1931
+    },
+    {
+     "ordre": 21,
+     "cle": "PK_30356_001",
+     "heure": "15:29",
+     "commune": "Rodilhan",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3830
+    },
+    {
+     "ordre": 22,
+     "cle": "PK_30047_002",
+     "heure": "15:47",
+     "commune": "Bouillargues",
+     "nom": "Parking de l'Europe",
+     "classe": "grande",
+     "surf_m2": 3417
+    },
+    {
+     "ordre": 23,
+     "cle": "PK_30047_010",
+     "heure": "16:00",
+     "commune": "Bouillargues",
+     "nom": "Parking de la Madone",
+     "classe": "moyenne",
+     "surf_m2": 1021
+    },
+    {
+     "ordre": 24,
+     "cle": "PK_30047_008",
+     "heure": "16:14",
+     "commune": "Bouillargues",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1558
+    },
+    {
+     "ordre": 25,
+     "cle": "PK_30047_022",
+     "heure": "16:29",
+     "commune": "Bouillargues",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 2735
+    },
+    {
+     "ordre": 26,
+     "cle": "30047:003",
+     "heure": "16:46",
+     "commune": "Bouillargues",
+     "nom": null,
+     "classe": "grande",
+     "surf_m2": 3676
+    },
+    {
+     "ordre": 27,
+     "cle": "PK_30060_003",
+     "heure": "17:08",
+     "commune": "Caissargues",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1692
+    }
+   ],
+   "km": 117,
+   "fin_visites": "17:18",
+   "retour": "17:27"
+  }
+ ],
+ "hors_tournee": [
+  "PK_30004_009",
+  "PK_30019_001",
+  "PK_30123_011",
+  "PK_30333_002",
+  "PK_30333_003",
+  "PK_30344_017",
+  "PK_30347_002",
+  "30004:002",
+  "PK_30033_002",
+  "PK_30341_014",
+  "PK_30341_017",
+  "PK_30341_020",
+  "PK_30341_021",
+  "30033:008",
+  "PK_30189_147",
+  "PK_30189_156",
+  "PK_30189_165",
+  "PK_30189_169",
+  "PK_30189_183",
+  "PK_30189_184",
+  "PK_30189_207",
+  "PK_30189_209",
+  "PK_30189_246",
+  "PK_30189_249",
+  "PK_30189_252",
+  "PK_30047_006",
+  "PK_30047_015",
+  "PK_30057_002",
+  "PK_30060_005",
+  "PK_30082_001",
+  "PK_30125_006",
+  "PK_30125_011",
+  "PK_30138_002",
+  "PK_30155_011",
+  "PK_30211_010",
+  "30043:005",
+  "30155-30211:010",
+  "30206:006"
+ ]
+}
