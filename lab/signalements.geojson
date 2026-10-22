@@ -108,6 +108,50 @@
     "auteur": "Allan",
     "le": "2026-10-22T08:48:06"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.426157,
+       43.800878
+      ],
+      [
+       4.425374,
+       43.800725
+      ],
+      [
+       4.425468,
+       43.8004
+      ],
+      [
+       4.425964,
+       43.80053
+      ],
+      [
+       4.425905,
+       43.80063
+      ],
+      [
+       4.42624,
+       43.800731
+      ],
+      [
+       4.426157,
+       43.800878
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "sig:20261022084936",
+    "commentaire": "Salle des fetes : cas particulier car fermé en temps normal, ouvert uniquement pour des evenements... exemple typique d'aires dont l'identification pourra etre demandée aux communes pour les communes deficitaires en aires refuges au moment venu. Ici, ça n'est pas un oubli de cette étape mais une note pour exemple",
+    "auteur": "Allan",
+    "le": "2026-10-22T08:49:36"
+   }
   }
  ]
 }
