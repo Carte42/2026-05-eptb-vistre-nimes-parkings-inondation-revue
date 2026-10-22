@@ -404,6 +404,42 @@
     "auteur": "Allan",
     "le": "2026-10-22T08:56:27"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.435692,
+       43.798403
+      ],
+      [
+       4.435033,
+       43.798074
+      ],
+      [
+       4.435073,
+       43.798021
+      ],
+      [
+       4.435719,
+       43.79835
+      ],
+      [
+       4.435692,
+       43.798403
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "sig:20261022125053",
+    "commentaire": "Parking du Gymnase de Bouillargues",
+    "auteur": "Allan",
+    "le": "2026-10-22T12:50:53"
+   }
   }
  ]
 }
