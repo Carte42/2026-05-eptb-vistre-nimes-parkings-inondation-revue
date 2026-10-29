@@ -1,6 +1,6 @@
 {
  "complement:foncier:30341:803132_6290250": {
-  "statut": "validee",
+  "statut": "a_controler",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -50,7 +50,7 @@
   },
   "surf_m2": 2325.1,
   "nb_pl_est": 61,
-  "revu_le": "2026-10-29T15:03:32",
+  "revu_le": "2026-10-29T15:06:41",
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
