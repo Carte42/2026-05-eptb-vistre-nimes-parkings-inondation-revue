@@ -501,5 +501,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "complement:prive_ouvert:osm:w928168870": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-29T09:32:29",
+  "operateur": "Allan"
  }
 }
