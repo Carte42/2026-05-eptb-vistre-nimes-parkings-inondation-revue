@@ -28,10 +28,10 @@
   "operateur": "Allan"
  },
  "complement:foncier:30169:806084_6300106": {
-  "statut": "validee",
-  "motif": null,
+  "statut": "rejetee",
+  "motif": "moins_10",
   "commentaire": "",
-  "revu_le": "2026-10-29T08:55:34",
+  "revu_le": "2026-10-29T08:56:06",
   "operateur": "Allan"
  },
  "complement:foncier:30169:806148_6299998": {
