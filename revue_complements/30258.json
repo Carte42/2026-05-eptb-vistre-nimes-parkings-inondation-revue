@@ -54,5 +54,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "complement:foncier:30258:814924_6289848": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-29T09:49:13",
+  "operateur": "Allan"
  }
 }
