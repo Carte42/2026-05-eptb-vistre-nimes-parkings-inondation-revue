@@ -163,9 +163,10 @@
   "operateur": "Allan"
  },
  "complement:foncier:30189:809748_6305624": {
-  "statut": "a_controler",
+  "statut": "validee",
   "commentaire": "",
-  "revu_le": "2026-10-29T08:58:38",
-  "operateur": "Allan"
+  "revu_le": "2026-10-29T08:58:42",
+  "operateur": "Allan",
+  "motif": null
  }
 }
