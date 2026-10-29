@@ -7,10 +7,10 @@
   "operateur": "Allan"
  },
  "complement:foncier:30003:795872_6274944": {
-  "statut": "rejetee",
-  "motif": "prive",
+  "statut": "validee",
+  "motif": null,
   "commentaire": "",
-  "revu_le": "2026-10-29T07:25:01",
+  "revu_le": "2026-10-29T07:25:20",
   "operateur": "Allan"
  }
 }
