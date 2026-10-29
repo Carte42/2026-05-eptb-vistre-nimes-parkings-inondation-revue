@@ -21,7 +21,7 @@
   "operateur": "Allan"
  },
  "complement:aire:30060:810938_6300652": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -63,7 +63,9 @@
   },
   "surf_m2": 421.2,
   "nb_pl_est": 20,
-  "revu_le": "2026-10-29T08:45:50",
-  "operateur": "Allan"
+  "revu_le": "2026-10-29T08:45:54",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
