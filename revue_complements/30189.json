@@ -409,5 +409,12 @@
   "commentaire": "",
   "revu_le": "2026-10-29T09:30:19",
   "operateur": "Allan"
+ },
+ "complement:prive_ouvert:osm:w928168877": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-29T09:30:24",
+  "operateur": "Allan"
  }
 }
