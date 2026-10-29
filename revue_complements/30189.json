@@ -226,5 +226,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "complement:prive_ouvert:osm:w929889650": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-29T08:59:21",
+  "operateur": "Allan"
  }
 }
