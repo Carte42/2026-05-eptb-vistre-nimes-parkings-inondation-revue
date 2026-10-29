@@ -1,6 +1,8 @@
 {
  "complement:foncier:30317:825314_6313520": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -48,11 +50,9 @@
     ]
    ]
   },
-  "surf_m2": 1546,
+  "surf_m2": 1545.8,
   "nb_pl_est": 49,
   "revu_le": "2026-10-29T14:59:35",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

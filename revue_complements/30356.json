@@ -1,6 +1,8 @@
 {
  "complement:foncier:30356:815964_6304464": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -31,9 +33,7 @@
   "surf_m2": 523.1,
   "nb_pl_est": 24,
   "revu_le": "2026-10-29T09:46:01",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:aire:30356:815484_6304332": {
   "statut": "validee",

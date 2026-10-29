@@ -8,10 +8,10 @@
  },
  "complement:foncier:30156:816150_6308594": {
   "statut": "validee",
+  "motif": null,
   "commentaire": "",
   "revu_le": "2026-10-29T08:55:03",
-  "operateur": "Allan",
-  "motif": null
+  "operateur": "Allan"
  },
  "complement:foncier:30156:816514_6308670": {
   "statut": "rejetee",

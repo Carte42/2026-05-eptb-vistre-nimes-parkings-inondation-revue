@@ -8,6 +8,8 @@
  },
  "complement:foncier:30206:813912_6313682": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -35,12 +37,10 @@
     ]
    ]
   },
-  "surf_m2": 706.9,
+  "surf_m2": 706.8,
   "nb_pl_est": 30,
   "revu_le": "2026-10-29T09:44:44",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:foncier:30206:813690_6313428": {
   "statut": "rejetee",

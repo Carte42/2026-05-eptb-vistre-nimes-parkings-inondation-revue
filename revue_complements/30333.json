@@ -15,6 +15,8 @@
  },
  "complement:aire:30333:802448_6296344": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -53,9 +55,7 @@
   "surf_m2": 452.3,
   "nb_pl_est": 21,
   "revu_le": "2026-10-29T15:00:18",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:aire:30333:801992_6296088": {
   "statut": "validee",
@@ -87,6 +87,8 @@
  },
  "complement:bande:30333:802256_6296120": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -125,8 +127,6 @@
   "surf_m2": 262.4,
   "nb_pl_est": 13,
   "revu_le": "2026-10-29T15:01:42",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

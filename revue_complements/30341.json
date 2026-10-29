@@ -1,6 +1,8 @@
 {
  "complement:foncier:30341:803132_6290250": {
   "statut": "a_controler",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -48,15 +50,15 @@
     ]
    ]
   },
-  "surf_m2": 2325.1,
+  "surf_m2": 2325.5,
   "nb_pl_est": 61,
   "revu_le": "2026-10-29T15:06:41",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:aire:30341:802718_6289300": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -84,12 +86,10 @@
     ]
    ]
   },
-  "surf_m2": 4289.4,
+  "surf_m2": 4290.1,
   "nb_pl_est": 114,
   "revu_le": "2026-10-29T15:03:49",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:aire:30341:803208_6289868": {
   "statut": "validee",
@@ -128,6 +128,8 @@
  },
  "complement:bande:30341:803230_6289636": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -155,19 +157,15 @@
     ]
    ]
   },
-  "surf_m2": 651.8,
+  "surf_m2": 651.9,
   "nb_pl_est": 28,
   "revu_le": "2026-10-29T15:04:43",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:aire:30341:803202_6289334": {
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-10-29T15:05:18",
-  "operateur": "Allan",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -207,8 +205,10 @@
     ]
    ]
   },
-  "surf_m2": 778.7,
-  "nb_pl_est": 32
+  "surf_m2": 778.8,
+  "nb_pl_est": 32,
+  "revu_le": "2026-10-29T15:05:18",
+  "operateur": "Allan"
  },
  "complement:aire:30341:802910_6289720": {
   "statut": "validee",
