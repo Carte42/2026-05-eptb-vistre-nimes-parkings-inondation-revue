@@ -240,5 +240,12 @@
   "revu_le": "2026-10-29T09:03:55",
   "operateur": "Allan",
   "motif": null
+ },
+ "complement:foncier:30189:810730_6306984": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-29T09:04:00",
+  "operateur": "Allan"
  }
 }
