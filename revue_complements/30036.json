@@ -1,13 +1,8 @@
 {
  "complement:aire:30036:803474_6297048": {
   "statut": "validee",
-  "streetview": {
-   "controle_le": "2026-10-29T07:35:54",
-   "date_vue": null,
-   "disponible": true
-  },
-  "revu_le": "2026-10-29T07:39:33",
-  "operateur": "Allan",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -147,10 +142,15 @@
     ]
    ]
   },
-  "surf_m2": 3190.6,
+  "surf_m2": 3190.8,
   "nb_pl_est": 84,
-  "motif": null,
-  "commentaire": ""
+  "streetview": {
+   "controle_le": "2026-10-29T07:35:54",
+   "date_vue": null,
+   "disponible": true
+  },
+  "revu_le": "2026-10-29T07:39:33",
+  "operateur": "Allan"
  },
  "complement:aire:30036:803452_6297698": {
   "statut": "validee",
