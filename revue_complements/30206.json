@@ -41,5 +41,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "complement:foncier:30206:813690_6313428": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "",
+  "revu_le": "2026-10-29T09:45:01",
+  "operateur": "Allan"
  }
 }
