@@ -86,7 +86,7 @@
   "operateur": "Allan"
  },
  "complement:bande:30333:802256_6296120": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -124,7 +124,9 @@
   },
   "surf_m2": 262.4,
   "nb_pl_est": 13,
-  "revu_le": "2026-10-29T15:01:30",
-  "operateur": "Allan"
+  "revu_le": "2026-10-29T15:01:42",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
