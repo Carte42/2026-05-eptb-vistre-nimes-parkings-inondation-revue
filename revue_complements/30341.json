@@ -54,5 +54,39 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "complement:aire:30341:802718_6289300": {
+  "statut": "a_revoir",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.274312,
+      43.694838
+     ],
+     [
+      4.273419,
+      43.695119
+     ],
+     [
+      4.273757,
+      43.695656
+     ],
+     [
+      4.27435,
+      43.695472
+     ],
+     [
+      4.274312,
+      43.694838
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 4289.4,
+  "nb_pl_est": 114,
+  "revu_le": "2026-10-29T15:03:47",
+  "operateur": "Allan"
  }
 }
