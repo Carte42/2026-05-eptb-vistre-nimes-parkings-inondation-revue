@@ -35,7 +35,7 @@
   "operateur": "Allan"
  },
  "complement:foncier:30169:806148_6299998": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -65,7 +65,9 @@
   },
   "surf_m2": 107.8,
   "nb_pl_est": 6,
-  "revu_le": "2026-10-29T08:55:50",
-  "operateur": "Allan"
+  "revu_le": "2026-10-29T08:55:53",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
