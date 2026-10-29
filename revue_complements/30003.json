@@ -28,7 +28,7 @@
   "operateur": "Allan"
  },
  "complement:bande:30003:796788_6275140": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -58,7 +58,9 @@
   },
   "surf_m2": 489.2,
   "nb_pl_est": 22,
-  "revu_le": "2026-10-29T07:26:00",
-  "operateur": "Allan"
+  "revu_le": "2026-10-29T07:26:03",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
