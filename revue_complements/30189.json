@@ -56,7 +56,7 @@
   "commentaire": ""
  },
  "complement:foncier:30189:810008_6303878": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -86,7 +86,9 @@
   },
   "surf_m2": 2993.1,
   "nb_pl_est": 79,
-  "revu_le": "2026-10-29T08:57:38",
-  "operateur": "Allan"
+  "revu_le": "2026-10-29T08:57:41",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
