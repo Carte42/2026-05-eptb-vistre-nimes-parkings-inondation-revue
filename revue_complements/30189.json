@@ -766,7 +766,7 @@
   "commentaire": ""
  },
  "complement:aire:30189:808204_6303170": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -796,7 +796,9 @@
   },
   "surf_m2": 419.4,
   "nb_pl_est": 20,
-  "revu_le": "2026-10-29T09:44:06",
-  "operateur": "Allan"
+  "revu_le": "2026-10-29T09:44:09",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
