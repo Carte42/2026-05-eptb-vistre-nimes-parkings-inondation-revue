@@ -510,9 +510,10 @@
   "operateur": "Allan"
  },
  "complement:aire:30189:810492_6306576": {
-  "statut": "a_controler",
+  "statut": "validee",
   "commentaire": "",
-  "revu_le": "2026-10-29T09:32:33",
-  "operateur": "Allan"
+  "revu_le": "2026-10-29T09:32:37",
+  "operateur": "Allan",
+  "motif": null
  }
 }
