@@ -90,5 +90,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "complement:foncier:30189:809482_6304118": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-29T08:57:48",
+  "operateur": "Allan"
  }
 }
