@@ -69,5 +69,12 @@
   "commentaire": "",
   "revu_le": "2026-10-30T11:04:28",
   "operateur": "Allan"
+ },
+ "complement:equipement:30003:796868_6274840": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-30T11:04:46",
+  "operateur": "Allan"
  }
 }
