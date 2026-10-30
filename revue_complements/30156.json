@@ -4025,5 +4025,12 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:08:20",
   "operateur": "Allan"
+ },
+ "complement:lotissement:30156:815442_6307112": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-30T13:10:54",
+  "operateur": "Allan"
  }
 }
