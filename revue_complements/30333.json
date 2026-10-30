@@ -128,5 +128,12 @@
   "nb_pl_est": 13,
   "revu_le": "2026-10-29T15:01:42",
   "operateur": "Allan"
+ },
+ "complement:lotissement:30333:802122_6295950": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-30T13:17:42",
+  "operateur": "Allan"
  }
 }
