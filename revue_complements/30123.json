@@ -21,7 +21,7 @@
   "operateur": "Allan"
  },
  "complement:equipement:30123:794594_6292270": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -67,7 +67,9 @@
   },
   "surf_m2": 1380.9,
   "nb_pl_est": 46,
-  "revu_le": "2026-10-30T13:05:46",
-  "operateur": "Allan"
+  "revu_le": "2026-10-30T13:05:49",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
