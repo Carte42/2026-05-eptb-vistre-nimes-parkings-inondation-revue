@@ -162,5 +162,12 @@
   "commentaire": "",
   "revu_le": "2026-10-30T11:06:36",
   "operateur": "Allan"
+ },
+ "complement:lotissement:30003:797566_6274606": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-30T11:06:44",
+  "operateur": "Allan"
  }
 }
