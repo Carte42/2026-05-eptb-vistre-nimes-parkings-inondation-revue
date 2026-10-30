@@ -964,5 +964,12 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:14:56",
   "operateur": "Allan"
+ },
+ "complement:lotissement:30189:807188_6302302": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-30T13:15:02",
+  "operateur": "Allan"
  }
 }
