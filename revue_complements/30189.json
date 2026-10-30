@@ -280,8 +280,37 @@
   "statut": "validee",
   "motif": null,
   "commentaire": "",
-  "revu_le": "2026-10-29T09:07:28",
-  "operateur": "Allan"
+  "revu_le": "2026-10-30T13:12:40",
+  "operateur": "Allan",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.365209,
+      43.832296
+     ],
+     [
+      4.364922,
+      43.832065
+     ],
+     [
+      4.365065,
+      43.83198
+     ],
+     [
+      4.365338,
+      43.832187
+     ],
+     [
+      4.365209,
+      43.832296
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 509,
+  "nb_pl_est": 23
  },
  "complement:foncier:30189:810814_6306990": {
   "statut": "validee",
