@@ -885,5 +885,12 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:13:39",
   "operateur": "Allan"
+ },
+ "complement:lotissement:30189:804984_6306738": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-10-30T13:13:48",
+  "operateur": "Allan"
  }
 }
