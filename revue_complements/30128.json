@@ -36,7 +36,7 @@
   "commentaire": ""
  },
  "complement:equipement:30128:808890_6293040": {
-  "statut": "a_revoir",
+  "statut": "validee",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -66,7 +66,9 @@
   },
   "surf_m2": 308.5,
   "nb_pl_est": 15,
-  "revu_le": "2026-10-30T13:07:08",
-  "operateur": "Allan"
+  "revu_le": "2026-10-30T13:07:10",
+  "operateur": "Allan",
+  "motif": null,
+  "commentaire": ""
  }
 }
