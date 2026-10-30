@@ -86,7 +86,7 @@
     ]
    ]
   },
-  "surf_m2": 2993.0,
+  "surf_m2": 2993,
   "nb_pl_est": 79,
   "revu_le": "2026-10-29T08:57:41",
   "operateur": "Allan"
@@ -806,6 +806,13 @@
   "motif": null,
   "commentaire": "",
   "revu_le": "2026-10-29T09:44:17",
+  "operateur": "Allan"
+ },
+ "complement:equipement:30189:805808_6302858": {
+  "statut": "rejetee",
+  "motif": "pas_parking",
+  "commentaire": "",
+  "revu_le": "2026-10-30T13:12:11",
   "operateur": "Allan"
  }
 }
