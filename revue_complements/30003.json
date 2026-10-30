@@ -142,5 +142,12 @@
   "operateur": "Allan",
   "motif": null,
   "commentaire": ""
+ },
+ "complement:lotissement:30003:797300_6274714": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-30T11:06:12",
+  "operateur": "Allan"
  }
 }
