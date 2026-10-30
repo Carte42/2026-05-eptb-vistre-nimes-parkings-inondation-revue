@@ -50,7 +50,7 @@
     ]
    ]
   },
-  "surf_m2": 1435.0,
+  "surf_m2": 1435,
   "nb_pl_est": 47,
   "revu_le": "2026-10-29T09:49:09",
   "operateur": "Allan"
@@ -150,7 +150,7 @@
     ]
    ]
   },
-  "surf_m2": 541.0,
+  "surf_m2": 541,
   "nb_pl_est": 24,
   "revu_le": "2026-10-29T09:51:01",
   "operateur": "Allan"
@@ -160,6 +160,13 @@
   "motif": null,
   "commentaire": "",
   "revu_le": "2026-10-29T09:51:36",
+  "operateur": "Allan"
+ },
+ "complement:equipement:30258:815266_6287736": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "",
+  "revu_le": "2026-10-30T13:17:13",
   "operateur": "Allan"
  }
 }
