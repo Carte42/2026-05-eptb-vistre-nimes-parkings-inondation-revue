@@ -40,5 +40,12 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:20:00",
   "operateur": "Allan"
+ },
+ "complement:equipement:30344:798254_6294744": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-30T13:20:03",
+  "operateur": "Allan"
  }
 }
