@@ -26,5 +26,12 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:03:13",
   "operateur": "Allan"
+ },
+ "complement:equipement:30062:796140_6298688": {
+  "statut": "rejetee",
+  "motif": "lineaire",
+  "commentaire": "",
+  "revu_le": "2026-10-30T13:03:28",
+  "operateur": "Allan"
  }
 }
