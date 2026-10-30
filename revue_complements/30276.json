@@ -44,9 +44,16 @@
     ]
    ]
   },
-  "surf_m2": 1066.0,
+  "surf_m2": 1066,
   "nb_pl_est": 40,
   "revu_le": "2026-10-29T14:58:55",
+  "operateur": "Allan"
+ },
+ "complement:lotissement:30276:796936_6282654": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "",
+  "revu_le": "2026-10-30T13:17:32",
   "operateur": "Allan"
  }
 }
