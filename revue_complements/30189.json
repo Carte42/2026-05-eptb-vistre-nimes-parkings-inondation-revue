@@ -915,7 +915,7 @@
   "operateur": "Allan"
  },
  "complement:pleine:vivier:30189:488": {
-  "statut": "a_controler",
+  "statut": "validee",
   "motif": null,
   "commentaire": "",
   "geometrie": {
@@ -955,7 +955,7 @@
   },
   "surf_m2": 386.8,
   "nb_pl_est": 18,
-  "revu_le": "2026-10-30T13:14:47",
+  "revu_le": "2026-10-30T16:05:35",
   "operateur": "Allan"
  },
  "complement:pleine:vivier:30189:478": {
