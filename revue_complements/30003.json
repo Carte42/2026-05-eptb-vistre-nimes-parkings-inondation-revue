@@ -93,6 +93,8 @@
  },
  "complement:equipement:30003:796804_6275110": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -136,12 +138,10 @@
     ]
    ]
   },
-  "surf_m2": 1169.4,
+  "surf_m2": 1169.8,
   "nb_pl_est": 42,
   "revu_le": "2026-10-30T11:06:03",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:lotissement:30003:797300_6274714": {
   "statut": "validee",
