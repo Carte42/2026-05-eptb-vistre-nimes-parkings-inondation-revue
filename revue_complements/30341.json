@@ -226,6 +226,8 @@
  },
  "complement:lotissement:30341:801940_6289792": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -269,15 +271,15 @@
     ]
    ]
   },
-  "surf_m2": 1847.1,
+  "surf_m2": 1847.3,
   "nb_pl_est": 53,
   "revu_le": "2026-10-30T13:18:32",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:lotissement:30341:801996_6289860": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -325,12 +327,10 @@
     ]
    ]
   },
-  "surf_m2": 994.3,
+  "surf_m2": 994.4,
   "nb_pl_est": 38,
   "revu_le": "2026-10-30T13:18:57",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:equipement:30341:802764_6289042": {
   "statut": "rejetee",

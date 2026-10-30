@@ -1,6 +1,8 @@
 {
  "complement:equipement:30039:819856_6310306": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -47,8 +49,6 @@
   "surf_m2": 802.8,
   "nb_pl_est": 33,
   "revu_le": "2026-10-30T13:02:55",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

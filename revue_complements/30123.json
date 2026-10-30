@@ -22,6 +22,8 @@
  },
  "complement:equipement:30123:794594_6292270": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -65,12 +67,10 @@
     ]
    ]
   },
-  "surf_m2": 1380.9,
+  "surf_m2": 1381.1,
   "nb_pl_est": 46,
   "revu_le": "2026-10-30T13:05:49",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:equipement:30123:794346_6292092": {
   "statut": "rejetee",
@@ -81,6 +81,8 @@
  },
  "complement:equipement:30123:794724_6291832": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -111,8 +113,6 @@
   "surf_m2": 342.2,
   "nb_pl_est": 17,
   "revu_le": "2026-10-30T13:06:27",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

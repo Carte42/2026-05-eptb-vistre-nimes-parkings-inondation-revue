@@ -69,6 +69,8 @@
  },
  "complement:lotissement:30004:795442_6293432": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -96,11 +98,9 @@
     ]
    ]
   },
-  "surf_m2": 1007.5,
+  "surf_m2": 1007.6,
   "nb_pl_est": 39,
   "revu_le": "2026-10-30T13:01:20",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  }
 }

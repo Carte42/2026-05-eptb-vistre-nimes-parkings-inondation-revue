@@ -22,6 +22,8 @@
  },
  "complement:lotissement:30083:798946_6293342": {
   "statut": "validee",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -49,12 +51,10 @@
     ]
    ]
   },
-  "surf_m2": 1049.3,
+  "surf_m2": 1049.4,
   "nb_pl_est": 39,
   "revu_le": "2026-10-30T13:05:03",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:lotissement:30083:798432_6293296": {
   "statut": "validee",

@@ -86,7 +86,7 @@
     ]
    ]
   },
-  "surf_m2": 2993,
+  "surf_m2": 2993.0,
   "nb_pl_est": 79,
   "revu_le": "2026-10-29T08:57:41",
   "operateur": "Allan"
@@ -309,7 +309,7 @@
     ]
    ]
   },
-  "surf_m2": 509,
+  "surf_m2": 509.0,
   "nb_pl_est": 23
  },
  "complement:foncier:30189:810814_6306990": {
@@ -916,6 +916,8 @@
  },
  "complement:pleine:vivier:30189:488": {
   "statut": "a_controler",
+  "motif": null,
+  "commentaire": "",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -954,9 +956,7 @@
   "surf_m2": 386.8,
   "nb_pl_est": 18,
   "revu_le": "2026-10-30T13:14:47",
-  "operateur": "Allan",
-  "motif": null,
-  "commentaire": ""
+  "operateur": "Allan"
  },
  "complement:pleine:vivier:30189:478": {
   "statut": "validee",
