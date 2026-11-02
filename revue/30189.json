@@ -3110,15 +3110,15 @@
   "operateur": "Allan"
  },
  "osm:w153323525": {
-  "statut": "rejetee",
-  "motif": "prive",
+  "statut": "validee",
+  "motif": null,
   "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-02T07:01:38",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-02T07:01:38",
+  "revu_le": "2026-11-02T10:02:18",
   "operateur": "Allan"
  },
  "osm:w384983802": {
