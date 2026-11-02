@@ -413,5 +413,33 @@
   "commentaire": "Rangée en bataille à l'ouest de l'aire magenta, peu occupée, environ 28 m ; limite du seuil, à fusionner.",
   "revu_le": "2026-11-02T19:32:06",
   "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:R26_E26_22": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué de collège, en U autour des locaux et du parvis ; emprise de l'aile sud estimée.",
+  "revu_le": "2026-11-02T21:03:13",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:R26_E26_04": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Grande aire autour d'un hangar d'activité, une trentaine de véhicules en bataille le long des clôtures.",
+  "revu_le": "2026-11-02T21:03:16",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:R26_E26_07": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Aire goudronnée au pied d'un viaduc, sept véhicules dont camping-cars, prolonge une aire déjà à l'inventaire de l'autre côté, à fusionner ; bord ouest estimé.",
+  "revu_le": "2026-11-02T21:03:16",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:R26_E26_10": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Cour goudronnée d'un site d'activité, une douzaine de voitures en bataille sur le bord est.",
+  "revu_le": "2026-11-02T21:03:16",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

@@ -226,5 +226,12 @@
   "commentaire": "Parking public marqué manifeste, entre voie ferrée et esplanade, au nord du bâtiment à toit plat ; immeuble non identifié.",
   "revu_le": "2026-11-02T19:32:08",
   "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:R27_E27_20": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Placette goudronnée en retrait de rue, quatre voitures, sans marquage.",
+  "revu_le": "2026-11-02T21:03:16",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

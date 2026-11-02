@@ -61,5 +61,12 @@
   "commentaire": "Places en épi en bord de rue, environ 8 places sur 23 m.",
   "revu_le": "2026-11-02T19:31:47",
   "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:R20_E20_08": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille d'environ huit voitures le long d'un grand hangar, une douzaine de places y tiennent, sans marquage.",
+  "revu_le": "2026-11-02T21:03:16",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

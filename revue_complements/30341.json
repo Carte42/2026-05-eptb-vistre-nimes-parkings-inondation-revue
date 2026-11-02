@@ -576,5 +576,12 @@
   "commentaire": "Rangée en épi à l'ombre de la barre est, côté rue, sept voitures sur environ 21 m, sous le seuil ; suite possible cachée par l'ombre.",
   "revu_le": "2026-11-02T19:32:09",
   "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:R27_E27_15b": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Poche de quatre voitures en bataille devant de petits immeubles.",
+  "revu_le": "2026-11-02T21:03:16",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }
