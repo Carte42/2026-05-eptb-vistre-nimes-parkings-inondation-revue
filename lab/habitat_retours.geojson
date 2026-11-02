@@ -1,0 +1,43 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.38446,
+       43.84591
+      ],
+      [
+       4.384226,
+       43.845867
+      ],
+      [
+       4.383953,
+       43.845604
+      ],
+      [
+       4.383939,
+       43.845459
+      ],
+      [
+       4.38446,
+       43.84591
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "retour:20261102081847",
+    "type": "retrace",
+    "aire": "chemin_bas:H20",
+    "commentaire": "",
+    "auteur": "Allan",
+    "le": "2026-11-02T08:18:47"
+   }
+  }
+ ]
+}
