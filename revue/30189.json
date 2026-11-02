@@ -2665,8 +2665,13 @@
   "statut": "rejetee",
   "motif": "prive",
   "commentaire": "",
-  "revu_le": "2026-09-30T17:01:12",
-  "operateur": "Allan"
+  "revu_le": "2026-11-02T08:56:37",
+  "operateur": "Allan",
+  "streetview": {
+   "controle_le": "2026-11-02T08:56:37",
+   "date_vue": null,
+   "disponible": true
+  }
  },
  "osm:w156000559": {
   "statut": "rejetee",
