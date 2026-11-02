@@ -2466,15 +2466,15 @@
   "operateur": "Allan"
  },
  "osm:w911886527": {
-  "statut": "rejetee",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-30T16:51:30",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-30T16:52:02",
+  "revu_le": "2026-11-02T10:02:22",
   "operateur": "Allan",
-  "motif": "prive",
+  "motif": null,
   "commentaire": ""
  },
  "osm:w593800590": {
