@@ -691,10 +691,10 @@
   "operateur": "Allan"
  },
  "osm:w935861065": {
-  "statut": "rejetee",
-  "motif": "prive",
+  "statut": "validee",
+  "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-30T17:05:37",
+  "revu_le": "2026-11-02T10:02:46",
   "operateur": "Allan",
   "streetview": {
    "controle_le": "2026-09-30T17:05:37",
