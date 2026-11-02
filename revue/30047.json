@@ -287,15 +287,15 @@
   "operateur": "Allan"
  },
  "osm:w506500251": {
-  "statut": "rejetee",
-  "motif": "prive",
+  "statut": "validee",
+  "motif": null,
   "commentaire": "",
   "streetview": {
    "controle_le": "2026-09-29T18:52:06",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T18:52:06",
+  "revu_le": "2026-11-02T09:41:22",
   "operateur": "Allan"
  },
  "osm:w172801563": {
