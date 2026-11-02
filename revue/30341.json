@@ -274,13 +274,13 @@
   "operateur": "Allan"
  },
  "osm:w813119687": {
-  "statut": "rejetee",
+  "statut": "a_controler",
   "streetview": {
    "controle_le": "2026-09-30T09:58:02",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-30T09:58:18",
+  "revu_le": "2026-11-02T10:03:06",
   "operateur": "Allan",
   "motif": "prive",
   "commentaire": ""
