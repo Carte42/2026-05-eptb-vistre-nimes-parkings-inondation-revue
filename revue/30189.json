@@ -3197,10 +3197,10 @@
   "operateur": "Allan"
  },
  "osm:w626407544": {
-  "statut": "rejetee",
-  "motif": "prive",
+  "statut": "validee",
+  "motif": null,
   "commentaire": "",
-  "revu_le": "2026-10-01T19:41:49",
+  "revu_le": "2026-11-02T10:02:11",
   "operateur": "Allan"
  },
  "osm:w985562861": {
