@@ -1218,10 +1218,10 @@
   "operateur": "Allan"
  },
  "osm:w505017791": {
-  "statut": "rejetee",
-  "motif": "prive",
+  "statut": "validee",
+  "motif": null,
   "commentaire": "",
-  "revu_le": "2026-09-30T15:27:04",
+  "revu_le": "2026-11-02T10:03:03",
   "operateur": "Allan"
  },
  "osm:w1387344569": {
