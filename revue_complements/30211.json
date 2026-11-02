@@ -5,5 +5,40 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:15:43",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E25_14": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué entre deux petits immeubles, rangée d'environ 24 m : limite du seuil.",
+  "revu_le": "2026-11-02T19:31:59",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_21": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué à l'ouest de l'immeuble, rangée d'environ 24 m : limite du seuil, peu occupé.",
+  "revu_le": "2026-11-02T19:31:59",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_22": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué à l'est de l'immeuble, rangée d'environ 24 m : limite du seuil, allée à l'ombre.",
+  "revu_le": "2026-11-02T19:31:59",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_15": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Rangée en bord de rue, environ 18 m et 7 places.",
+  "revu_le": "2026-11-02T19:32:00",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_16": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Six voitures le long d'un mur, cour sans marquage et hors immeuble collectif net.",
+  "revu_le": "2026-11-02T19:32:00",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

@@ -55,5 +55,26 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:16:34",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E25_09": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Grand parking marqué desservant les barres, allée centrale et deux rangées, avec poche au nord-ouest.",
+  "revu_le": "2026-11-02T19:31:58",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_08": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Aire non revêtue le long d'un long immeuble, une douzaine de véhicules sans marquage. Contour estimé côté haie, limité au droit de l'immeuble.",
+  "revu_le": "2026-11-02T19:31:59",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_18": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking du stade, marqué, ouvert au public, sans voiture à la prise de vue ; pas d'immeuble desservi directement.",
+  "revu_le": "2026-11-02T19:32:00",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

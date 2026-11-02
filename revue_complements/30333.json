@@ -135,5 +135,96 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:17:42",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E27_01": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Grand parking marqué en bataille entre voie ferrée et grand bâtiment à toit plat sans logement recensé (équipement à préciser), peu occupé. Allée comprise jusqu'à l'axe.",
+  "revu_le": "2026-11-02T19:32:06",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_01b": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille marquée au pied sud du même bâtiment à toit plat, face aux immeubles, une vingtaine de places.",
+  "revu_le": "2026-11-02T19:32:06",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_02": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking au pied d'immeubles à quatre pans, cour goudronnée et béton avec rangée le long du mur ouest. Quelques arbres au centre englobés.",
+  "revu_le": "2026-11-02T19:32:06",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_02b": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Bande bétonnée de stationnement en entrée de la résidence, à fusionner avec le parking voisin ; limite du seuil.",
+  "revu_le": "2026-11-02T19:32:06",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_03": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking manifeste du supermarché : allée ouest et aire sud à bandes plantées (bandes englobées).",
+  "revu_le": "2026-11-02T19:32:06",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_05": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Cour d'îlot entre immeubles en bande : aire marquée, cour béton et allée d'accès comprise.",
+  "revu_le": "2026-11-02T19:32:06",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_06": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petit parking non marqué au milieu de maisons, six voitures, sans immeuble à portée ; limite du seuil, non retenu.",
+  "revu_le": "2026-11-02T19:32:06",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_07": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en épi au pied ouest de l'immeuble à toits-terrasses, le long de la rue.",
+  "revu_le": "2026-11-02T19:32:06",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_07b": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Cour d'îlot à l'arrière de l'immeuble, entourée de bâtiments ; contour estimé côté ombre, une dizaine de places.",
+  "revu_le": "2026-11-02T19:32:06",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_09": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Courette de bourg entre maisons, sept voitures, moins de 10 places.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_19": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Cour d'îlot entourée d'immeubles, une dizaine de voitures, arbre central en partie englobé.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_19b": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Seconde cour d'îlot fermée, six voitures visibles, une dizaine de places tiennent ; limite du seuil, immeuble moins net.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_32": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking public marqué manifeste, entre voie ferrée et esplanade, au nord du bâtiment à toit plat ; immeuble non identifié.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

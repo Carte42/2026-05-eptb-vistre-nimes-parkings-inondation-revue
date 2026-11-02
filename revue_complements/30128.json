@@ -70,5 +70,26 @@
   "nb_pl_est": 15,
   "revu_le": "2026-10-30T13:07:10",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E23_02": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Grand parking marqué en U autour d'un immeuble, plus rangée d'accès au nord-ouest. Rangée est à l'ombre, contour estimé.",
+  "revu_le": "2026-11-02T19:31:52",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_03": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Longue rangée double marquée à l'ouest de l'immeuble, bien occupée.",
+  "revu_le": "2026-11-02T19:31:52",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_20": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Îlot de stationnement sur la placette à l'est de l'immeuble, une douzaine de voitures, sans marquage lisible.",
+  "revu_le": "2026-11-02T19:31:52",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

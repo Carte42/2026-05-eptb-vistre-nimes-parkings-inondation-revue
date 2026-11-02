@@ -26,5 +26,40 @@
   "commentaire": "",
   "revu_le": "2026-10-29T07:32:17",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E20_07": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille d'une dizaine de places (27 m) au bord de la rue, devant l'aire de jeux ou de boules : équipement public de village, pas d'immeuble dédié.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_26": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Sept voitures le long du mur, sur une bande de 97 m² qui mord sur la rue : moins de 10 places.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_10": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Allée le long du bâtiment, quelques véhicules, pas de rangée lisible ; contour estimé (ombre, arbres).",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_11": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Cour d'îlot entre bâtiments et appentis, une dizaine de places tiennent, 5 voitures visibles ; limite du seuil.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_27": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Places en épi en bord de rue, environ 8 places sur 23 m.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

@@ -47,5 +47,89 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:20:03",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E28_01": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille le long de la façade ouest de l'immeuble en L, environ 50 m, peu occupée, cinq voitures.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_02": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking manifeste d'une rangée de maisons de ville, pas un immeuble : environ 25 places, allée centrale, garages ou abris en façade.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_03": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rangée en bataille marquée au pied de la résidence à patio, une quinzaine de places, allée comprise ; voisin nord en orange, allure fermée.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_04": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petite aire marquée entre pavillons, moins de 10 places, deux voitures, pas d'immeuble.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_07": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué au nord de la résidence, une quinzaine de places, deux voitures, massif central évité ; limite nord sous les arbres estimée.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_10": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Cinq places en bataille devant un équipement, entre deux aires déjà à l'inventaire.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_11": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petite cour au dos d'un immeuble de bourg, trois voitures, cinq à six places.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_12": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Cour d'îlot entourée de bâtiments, cinq voitures, abri à l'ouest, une dizaine de places au plus : limite du seuil.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_13": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée est et rangée sud de la même résidence, marquées, allée comprise, une trentaine de places ; contour estimé à l'ombre des immeubles.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_14": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking manifeste d'un commerce ou établissement en grand hangar, en bord de route, une quarantaine de places très occupées ; activité non identifiable sur la photo.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_16": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Sept à huit places marquées en bord de route, devant le local du cimetière, deux voitures.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_21": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking du cimetière : longue rangée marquée en bataille le long de la route, plus de 40 places, vide au moment de la photo, hors de portée d'un immeuble.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

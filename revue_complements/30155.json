@@ -47,5 +47,54 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:07:54",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E23_11": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée marquée en bord de rue devant un groupe scolaire, environ 30 m, vide au passage de la photo. Limite du seuil.",
+  "revu_le": "2026-11-02T19:31:53",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_23": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Courte rangée marquée devant le même équipement, environ 15 m.",
+  "revu_le": "2026-11-02T19:31:54",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_12": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Cour à confirmer : cour dégagée entre deux bâtiments de bourg (peu de logements), 3 voitures, sans marquage, une dizaine de places y tiennent.",
+  "revu_le": "2026-11-02T19:31:54",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_13": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking en cour ouverte d'un grand bâtiment de bourg, une quinzaine de voitures, usage non lisible (logements non recensés). Partie sud sous arbre, contour estimé.",
+  "revu_le": "2026-11-02T19:31:54",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_14": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Cour d'îlot entourée de bâtiments, ouverte sur la rue, 8 voitures visibles, une dizaine de places : limite du seuil.",
+  "revu_le": "2026-11-02T19:31:54",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_15": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Cour à confirmer : allée entre les immeubles et une file de garages, à l'ombre, quelques voitures. Contour estimé.",
+  "revu_le": "2026-11-02T19:31:54",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_14": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking en anneau autour de deux bâtiments collectifs à toits plats, places rouges et places handicapés ; pourrait aussi servir un pôle de services. Voie nord-est sans place écartée.",
+  "revu_le": "2026-11-02T19:31:56",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

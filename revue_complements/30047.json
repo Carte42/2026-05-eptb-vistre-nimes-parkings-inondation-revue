@@ -201,5 +201,33 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:20:45",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E20_20": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Poche de stationnement ouest, 5 voitures sur 14 m.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_28": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Poche est entre deux immeubles, 3 voitures, moins de 10 places.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_21": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking dédié entre deux immeubles en L, 7 voitures, une quinzaine de places tiennent ; bord ouest à l'ombre, contour estimé.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_15": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille marquée, près de 40 m, 6 voitures et allée, à l'arrière de maisons de ville denses ; pas d'immeuble franc. Contour estimé côté arbres.",
+  "revu_le": "2026-11-02T19:31:49",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

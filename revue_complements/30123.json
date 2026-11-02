@@ -114,5 +114,12 @@
   "nb_pl_est": 17,
   "revu_le": "2026-10-30T13:06:27",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E22_01": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué d'une trentaine de places entre petits collectifs, une quinzaine de voitures, allée comprise.",
+  "revu_le": "2026-11-02T19:31:50",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

@@ -47,5 +47,68 @@
   "commentaire": "",
   "revu_le": "2026-10-29T08:53:47",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E23_04": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en épi marquée en bord de rue devant une école, environ 80 m, à moitié occupée. Pas d'immeuble servi.",
+  "revu_le": "2026-11-02T19:31:52",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_05": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en épi marquée sur une place de bourg près d'une école, environ 25 m : limite du seuil. Peu occupée.",
+  "revu_le": "2026-11-02T19:31:52",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_21": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petite poche au pied de l'école, 3 voitures, 6 à 7 places.",
+  "revu_le": "2026-11-02T19:31:52",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_06": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Stationnement en épi le long de la cour d'école, entre les arbres, environ 100 m, peu occupé. Marquage visible par endroits, contour estimé.",
+  "revu_le": "2026-11-02T19:31:52",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_07": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Poche en bord de carrefour, 3 voitures et une place réservée, moins de 10 places.",
+  "revu_le": "2026-11-02T19:31:53",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_08": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangées ouest et sud au pied de la résidence, une quinzaine de voitures. Côté ouest sous arbres, contour estimé.",
+  "revu_le": "2026-11-02T19:31:53",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_22": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué à double rangée ouvert sur la rue, entre une résidence de 25 logements et des terrains de tennis, une vingtaine de places.",
+  "revu_le": "2026-11-02T19:31:53",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_09": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking d'un grand bâtiment clair d'activité ou de service, une vingtaine de voitures, grands bâtiments juste au sud. Équipement à préciser.",
+  "revu_le": "2026-11-02T19:31:53",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E23_10": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petite poche à la pointe d'un carrefour, 3 à 4 voitures, 6 places.",
+  "revu_le": "2026-11-02T19:31:53",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

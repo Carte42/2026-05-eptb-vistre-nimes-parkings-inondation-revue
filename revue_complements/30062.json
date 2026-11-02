@@ -33,5 +33,47 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:03:28",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E21_01": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Résidence de vacances en immeubles : poches de stationnement au pied de la barre, 7 voitures, une dizaine de places. Limite du seuil.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_03": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Résidence de vacances : rangée en bataille marquée le long de la voie, 40 m environ, voitures au nord et au sud. Contour estimé sous les arbres.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_05": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking dédié derrière un bâtiment de commerce ou services (nature non lisible sur la photo), 9 voitures en deux rangées, ouvert sur la rue. Limite du seuil.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_06": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Grand parking d'un bâtiment de commerce ou services (nature non lisible sur la photo), 12 voitures : rangée en bataille sur la rue et allée vers le sud.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_07": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille le long du mur, 40 m environ, 7 voitures, allée comprise, au pied de l'immeuble. Limite d'allée dans l'ombre.",
+  "revu_le": "2026-11-02T19:31:49",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_02": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée de résidence entre maisons en bande accolées, rangée et poches côté est, placette au sud ; une quinzaine de voitures.",
+  "revu_le": "2026-11-02T19:31:50",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

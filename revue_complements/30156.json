@@ -4092,5 +4092,54 @@
   "nb_pl_est": 25,
   "revu_le": "2026-10-30T13:11:22",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E24_08": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking au pied d'un immeuble : aire nord et allée est, voitures sous les arbres ; contour estimé à l'ombre.",
+  "revu_le": "2026-11-02T19:31:55",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_09": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Aire et allée plantée desservant un grand immeuble en coeur de bourg, peu de voitures visibles ; rangée estimée sous les arbres.",
+  "revu_le": "2026-11-02T19:31:55",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_10": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée marquée de 11 places devant un équipement à toits plats (Marguerittes), limite du seuil ; bord sud sous les arbres.",
+  "revu_le": "2026-11-02T19:31:56",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_11": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking entre deux immeubles, deux rangées marquées autour de l'allée, 15 places environ, 10 voitures.",
+  "revu_le": "2026-11-02T19:31:56",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_12": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking au pied d'une résidence en U, ouvert sur la rue, 11 voitures, une douzaine de places ; bord ouest à l'ombre.",
+  "revu_le": "2026-11-02T19:31:56",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_13": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petite cour d'îlot, 4 voitures, 6 places environ.",
+  "revu_le": "2026-11-02T19:31:56",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_20": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Petit parking ouvert en bout de rue de bourg, une douzaine de voitures, limite du seuil ; aucun immeuble identifié comme desservi, rangée sud sous les arbres.",
+  "revu_le": "2026-11-02T19:31:57",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

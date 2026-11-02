@@ -5,5 +5,40 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:04:02",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E22_05": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Impasse entre maisons en bande avec poches dispersées, moins de 10 places.",
+  "revu_le": "2026-11-02T19:31:50",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_06": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué au pied d'une résidence à toit plat, une quinzaine de places, peu occupé.",
+  "revu_le": "2026-11-02T19:31:50",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_07": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Quatre places marquées en bataille à l'entrée d'une rue.",
+  "revu_le": "2026-11-02T19:31:50",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_08": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Place de bourg ancien, rangées en bataille marquées de part et d'autre de la rue (environ 33 m), dix voitures ; sert les immeubles du centre.",
+  "revu_le": "2026-11-02T19:31:50",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_09": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Grand parking de résidence, allée centrale bordée de places marquées entre petits collectifs, une quarantaine de voitures.",
+  "revu_le": "2026-11-02T19:31:50",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

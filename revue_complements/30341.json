@@ -338,5 +338,243 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:19:08",
   "operateur": "Allan"
+ },
+ "complement:immeuble:vauvert:V01": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking en stabilisé autour de petits immeubles, rangées le long de la voie ferrée et de l'allée.",
+  "revu_le": "2026-11-02T19:31:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V03": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée de stationnement le long d'une barre, une douzaine de voitures en bataille côté sud.",
+  "revu_le": "2026-11-02T19:31:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V05": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée de stationnement le long d'une barre, en grande partie à l'ombre, rangées des deux côtés.",
+  "revu_le": "2026-11-02T19:31:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V07": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Cour autour d'un petit immeuble, quelques voitures : moins de 10 places.",
+  "revu_le": "2026-11-02T19:31:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V08": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée d'une douzaine de voitures en bataille au pied d'une barre, le long de l'allée plantée.",
+  "revu_le": "2026-11-02T19:31:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V09": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Longue allée de stationnement au pied d'une grande barre, à l'ombre, rangée plantée à l'est.",
+  "revu_le": "2026-11-02T19:31:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V10": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué au pied d'une barre, en poche sur l'avenue, une vingtaine de places.",
+  "revu_le": "2026-11-02T19:31:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V11": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking au pied d'une barre, avec un îlot central, en partie sous les arbres.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V12": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking de l'autre côté de l'avenue, à l'est d'une barre, sur deux rangées.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V13": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée d'une quinzaine de voitures en bataille devant une barre, le long de la rue.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V14": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking en deux rangées entre un îlot planté et des barres, près du rond-point.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V15": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué d'une résidence de petits immeubles, entrée sur l'avenue : accès à vérifier.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V16": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking en enrobé au nord d'un immeuble, rangées des deux côtés de l'allée, bordé par un terrain vague.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V17": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée de stationnement au pied d'une barre, une douzaine de voitures en bataille.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V18": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Cour entre deux barres, une dizaine de voitures en file le long de la façade. À la limite du seuil.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V24": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Cour de stationnement à l'angle de deux barres, une dizaine de voitures, à l'ombre pour partie. À la limite du seuil.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V25": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée d'environ neuf voitures sur le virage, dans le prolongement d'une aire déjà validée : à fusionner plutôt qu'à compter à part. Vue à la seconde passe.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:vauvert:V26": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Sept voitures en rangée le long d'une résidence : moins de 10 places. Vue à la seconde passe.",
+  "revu_le": "2026-11-02T19:31:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_11": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Long parking marqué en bataille avec son allée au pied des barres, de l'anneau près du giratoire jusqu'à la fin de rangée. Allée à l'ombre, contour estimé côté immeubles.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_12": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille marquée le long de la rue, peu occupée, dans un lotissement de maisons avec barre en bout ; même logique que l'aire voisine à l'inventaire. Immeuble servi à préciser.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_13": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en épi hachurée au pied ouest de la longue barre, jusqu'à la fin de rangée.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_14": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking de pôle de services : rangée marquée et aire béton, usage immeuble à préciser.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_14b": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Aire goudronnée au nord de deux bâtiments à toit plat, une vingtaine de places ; usage à préciser.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_16": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée en impasse avec rangée en bataille à l'ombre du bâtiment, allée comprise ; limite du seuil, contour estimé côté ombre.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_21": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking manifeste d'un équipement public de bourg (bâtiment en quart de cercle) : allée et placette, une dizaine de voitures.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_22": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Cour de centre ancien, six voitures, moins de 10 places.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_23": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Allée et rangées entre les aires déjà rejetées de la même résidence, d'allure fermée. Contour estimé à l'ombre côté immeuble ouest.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_25": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Longue rangée en bataille, très occupée, au pied nord de la barre, le long de la rue.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_26": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée sous arbres au pied sud de la barre, le long de la rue ; palmiers englobés, peu occupée.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_26c": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en lisière du massif d'arbres, en face de la barre, près de l'aire déjà à l'inventaire ; limite du seuil.",
+  "revu_le": "2026-11-02T19:32:07",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E27_28": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Longue rangée en épi le long de la rue, devant la barre, jusqu'à la fin sous les arbres.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_18": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée entre deux barres, rangée en bataille à l'ombre de la barre ouest, voitures le long de la barre est, puis rangée au sud ; une trentaine de places ; contour estimé à l'ombre.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_19": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Deux places devant un bâtiment bas, pas de rangée ; le parking voisin marqué est déjà relevé.",
+  "revu_le": "2026-11-02T19:32:08",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E28_22": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Rangée en épi à l'ombre de la barre est, côté rue, sept voitures sur environ 21 m, sous le seuil ; suite possible cachée par l'ombre.",
+  "revu_le": "2026-11-02T19:32:09",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

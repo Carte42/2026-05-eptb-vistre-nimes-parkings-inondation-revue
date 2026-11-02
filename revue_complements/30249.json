@@ -5,5 +5,12 @@
   "commentaire": "",
   "revu_le": "2026-10-29T09:47:56",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E23_01": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking de résidence en deux poches autour d'un massif, 6 voitures visibles, une douzaine de places.",
+  "revu_le": "2026-11-02T19:31:51",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

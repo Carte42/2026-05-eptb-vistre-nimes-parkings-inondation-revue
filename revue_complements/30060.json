@@ -162,5 +162,68 @@
   "commentaire": "",
   "revu_le": "2026-10-29T08:46:59",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E0_53": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée entre deux collectifs, places en bataille des deux côtés ; une vingtaine de places.",
+  "revu_le": "2026-11-02T19:31:10",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E0_54": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée en coude entre deux collectifs, voitures en bataille à l'ombre côté mur ouest du bâtiment ; poche à l'ouest. Contour estimé dans l'ombre.",
+  "revu_le": "2026-11-02T19:31:10",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E0_55": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Grand parking marqué au nord et son allée entre barre et logements en bande, une trentaine de voitures à l'ombre de la barre.",
+  "revu_le": "2026-11-02T19:31:10",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E0_56": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille de 36 m devant des logements en bande, une douzaine de voitures.",
+  "revu_le": "2026-11-02T19:31:10",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_09": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée large au pied de la barre, voitures au nord et le long du mur ouest, à fusionner avec l'aire magenta au sud. Usage de la barre non renseigné. Contour estimé sous les arbres.",
+  "revu_le": "2026-11-02T19:31:49",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_10": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petite place à massifs, quelques marques, aucune voiture : moins de 10 places.",
+  "revu_le": "2026-11-02T19:31:49",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_11": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Courette au pied des immeubles, 2 voitures, 8 places au mieux.",
+  "revu_le": "2026-11-02T19:31:49",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_12": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Rangée marquée courte, 16 m, 6 à 7 places, une voiture.",
+  "revu_le": "2026-11-02T19:31:49",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E21_17": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Courette voisine séparée par un muret, 3 voitures, 5 places environ.",
+  "revu_le": "2026-11-02T19:31:49",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

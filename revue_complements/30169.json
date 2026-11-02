@@ -111,5 +111,96 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:11:48",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E24_01": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué en bataille d'un équipement public à bâtiments circulaires (Milhaud), 60 places environ, ouvert sur la rue.",
+  "revu_le": "2026-11-02T19:31:54",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_02": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Suite marquée du parking de l'équipement public, à fusionner avec E24_01 ; presque vide à la prise de vue.",
+  "revu_le": "2026-11-02T19:31:54",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_03": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking de service de l'équipement public, 5 voitures, marquage effacé ; dizaine de places tenables, limite du seuil.",
+  "revu_le": "2026-11-02T19:31:55",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_04": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking au pied d'un long immeuble, places marquées des deux côtés de l'allée, 14 places environ ; arbre sur le bord est.",
+  "revu_le": "2026-11-02T19:31:55",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_06": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Sol stabilisé à l'ouest de la résidence dont le parking voisin est rejeté, 8 voitures sans marquage, partie vide à l'est écartée ; contour estimé.",
+  "revu_le": "2026-11-02T19:31:55",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_07": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rangée en bataille au nord de la même résidence, 38 m, 15 places tenables, 5 voitures.",
+  "revu_le": "2026-11-02T19:31:55",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_17": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Cour à confirmer : cour d'îlot entourée de bâtiments, 10 véhicules dont une rangée en bataille le long du mur, une douzaine de places.",
+  "revu_le": "2026-11-02T19:31:56",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_18": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Cour à confirmer : aire sous les arbres derrière un grand bâtiment collectif, 9 voitures sans marquage ; contour estimé, ombre forte.",
+  "revu_le": "2026-11-02T19:31:57",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E24_19": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petite cour entre maisons de centre ancien, à l'ombre, 4 ou 5 voitures.",
+  "revu_le": "2026-11-02T19:31:57",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_01": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué entre deux petits collectifs à toit plat, deux rangées, une dizaine de places : limite du seuil. Ouest à l'ombre, contour estimé.",
+  "revu_le": "2026-11-02T19:31:57",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_19": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petite poche marquée au nord du même collectif, moitié à l'ombre, moins de 10 places.",
+  "revu_le": "2026-11-02T19:31:57",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_02": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Courette arrière marquée, environ 6 places.",
+  "revu_le": "2026-11-02T19:31:57",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E25_03": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Poche marquée au pied d'un petit collectif, 6 à 8 places.",
+  "revu_le": "2026-11-02T19:31:58",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

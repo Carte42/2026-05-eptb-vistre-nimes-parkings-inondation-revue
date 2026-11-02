@@ -55,5 +55,47 @@
   "nb_pl_est": 26,
   "revu_le": "2026-10-30T13:03:51",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E22_10": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Allée le long d'une barre, places sous les arbres et poche d'extrémité au sud, une quinzaine de voitures. Contour estimé côté arbres.",
+  "revu_le": "2026-11-02T19:31:51",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_12": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking très rempli d'un ensemble commercial en bord de route, une trentaine de véhicules, prolonge l'aire orange voisine. Doute : rangées serrées qui pourraient être en partie un stock.",
+  "revu_le": "2026-11-02T19:31:51",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_13": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée marquée en bataille le long d'un grand collectif, une douzaine de voitures sur environ 60 m.",
+  "revu_le": "2026-11-02T19:31:51",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_14": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking marqué le long d'une barre, rangée nord-sud et poche sud près du rond-point, une douzaine de voitures. Bord est sous les arbres, estimé.",
+  "revu_le": "2026-11-02T19:31:51",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_15": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Cour entre deux petits collectifs, une voiture, une ligne ; environ 22 x 13 m, limite du seuil, 8 à 9 places.",
+  "revu_le": "2026-11-02T19:31:51",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E22_16": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille au pied d'un immeuble, six voitures et places marquées au sud, environ 24 m : limite du seuil.",
+  "revu_le": "2026-11-02T19:31:51",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

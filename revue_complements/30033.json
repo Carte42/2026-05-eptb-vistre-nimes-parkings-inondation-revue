@@ -518,5 +518,40 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:02:24",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E20_13": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en épi au pied du long immeuble, une douzaine de voitures sur 45 m, élargie au carrefour nord-est.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_14": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petit parking enrobé à cases marquées du bourg, 7 à 8 places, en partie à l'ombre.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_17": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Cour d'îlot : anneau de desserte de la résidence en couronne, 14 voitures visibles le long du jardin central exclu ; côté est sous les arbres, contour estimé.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_18": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Cases pavées et enrobé devant l'immeuble, prolonge l'aire magenta : à fusionner. Contour estimé (arbres), limite avec la voie de desserte floue.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_19": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Petit enrobé devant l'équipement, 1 véhicule, moins de 10 places.",
+  "revu_le": "2026-11-02T19:31:48",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

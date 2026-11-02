@@ -33,5 +33,54 @@
   "commentaire": "",
   "revu_le": "2026-10-30T13:01:46",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E19_17": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Cour entre bâtiments, 23 m sur 14 m, cinq voitures : une dizaine de places ne tiennent pas clairement.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_02": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille sur l'anneau nord du rond-point, une vingtaine de places avec allée, au pied du croissant d'immeubles.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_03": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Parking enrobé peu occupé, attenant au bâtiment d'activité à toit plat ; contour estimé le long du mur à l'ombre.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_04": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée en bataille sur l'anneau sud, environ 17 places, devant l'immeuble en arc ; allée à l'ombre, contour estimé côté façade.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_05": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Rangée en bataille le long de la rue, environ 8 places (20 m).",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_06": {
+  "statut": "validee",
+  "motif": null,
+  "commentaire": "Rangée à l'est du rond-point avec allée, prolongée par les cases au sud de l'immeuble ; une douzaine de places, proche du seuil.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
+ },
+ "complement:immeuble:ext_nimes:E20_25": {
+  "statut": "rejetee",
+  "motif": "moins_10",
+  "commentaire": "Rangée au bord de la rue à l'est de l'immeuble, environ 8 places.",
+  "revu_le": "2026-11-02T19:31:47",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }

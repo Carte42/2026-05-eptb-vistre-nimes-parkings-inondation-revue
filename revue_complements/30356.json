@@ -69,5 +69,12 @@
   "commentaire": "",
   "revu_le": "2026-10-29T09:46:29",
   "operateur": "Allan"
+ },
+ "complement:immeuble:ext_nimes:E25_13": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Cour à confirmer : cour entre trois barres, sous les arbres, une huitaine de voitures visibles sans marquage ; contour estimé.",
+  "revu_le": "2026-11-02T19:31:59",
+  "operateur": "Claude, délégation d'Allan (D44)"
  }
 }
