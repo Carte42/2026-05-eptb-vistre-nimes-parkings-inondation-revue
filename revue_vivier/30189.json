@@ -86,8 +86,8 @@
   "operateur": "Allan"
  },
  "vivier:30189:184": {
-  "statut": "a_controler",
-  "commentaire": "",
+  "statut": "validee",
+  "commentaire": "Place probable, rangement véhicule peut-etre possible",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -130,8 +130,9 @@
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-06T14:37:01",
-  "operateur": "Allan"
+  "revu_le": "2026-11-03T07:46:00",
+  "operateur": "Allan",
+  "motif": null
  },
  "vivier:30189:212": {
   "statut": "rejetee",
