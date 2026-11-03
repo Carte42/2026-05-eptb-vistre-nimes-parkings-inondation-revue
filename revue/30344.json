@@ -1,14 +1,15 @@
 {
  "osm:w370012783": {
-  "statut": "a_controler",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-30T10:07:40",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-30T10:09:24",
+  "revu_le": "2026-11-03T07:40:57",
   "operateur": "Allan",
-  "commentaire": ""
+  "commentaire": "",
+  "motif": null
  },
  "osm:w370012785": {
   "statut": "rejetee",
