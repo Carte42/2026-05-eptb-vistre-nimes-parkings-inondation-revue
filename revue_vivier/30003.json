@@ -75,10 +75,11 @@
   "motif": "prive"
  },
  "vivier:30003:011": {
-  "statut": "a_controler",
+  "statut": "validee",
   "commentaire": "",
-  "revu_le": "2026-10-05T09:36:18",
-  "operateur": "Allan"
+  "revu_le": "2026-11-03T07:46:41",
+  "operateur": "Allan",
+  "motif": null
  },
  "vivier:30003:012": {
   "statut": "rejetee",
