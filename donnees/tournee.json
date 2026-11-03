@@ -1152,7 +1152,7 @@
     {
      "ordre": 12,
      "cle": "PK_30189_023",
-     "heure": "16:60",
+     "heure": "17:00",
      "commune": "Nîmes",
      "nom": "Parking relais A54",
      "classe": "grande",
@@ -1342,72 +1342,207 @@
      "surf_m2": 3007
     },
     {
+     "cle": "PK_30344_020",
+     "commune": "Vergèze",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 958,
+     "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+       [
+        [
+         4.224312,
+         43.74229
+        ],
+        [
+         4.224361,
+         43.742167
+        ],
+        [
+         4.223572,
+         43.742023
+        ],
+        [
+         4.223527,
+         43.742155
+        ],
+        [
+         4.224312,
+         43.74229
+        ]
+       ]
+      ]
+     },
+     "ajoutee": "en construction sur la photo, à voir sur place",
      "ordre": 20,
+     "heure": "15:28"
+    },
+    {
+     "cle": "PK_30344_015",
+     "commune": "Vergèze",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1895,
+     "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+       [
+        [
+         4.224129,
+         43.742065
+        ],
+        [
+         4.224252,
+         43.741732
+        ],
+        [
+         4.223662,
+         43.741608
+        ],
+        [
+         4.223544,
+         43.741945
+        ],
+        [
+         4.224129,
+         43.742065
+        ]
+       ]
+      ]
+     },
+     "ajoutee": "en construction sur la photo, à voir sur place",
+     "ordre": 21,
+     "heure": "15:41"
+    },
+    {
+     "ordre": 22,
      "cle": "PK_30344_013",
-     "heure": "15:28",
+     "heure": "15:54",
      "commune": "Vergèze",
      "nom": "Ombrage - Vergèze espace",
      "classe": "grande",
      "surf_m2": 2408
     },
     {
-     "ordre": 21,
+     "ordre": 23,
      "cle": "PK_30344_014",
-     "heure": "15:41",
+     "heure": "16:07",
      "commune": "Vergèze",
      "nom": null,
      "classe": "grande",
      "surf_m2": 2213
     },
     {
-     "ordre": 22,
+     "ordre": 24,
      "cle": "PK_30344_022",
-     "heure": "15:55",
+     "heure": "16:21",
      "commune": "Vergèze",
      "nom": null,
      "classe": "grande",
      "surf_m2": 2085
     },
     {
-     "ordre": 23,
+     "ordre": 25,
      "cle": "PK_30344_018",
-     "heure": "16:08",
+     "heure": "16:35",
      "commune": "Vergèze",
      "nom": "Parking Maurin",
      "classe": "moyenne",
      "surf_m2": 1234
     },
     {
-     "ordre": 24,
+     "ordre": 26,
      "cle": "PK_30004_013",
-     "heure": "16:27",
+     "heure": "16:53",
      "commune": "Aigues-Vives",
      "nom": null,
      "classe": "grande",
      "surf_m2": 3468
     },
     {
-     "ordre": 25,
+     "ordre": 27,
      "cle": "PK_30004_009",
-     "heure": "16:41",
+     "heure": "17:07",
      "commune": "Aigues-Vives",
      "nom": "Parking des Arènes",
      "classe": "moyenne",
      "surf_m2": 1295
     },
     {
-     "ordre": 26,
+     "ordre": 28,
      "cle": "PK_30004_006",
-     "heure": "16:55",
+     "heure": "17:21",
      "commune": "Aigues-Vives",
      "nom": "Parking complexe sportif",
      "classe": "grande",
      "surf_m2": 2144
+    },
+    {
+     "cle": "PK_30019_002",
+     "commune": "Aubais",
+     "nom": null,
+     "classe": "moyenne",
+     "surf_m2": 1765,
+     "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+       [
+        [
+         4.146991,
+         43.753454
+        ],
+        [
+         4.14745,
+         43.753499
+        ],
+        [
+         4.147485,
+         43.753308
+        ],
+        [
+         4.147633,
+         43.753327
+        ],
+        [
+         4.147642,
+         43.753256
+        ],
+        [
+         4.147652,
+         43.75322
+        ],
+        [
+         4.147437,
+         43.753125
+        ],
+        [
+         4.14733,
+         43.753103
+        ],
+        [
+         4.147036,
+         43.753104
+        ],
+        [
+         4.146964,
+         43.753451
+        ],
+        [
+         4.146991,
+         43.753454
+        ]
+       ]
+      ]
+     },
+     "ajoutee": "en construction sur la photo, à voir sur place",
+     "ordre": 29,
+     "heure": "17:42"
     }
    ],
-   "km": 128,
-   "fin_visites": "17:05",
-   "retour": "17:27"
+   "km": 136,
+   "fin_visites": "17:52",
+   "retour": "18:16"
   }
  ],
  "hors_tournee": [
