@@ -116,14 +116,15 @@
   "motif": null
  },
  "vivier:30169:018": {
-  "statut": "a_controler",
+  "statut": "validee",
   "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-06T09:36:24",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-06T09:37:26",
-  "operateur": "Allan"
+  "revu_le": "2026-11-03T07:46:56",
+  "operateur": "Allan",
+  "motif": null
  }
 }
