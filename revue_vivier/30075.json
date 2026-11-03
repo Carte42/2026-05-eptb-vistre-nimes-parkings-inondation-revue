@@ -19,7 +19,7 @@
   "operateur": "Allan"
  },
  "vivier:30075:001": {
-  "statut": "a_controler",
+  "statut": "validee",
   "commentaire": "",
   "geometrie": {
    "type": "Polygon",
@@ -55,8 +55,9 @@
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-05T16:39:55",
-  "operateur": "Allan"
+  "revu_le": "2026-11-03T07:46:53",
+  "operateur": "Allan",
+  "motif": null
  },
  "vivier:30075:010": {
   "statut": "rejetee",
