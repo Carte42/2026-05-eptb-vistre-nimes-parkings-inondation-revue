@@ -1,14 +1,15 @@
 {
  "vivier:30075:006": {
-  "statut": "a_controler",
+  "statut": "validee",
   "commentaire": "",
   "streetview": {
    "controle_le": "2026-10-05T16:31:35",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-10-05T16:32:52",
-  "operateur": "Allan"
+  "revu_le": "2026-11-03T07:46:33",
+  "operateur": "Allan",
+  "motif": null
  },
  "vivier:30075:008": {
   "statut": "validee",
