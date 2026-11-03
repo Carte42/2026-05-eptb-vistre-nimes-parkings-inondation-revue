@@ -19,15 +19,16 @@
   "operateur": "Allan"
  },
  "osm:w1533531865": {
-  "statut": "a_controler",
-  "commentaire": "",
+  "statut": "rejetee",
+  "commentaire": "Parking privé fermé clinique",
   "streetview": {
    "controle_le": "2026-09-29T18:52:07",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-29T18:52:07",
-  "operateur": "Allan"
+  "revu_le": "2026-11-03T07:43:54",
+  "operateur": "Allan",
+  "motif": "prive"
  },
  "osm:w1102962890": {
   "statut": "validee",
