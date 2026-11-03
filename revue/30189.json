@@ -1973,15 +1973,16 @@
   "operateur": "Allan"
  },
  "osm:w968175094": {
-  "statut": "a_controler",
+  "statut": "validee",
   "streetview": {
    "controle_le": "2026-09-30T16:06:13",
    "date_vue": null,
    "disponible": true
   },
-  "revu_le": "2026-09-30T16:07:16",
+  "revu_le": "2026-11-03T07:44:05",
   "operateur": "Allan",
-  "commentaire": ""
+  "commentaire": "",
+  "motif": null
  },
  "osm:w1227021613": {
   "statut": "validee",
