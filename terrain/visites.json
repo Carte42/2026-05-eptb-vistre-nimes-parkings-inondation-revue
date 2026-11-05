@@ -208,5 +208,19 @@
   "position": null,
   "le": "2026-11-05T09:34:33",
   "operateur": "Allan"
+ },
+ "30006:014": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "mixte",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-05T09:37:14",
+  "operateur": "Allan"
  }
 }
