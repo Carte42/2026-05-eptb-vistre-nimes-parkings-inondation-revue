@@ -278,5 +278,19 @@
   "position": null,
   "le": "2026-11-05T10:01:03",
   "operateur": "Allan"
+ },
+ "PK_30276_004": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "pleine",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-05T10:10:18",
+  "operateur": "Allan"
  }
 }
