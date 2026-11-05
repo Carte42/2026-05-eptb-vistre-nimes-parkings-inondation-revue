@@ -335,5 +335,19 @@
   "position": null,
   "le": "2026-11-05T10:46:52",
   "operateur": "Allan"
+ },
+ "PK_30003_004": {
+  "aire": "conforme",
+  "acces": "barriere",
+  "reglementation": [
+   "payant"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-05T10:49:07",
+  "operateur": "Allan"
  }
 }
