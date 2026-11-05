@@ -194,5 +194,19 @@
   "position": null,
   "le": "2026-11-05T09:23:42",
   "operateur": "Allan"
+ },
+ "PK_30006_008": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "mixte",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": "Dimanche marché de 6h à 13h",
+  "position": null,
+  "le": "2026-11-05T09:34:33",
+  "operateur": "Allan"
  }
 }
