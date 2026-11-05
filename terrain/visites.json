@@ -264,5 +264,19 @@
   "position": null,
   "le": "2026-11-05T09:50:51",
   "operateur": "Allan"
+ },
+ "manque:20261105100017": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "partielle",
+  "remarque": "Parking neuf devant le parc de jeux arboré observé pendant la visite. Non présent satellite et aérienne",
+  "position": null,
+  "le": "2026-11-05T10:01:03",
+  "operateur": "Allan"
  }
 }
