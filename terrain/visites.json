@@ -292,5 +292,20 @@
   "position": null,
   "le": "2026-11-05T10:10:18",
   "operateur": "Allan"
+ },
+ "PK_30276_006": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "duree_limitee",
+   "horaires"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "pleine",
+  "remarque": "Horaires et limitations durée : 45 minutes de 8h30 à 11h30 et de 14h30 à 18h30 en semaine hors samedi dimanche et jours fériés",
+  "position": null,
+  "le": "2026-11-05T10:19:36",
+  "operateur": "Allan"
  }
 }
