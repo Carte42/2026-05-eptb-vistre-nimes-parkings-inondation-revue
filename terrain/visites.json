@@ -307,5 +307,19 @@
   "position": null,
   "le": "2026-11-05T10:19:36",
   "operateur": "Allan"
+ },
+ "PK_30003_017": {
+  "aire": "conforme",
+  "acces": "reserve",
+  "reglementation": [
+   "reserve"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": "Parking du port de plaisance : parking privé fermé par une barrière",
+  "position": null,
+  "le": "2026-11-05T10:40:15",
+  "operateur": "Allan"
  }
 }
