@@ -96,5 +96,19 @@
   "position": null,
   "le": "2026-11-05T08:28:27",
   "operateur": "Allan"
+ },
+ "PK_30341_013": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-05T08:34:53",
+  "operateur": "Allan"
  }
 }
