@@ -166,5 +166,19 @@
   "position": null,
   "le": "2026-11-05T09:18:43",
   "operateur": "Allan"
+ },
+ "manque:20261105092013": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": "Observation de stationnement sur l'intégralité de la surface de ce giratoire lors de la tournée terrain deux points peut-être éventuellement une aire supplémentaire à mobiliser en dernier recours ?",
+  "position": null,
+  "le": "2026-11-05T09:21:02",
+  "operateur": "Allan"
  }
 }
