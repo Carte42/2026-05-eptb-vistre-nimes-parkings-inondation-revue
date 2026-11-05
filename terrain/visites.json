@@ -222,5 +222,19 @@
   "position": null,
   "le": "2026-11-05T09:37:14",
   "operateur": "Allan"
+ },
+ "PK_30006_018": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "mixte",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-05T09:38:55",
+  "operateur": "Allan"
  }
 }
