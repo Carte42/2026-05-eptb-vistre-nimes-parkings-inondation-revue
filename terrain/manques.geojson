@@ -294,6 +294,65 @@
     "le": "2026-11-05T12:17:18",
     "operateur": "Allan"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.433131,
+       43.674239
+      ],
+      [
+       4.433248,
+       43.674235
+      ],
+      [
+       4.435868,
+       43.67705
+      ],
+      [
+       4.435782,
+       43.677077
+      ],
+      [
+       4.435615,
+       43.676945
+      ],
+      [
+       4.434892,
+       43.676205
+      ],
+      [
+       4.434321,
+       43.675561
+      ],
+      [
+       4.433797,
+       43.674987
+      ],
+      [
+       4.433131,
+       43.674239
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "nom": "Manque dessiné sur place",
+    "commune": "Saint-Gilles",
+    "insee": "30258",
+    "classe": "moyenne",
+    "surf_m2": 4015,
+    "manque": true,
+    "enrichi": false,
+    "source": "terrain",
+    "cle": "manque:20261105121808",
+    "le": "2026-11-05T12:18:08",
+    "operateur": "Allan"
+   }
   }
  ]
 }
