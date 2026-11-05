@@ -86,6 +86,49 @@
     "le": "2026-11-05T08:25:31",
     "operateur": "Allan"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.236183,
+       43.671126
+      ],
+      [
+       4.235748,
+       43.671049
+      ],
+      [
+       4.235614,
+       43.671287
+      ],
+      [
+       4.236135,
+       43.671402
+      ],
+      [
+       4.236183,
+       43.671126
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "nom": "Manque dessiné sur place",
+    "commune": "Le Cailar",
+    "insee": "30059",
+    "classe": "moyenne",
+    "surf_m2": 1179,
+    "manque": true,
+    "enrichi": false,
+    "source": "terrain",
+    "cle": "manque:20261105090731",
+    "le": "2026-11-05T09:07:31",
+    "operateur": "Allan"
+   }
   }
  ]
 }
