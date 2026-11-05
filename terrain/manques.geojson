@@ -200,6 +200,57 @@
     "le": "2026-11-05T09:20:13",
     "operateur": "Allan"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.212335,
+       43.683762
+      ],
+      [
+       4.212421,
+       43.683502
+      ],
+      [
+       4.212217,
+       43.682847
+      ],
+      [
+       4.212372,
+       43.682827
+      ],
+      [
+       4.212565,
+       43.683468
+      ],
+      [
+       4.212496,
+       43.683762
+      ],
+      [
+       4.212335,
+       43.683762
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "nom": "Manque dessiné sur place",
+    "commune": "Aimargues",
+    "insee": "30006",
+    "classe": "moyenne",
+    "surf_m2": 1283,
+    "manque": true,
+    "enrichi": false,
+    "source": "terrain",
+    "cle": "manque:20261105100017",
+    "le": "2026-11-05T10:00:17",
+    "operateur": "Allan"
+   }
   }
  ]
 }
