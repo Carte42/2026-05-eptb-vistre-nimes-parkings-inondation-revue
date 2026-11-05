@@ -433,5 +433,19 @@
   "position": null,
   "le": "2026-11-05T12:14:17",
   "operateur": "Allan"
+ },
+ "PK_30258_032": {
+  "aire": null,
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "vide",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-05T12:14:36",
+  "operateur": "Allan"
  }
 }
