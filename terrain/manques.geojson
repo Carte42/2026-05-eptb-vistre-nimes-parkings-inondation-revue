@@ -43,6 +43,49 @@
     "le": "2026-11-05T08:24:58",
     "operateur": "Allan"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.341432,
+       43.727579
+      ],
+      [
+       4.341193,
+       43.727581
+      ],
+      [
+       4.341233,
+       43.727767
+      ],
+      [
+       4.34151,
+       43.727802
+      ],
+      [
+       4.341432,
+       43.727579
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "nom": "Manque dessiné sur place",
+    "commune": "Générac",
+    "insee": "30128",
+    "classe": "moyenne",
+    "surf_m2": 464,
+    "manque": true,
+    "enrichi": false,
+    "source": "terrain",
+    "cle": "manque:20261105082531",
+    "le": "2026-11-05T08:25:31",
+    "operateur": "Allan"
+   }
   }
  ]
 }
