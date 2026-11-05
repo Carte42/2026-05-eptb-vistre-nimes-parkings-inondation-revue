@@ -1133,6 +1133,7 @@
   "revu_le": "2026-11-03T07:42:57",
   "operateur": "Allan",
   "commentaire": "Parking semblant désaffacté près du bassin de rétention",
+  "motif": null,
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
@@ -1168,9 +1169,8 @@
     ]
    ]
   },
-  "surf_m2": 21416,
-  "nb_pl_est": 605,
-  "motif": null
+  "surf_m2": 21417.5,
+  "nb_pl_est": 605
  },
  "osm:w183016148": {
   "statut": "rejetee",
