@@ -250,5 +250,19 @@
   "position": null,
   "le": "2026-11-05T09:42:52",
   "operateur": "Allan"
+ },
+ "PK_30006_035": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-05T09:50:51",
+  "operateur": "Allan"
  }
 }
