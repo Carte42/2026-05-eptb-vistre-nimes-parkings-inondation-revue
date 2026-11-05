@@ -321,5 +321,19 @@
   "position": null,
   "le": "2026-11-05T10:40:15",
   "operateur": "Allan"
+ },
+ "PK_30003_028": {
+  "aire": "conforme",
+  "acces": "barriere",
+  "reglementation": [
+   "reserve"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "partielle",
+  "remarque": "Port maritime de plaisance parking privé : fermés par une barrière",
+  "position": null,
+  "le": "2026-11-05T10:46:48",
+  "operateur": "Allan"
  }
 }
