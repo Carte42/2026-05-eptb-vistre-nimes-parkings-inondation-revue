@@ -238,7 +238,7 @@
   "operateur": "Allan"
  },
  "30006:008": {
-  "aire": "conforme",
+  "aire": "modifiee",
   "acces": "libre",
   "reglementation": [
    "aucune"
@@ -246,9 +246,9 @@
   "revetement": "mixte",
   "marquage": "oui",
   "occupation": "partielle",
-  "remarque": null,
+  "remarque": "Retracer l'emprise : il semble qu'une partie du bâti nord du parking aient été dessinee dans l'emprise du parking par erreur",
   "position": null,
-  "le": "2026-11-05T09:40:37",
+  "le": "2026-11-05T09:42:52",
   "operateur": "Allan"
  }
 }
