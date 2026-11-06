@@ -475,5 +475,19 @@
   "position": null,
   "le": "2026-11-05T12:21:49",
   "operateur": "Allan"
+ },
+ "PK_30189_119": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "vide",
+  "remarque": "Lors de la visite, observation d'ornieres importantes en eau",
+  "position": null,
+  "le": "2026-11-06T07:46:43",
+  "operateur": "Allan"
  }
 }
