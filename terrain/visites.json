@@ -685,5 +685,19 @@
   "position": null,
   "le": "2026-11-06T10:53:16",
   "operateur": "Allan"
+ },
+ "manque:20261106110214": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": "Placette sous couvert végétal, mon compte à l'inventaire relevé pendant la tournée de terrain",
+  "position": null,
+  "le": "2026-11-06T11:02:49",
+  "operateur": "Allan"
  }
 }
