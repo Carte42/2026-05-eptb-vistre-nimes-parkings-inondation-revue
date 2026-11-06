@@ -643,5 +643,19 @@
   "position": null,
   "le": "2026-11-06T10:30:54",
   "operateur": "Allan"
+ },
+ "manque:20261106103919": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "pleine",
+  "remarque": "Parking de covoiturage, manquant à l'inventaire relevé pendant la visite terrain",
+  "position": null,
+  "le": "2026-11-06T10:39:48",
+  "operateur": "Allan"
  }
 }
