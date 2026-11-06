@@ -353,6 +353,49 @@
     "le": "2026-11-05T12:18:08",
     "operateur": "Allan"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.400039,
+       43.849097
+      ],
+      [
+       4.400069,
+       43.849063
+      ],
+      [
+       4.402042,
+       43.849383
+      ],
+      [
+       4.402021,
+       43.849423
+      ],
+      [
+       4.400039,
+       43.849097
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "nom": "Manque dessiné sur place",
+    "commune": "Nîmes",
+    "insee": "30189",
+    "classe": "moyenne",
+    "surf_m2": 728,
+    "manque": true,
+    "enrichi": false,
+    "source": "terrain",
+    "cle": "manque:20261106102220",
+    "le": "2026-11-06T10:22:20",
+    "operateur": "Allan"
+   }
   }
  ]
 }
