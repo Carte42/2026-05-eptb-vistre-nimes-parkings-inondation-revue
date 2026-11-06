@@ -559,5 +559,19 @@
   "position": null,
   "le": "2026-11-06T10:05:26",
   "operateur": "Allan"
+ },
+ "PK_30189_010": {
+  "aire": "conforme",
+  "acces": "barriere",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "vide",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-06T10:05:53",
+  "operateur": "Allan"
  }
 }
