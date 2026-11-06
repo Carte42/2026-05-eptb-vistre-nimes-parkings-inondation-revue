@@ -517,5 +517,19 @@
   "position": null,
   "le": "2026-11-06T09:49:32",
   "operateur": "Allan"
+ },
+ "PK_30189_117": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "vide",
+  "remarque": "Parking sous plusieurs centimètres d'eau pendant la visite",
+  "position": null,
+  "le": "2026-11-06T09:51:58",
+  "operateur": "Allan"
  }
 }
