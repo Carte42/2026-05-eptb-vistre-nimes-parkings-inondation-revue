@@ -545,5 +545,19 @@
   "position": null,
   "le": "2026-11-06T09:52:56",
   "operateur": "Allan"
+ },
+ "PK_30189_137": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-06T10:05:26",
+  "operateur": "Allan"
  }
 }
