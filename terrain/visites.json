@@ -601,5 +601,19 @@
   "position": null,
   "le": "2026-11-06T10:06:26",
   "operateur": "Allan"
+ },
+ "manque:20261106102220": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-06T10:22:29",
+  "operateur": "Allan"
  }
 }
