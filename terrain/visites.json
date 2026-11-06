@@ -671,5 +671,19 @@
   "position": null,
   "le": "2026-11-06T10:42:03",
   "operateur": "Allan"
+ },
+ "30156:033": {
+  "aire": "conforme",
+  "acces": "reserve",
+  "reglementation": [
+   "reserve"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "pleine",
+  "remarque": "Ranger de stationnement en bataille mixte privé résidence / public",
+  "position": null,
+  "le": "2026-11-06T10:53:16",
+  "operateur": "Allan"
  }
 }
