@@ -443,6 +443,65 @@
     "le": "2026-11-06T10:29:56",
     "operateur": "Allan"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.417946,
+       43.857993
+      ],
+      [
+       4.418064,
+       43.858059
+      ],
+      [
+       4.418308,
+       43.857875
+      ],
+      [
+       4.4187,
+       43.857662
+      ],
+      [
+       4.418785,
+       43.857637
+      ],
+      [
+       4.418769,
+       43.857502
+      ],
+      [
+       4.41859,
+       43.857527
+      ],
+      [
+       4.418394,
+       43.857664
+      ],
+      [
+       4.417946,
+       43.857993
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "nom": "Manque dessiné sur place",
+    "commune": "Marguerittes",
+    "insee": "30156",
+    "classe": "moyenne",
+    "surf_m2": 1111,
+    "manque": true,
+    "enrichi": false,
+    "source": "terrain",
+    "cle": "manque:20261106103919",
+    "le": "2026-11-06T10:39:19",
+    "operateur": "Allan"
+   }
   }
  ]
 }
