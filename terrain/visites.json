@@ -713,5 +713,19 @@
   "position": null,
   "le": "2026-11-06T11:19:51",
   "operateur": "Allan"
+ },
+ "manque:20261106113953": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "reserve"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "partielle",
+  "remarque": "Parking zone d'activité ouvert, réserver au locataire ou à leurs clients",
+  "position": null,
+  "le": "2026-11-06T11:40:20",
+  "operateur": "Allan"
  }
 }
