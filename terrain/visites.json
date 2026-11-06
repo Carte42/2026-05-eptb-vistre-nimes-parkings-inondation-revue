@@ -489,5 +489,19 @@
   "position": null,
   "le": "2026-11-06T07:46:43",
   "operateur": "Allan"
+ },
+ "PK_30189_109": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-06T08:00:35",
+  "operateur": "Allan"
  }
 }
