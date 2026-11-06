@@ -611,9 +611,9 @@
   "revetement": "enrobe",
   "marquage": "oui",
   "occupation": "partielle",
-  "remarque": null,
+  "remarque": "Bande de stationnement en bataille le long des murs des entreprises de la zone d'activité, non repéré par la détection",
   "position": null,
-  "le": "2026-11-06T10:22:29",
+  "le": "2026-11-06T10:22:47",
   "operateur": "Allan"
  }
 }
