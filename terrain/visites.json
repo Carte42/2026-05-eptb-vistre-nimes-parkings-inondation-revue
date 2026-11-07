@@ -839,5 +839,19 @@
   "position": null,
   "le": "2026-11-07T08:13:01",
   "operateur": "Allan"
+ },
+ "PK_30356_002": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-07T08:15:05",
+  "operateur": "Allan"
  }
 }
