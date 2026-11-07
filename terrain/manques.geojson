@@ -616,6 +616,49 @@
     "le": "2026-11-06T11:39:53",
     "operateur": "Allan"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.441952,
+       43.790099
+      ],
+      [
+       4.441179,
+       43.789673
+      ],
+      [
+       4.441415,
+       43.789054
+      ],
+      [
+       4.442703,
+       43.789751
+      ],
+      [
+       4.441952,
+       43.790099
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "nom": "Manque dessiné sur place",
+    "commune": "Bouillargues",
+    "insee": "30047",
+    "classe": "moyenne",
+    "surf_m2": 6936,
+    "manque": true,
+    "enrichi": false,
+    "source": "terrain",
+    "cle": "manque:20261107075108",
+    "le": "2026-11-07T07:51:08",
+    "operateur": "Allan"
+   }
   }
  ]
 }
