@@ -769,5 +769,19 @@
   "position": null,
   "le": "2026-11-07T07:48:14",
   "operateur": "Allan"
+ },
+ "manque:20261107075108": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "non",
+  "occupation": "vide",
+  "remarque": "Parking nouvellement construit repéré pendant la visite terrain : non visible sur les images satellites ou aériennes",
+  "position": null,
+  "le": "2026-11-07T07:51:38",
+  "operateur": "Allan"
  }
 }
