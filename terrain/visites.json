@@ -811,5 +811,19 @@
   "position": null,
   "le": "2026-11-07T08:00:50",
   "operateur": "Allan"
+ },
+ "PK_30047_010": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "pleine",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-07T08:04:58",
+  "operateur": "Allan"
  }
 }
