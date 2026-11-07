@@ -895,5 +895,19 @@
   "position": null,
   "le": "2026-11-07T08:37:00",
   "operateur": "Allan"
+ },
+ "PK_30039_001": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "vide",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-07T08:49:09",
+  "operateur": "Allan"
  }
 }
