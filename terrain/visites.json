@@ -993,5 +993,19 @@
   "position": null,
   "le": "2026-11-07T10:37:13",
   "operateur": "Allan"
+ },
+ "PK_30062_005": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "pleine",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-07T10:43:59",
+  "operateur": "Allan"
  }
 }
