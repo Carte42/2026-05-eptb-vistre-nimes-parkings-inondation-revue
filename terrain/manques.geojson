@@ -659,6 +659,53 @@
     "le": "2026-11-07T07:51:08",
     "operateur": "Allan"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.469724,
+       43.821885
+      ],
+      [
+       4.469773,
+       43.821705
+      ],
+      [
+       4.470444,
+       43.821778
+      ],
+      [
+       4.470662,
+       43.821913
+      ],
+      [
+       4.470576,
+       43.822026
+      ],
+      [
+       4.469724,
+       43.821885
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "nom": "Manque dessiné sur place",
+    "commune": "Manduel",
+    "insee": "30155",
+    "classe": "moyenne",
+    "surf_m2": 1579,
+    "manque": true,
+    "enrichi": false,
+    "source": "terrain",
+    "cle": "manque:20261107082551",
+    "le": "2026-11-07T08:25:51",
+    "operateur": "Allan"
+   }
   }
  ]
 }
