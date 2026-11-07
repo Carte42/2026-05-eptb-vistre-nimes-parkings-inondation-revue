@@ -1049,5 +1049,19 @@
   "position": null,
   "le": "2026-11-07T11:20:57",
   "operateur": "Allan"
+ },
+ "PK_30004_013": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "herbe",
+  "marquage": "non",
+  "occupation": "vide",
+  "remarque": "Terrain herbe légèrement incliné présence debout et de flaques lors de la visite",
+  "position": null,
+  "le": "2026-11-07T11:29:15",
+  "operateur": "Allan"
  }
 }
