@@ -1105,5 +1105,19 @@
   "position": null,
   "le": "2026-11-07T11:43:57",
   "operateur": "Allan"
+ },
+ "PK_30344_020": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-07T11:47:40",
+  "operateur": "Allan"
  }
 }
