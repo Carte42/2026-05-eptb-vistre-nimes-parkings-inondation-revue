@@ -867,5 +867,19 @@
   "position": null,
   "le": "2026-11-07T08:24:47",
   "operateur": "Allan"
+ },
+ "manque:20261107082551": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "stabilise",
+  "marquage": "non",
+  "occupation": "vide",
+  "remarque": "Est possible de stationnement observé au passage pendant la tournée terrain : stabiliser récent non visible sur les photos aériennes et satellites",
+  "position": null,
+  "le": "2026-11-07T08:26:20",
+  "operateur": "Allan"
  }
 }
