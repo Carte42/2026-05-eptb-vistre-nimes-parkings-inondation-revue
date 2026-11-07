@@ -1133,5 +1133,17 @@
   "position": null,
   "le": "2026-11-07T11:47:57",
   "operateur": "Allan"
+ },
+ "PK_30344_015": {
+  "aire": "disparue",
+  "acces": null,
+  "reglementation": [],
+  "revetement": null,
+  "marquage": null,
+  "occupation": null,
+  "remarque": "Ancien aire de stationnement remplacé par du bâti maison de santé et logement neufs",
+  "position": null,
+  "le": "2026-11-07T11:48:44",
+  "operateur": "Allan"
  }
 }
