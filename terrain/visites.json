@@ -1021,5 +1021,19 @@
   "position": null,
   "le": "2026-11-07T11:04:44",
   "operateur": "Allan"
+ },
+ "PK_30004_006": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "partielle",
+  "remarque": null,
+  "position": null,
+  "le": "2026-11-07T11:17:05",
+  "operateur": "Allan"
  }
 }
