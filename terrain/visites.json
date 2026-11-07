@@ -741,5 +741,19 @@
   "position": null,
   "le": "2026-11-06T11:45:12",
   "operateur": "Allan"
+ },
+ "PK_30156_006": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "oui",
+  "occupation": "partielle",
+  "remarque": "Parking de l'aire d'autoroute",
+  "position": null,
+  "le": "2026-11-07T07:09:41",
+  "operateur": "Allan"
  }
 }
