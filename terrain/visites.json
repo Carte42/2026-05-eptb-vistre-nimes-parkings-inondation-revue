@@ -783,5 +783,19 @@
   "position": null,
   "le": "2026-11-07T07:51:40",
   "operateur": "Allan"
+ },
+ "PK_30047_022": {
+  "aire": "conforme",
+  "acces": "libre",
+  "reglementation": [
+   "aucune"
+  ],
+  "revetement": "enrobe",
+  "marquage": "non",
+  "occupation": "partielle",
+  "remarque": "Une partie du stationnement détecté est un trottoir large ou les véhicules peuvent se ranger en bataille, mais pas forcément un parking officiel",
+  "position": null,
+  "le": "2026-11-07T07:56:56",
+  "operateur": "Allan"
  }
 }
