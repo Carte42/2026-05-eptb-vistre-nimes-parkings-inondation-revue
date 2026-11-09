@@ -429,5 +429,17 @@
   "nb_pl_est": 19,
   "motif": null,
   "commentaire": ""
+ },
+ "manuel:20261109200041": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Enrobé au contact du stade, véhicules sur les deux dates. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200056": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Stabilisé planté de deux rangées d'arbres, sans voiture. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

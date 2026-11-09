@@ -5,5 +5,11 @@
   "commentaire": "",
   "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
+ },
+ "manuel:20261109200045": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Parking marqué, voitures en rangs sur Google, absent de la photo IGN 2024. Le cadastre est encore privé. Revue : Neuf, visible sur l'image satellite.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

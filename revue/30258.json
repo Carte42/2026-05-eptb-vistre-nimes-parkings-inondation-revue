@@ -571,5 +571,35 @@
   "commentaire": "",
   "revu_le": "2026-09-30T09:31:44",
   "operateur": "Allan"
+ },
+ "manuel:20261109200001": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Stabilisé planté de rangées d'arbres devant le club de tennis, voitures garées sur la photo IGN.",
+  "revu_le": "2026-11-09T17:39:19",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200002": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Bande stabilisée entre le stade et la rue, véhicules garés dessus. Même configuration que la bande du stade de Générac, confirmée sur place.",
+  "revu_le": "2026-11-09T17:39:19",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200003": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Places peintes au nord et à l'est de la halle, visibles sur les deux dates. L'aire bétonnée au sud, sans marquage, n'est pas tracée.",
+  "revu_le": "2026-11-09T17:39:19",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200004": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Dalle grise à marquage léger, au contact d'un bâtiment récent, sans voiture sur les deux dates. Sortie en cas ambigu au test : parking de la piscine neuve, a priori, selon Allan.",
+  "revu_le": "2026-11-09T17:39:19",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200108": {
+  "statut": "validee",
+  "commentaire": "Relevé sur place, tournée T1 (D45). Accès : libre.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

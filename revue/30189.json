@@ -4470,5 +4470,196 @@
   "commentaire": "Aire ajoutée à la main",
   "revu_le": "2026-10-08T09:20:45",
   "operateur": "Allan"
+ },
+ "manuel:20261109200005": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Enrobé neuf sans place tracée, au contact d'une aire de l'inventaire. Sorti en cas ambigu au test : place du marché du Mas de Mingue, candidate retenue par Allan.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200006": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Longues bandes marquées et grand parvis, en zone d'activités près de l'aérodrome de Courbessac. Barrière ; stockage industriel ou parking poids lourds selon Allan. À classer en privé, accès fermé.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200008": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Voitures en rangs sur les deux dates. Cadastre : société privée. Revue : Privé, fermé.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200009": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Voitures sur les deux dates. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200010": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Parking sous arbres, voitures sur les deux dates. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200011": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Voitures sur Google, vide sur la photo IGN. Cadastre : société privée.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200012": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Surface stabilisée au contact du complexe sportif. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200013": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Surface stabilisée au contact des tennis. Cadastre : société privée. Revue : Privé, fermé.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200014": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Places en rangs le long de l'immeuble, voitures sur les deux dates. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200015": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Voitures sur Google, au contact du stade. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200016": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Surface stabilisée au contact des tribunes. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200017": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Dalle au contact de la tribune, quelques véhicules. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200018": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Parking sous arbres, voitures sur les deux dates. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200019": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Enrobé marqué, voitures en rangs sur les deux dates. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200020": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Bandes gravillonnées enherbées au contact du grand parking. Cadastre : commune. Relevé sur place : extension en stabilisé, barrière.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200021": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Enrobé avec voitures sur Google. Cadastre : intercommunalité.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200022": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Enrobé en impasse, quelques voitures. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200023": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Voitures en rangs sur les deux dates. Cadastre : Région.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200024": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Places marquées, voitures sur Google, au contact d'une aire inventoriée. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200025": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Voitures rangées sur les deux dates, au bord du parc. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200026": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Stabilisé avec bande plantée centrale, une voiture sur Google. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200027": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Même aménagement que l'aire voisine, trois voitures sur Google. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200028": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Allées marquées et rangées d'arbres, quelques voitures. Cadastre : établissement public.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200029": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Places marquées avec place réservée, au bord du cimetière. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200030": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Voitures en file sur les deux dates, contre-allée le long de la route. Cadastre : intercommunalité. Relevé sur place : parking de covoiturage, plein.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200031": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Stabilisé planté en rangs, sans voiture, à côté d'un parking planté inventorié. Cadastre : privé.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200032": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Voitures sur Google, sol nu sur la photo IGN, au nord d'une aire déjà écartée en revue. Cadastre : commune. Revue : Extension du parking du lycée, derrière un portail.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200033": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Voitures sur les deux dates, entre les bâtiments de bureaux. Cadastre : privé. Revue : Petite cour à voitures.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200034": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Dalle rouge sombre, une voiture sur la photo IGN, près du complexe sportif. Cadastre : société privée. Revue : Privé, fermé.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200035": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Sol clair dans les arbres, sans voiture. Cadastre : établissement public.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200109": {
+  "statut": "validee",
+  "commentaire": "Relevé sur place, tournée T1 (D45). Accès : libre. Bande de stationnement en bataille le long des murs des entreprises de la zone d'activité, non repéré par la détection",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

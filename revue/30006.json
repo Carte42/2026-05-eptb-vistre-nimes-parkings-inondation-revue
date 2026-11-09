@@ -510,5 +510,11 @@
   "commentaire": "Aire ajoutée à la main",
   "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
+ },
+ "manuel:20261109200107": {
+  "statut": "validee",
+  "commentaire": "Relevé sur place, tournée T1 (D45). Accès : libre. Parking neuf devant le parc de jeux arboré observé pendant la visite. Non présent satellite et aérienne",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

@@ -167,5 +167,19 @@
   "commentaire": "",
   "revu_le": "2026-09-29T18:52:08",
   "operateur": "Allan"
+ },
+ "manuel:20261109200100": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Enrobé autour d'une halle récente, places peintes au sud, clôture visible. Le cadastre indique un privé. Revue : Atelier municipal, fermé derrière un portail.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200102": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Enrobé devant un grand bâtiment récent, quelques véhicules sur la photo IGN, encore en chantier sur Google. Cadastre : société privée. Revue : Privé, fermé.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

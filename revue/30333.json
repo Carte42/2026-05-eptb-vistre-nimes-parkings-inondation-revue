@@ -40,5 +40,17 @@
   "commentaire": "",
   "revu_le": "2026-09-30T09:47:07",
   "operateur": "Allan"
+ },
+ "manuel:20261109200038": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Enrobé avec places peintes et giratoire, voitures sur les deux dates. Cadastre : public.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200047": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Vaste esplanade presque vide sur les deux dates, entourée d'aires déjà inventoriées. Le cadastre indique un privé, ce qui surprend ici.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

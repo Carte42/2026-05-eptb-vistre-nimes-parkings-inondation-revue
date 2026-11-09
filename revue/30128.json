@@ -94,5 +94,17 @@
   "commentaire": "Aire ajoutée à la main",
   "revu_le": "2026-11-05T07:57:43",
   "operateur": "Allan"
+ },
+ "manuel:20261109200105": {
+  "statut": "validee",
+  "commentaire": "Relevé sur place, tournée T1 (D45). Accès : libre.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200106": {
+  "statut": "validee",
+  "commentaire": "Relevé sur place, tournée T1 (D45). Accès : barriere.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

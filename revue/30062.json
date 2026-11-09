@@ -264,5 +264,12 @@
   "commentaire": "",
   "revu_le": "2026-09-29T18:52:07",
   "operateur": "Allan"
+ },
+ "manuel:20261109200101": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Enrobé avec hachures de places au sud-est du bâtiment. Cadastre : Département. Revue : Parking du collège, fermé, réservé au personnel.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

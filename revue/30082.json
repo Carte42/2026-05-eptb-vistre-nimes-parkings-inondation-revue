@@ -51,5 +51,12 @@
   },
   "revu_le": "2026-09-29T18:52:07",
   "operateur": "Allan"
+ },
+ "manuel:20261109200049": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Bande stabilisée plantée le long de la route, sans voiture. Cadastre : commune. Revue : Fermé par un portail (Street View).",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

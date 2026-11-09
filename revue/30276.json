@@ -155,5 +155,18 @@
   "operateur": "Allan",
   "motif": "prive_ouvert",
   "commentaire": ""
+ },
+ "manuel:20261109200037": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Voitures garées sur les deux dates, au pied du pont. Cadastre : intercommunalité.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200046": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Voitures en rangs sur les deux dates, à côté d'un bâtiment. Cadastre : société privée. Revue : Cour privée.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

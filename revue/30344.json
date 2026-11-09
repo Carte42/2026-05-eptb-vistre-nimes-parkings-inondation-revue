@@ -253,10 +253,11 @@
   "operateur": "Allan"
  },
  "osm:w169102481": {
-  "statut": "a_controler",
-  "commentaire": "En construction sur images sat.",
-  "revu_le": "2026-11-03T07:45:01",
-  "operateur": "Allan"
+  "statut": "rejetee",
+  "commentaire": "Tournée T1 : aire disparue, remplacée par une maison de santé et des logements neufs.",
+  "revu_le": "2026-11-09T17:39:21",
+  "operateur": "Claude, sur validation d'Allan",
+  "motif": "pas_parking"
  },
  "osm:w1064002044": {
   "statut": "rejetee",
@@ -323,5 +324,11 @@
   "commentaire": "",
   "revu_le": "2026-09-30T10:22:26",
   "operateur": "Allan"
+ },
+ "manuel:20261109200044": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Prolonge vers le nord l'aire déjà inventoriée, ombrières visibles sur Google. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

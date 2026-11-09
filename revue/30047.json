@@ -177,82 +177,78 @@
  "osm:w564407100": {
   "statut": "validee",
   "motif": null,
-  "commentaire": "",
+  "commentaire": "Tournée T1 : bras sud-est retiré du contour, trottoir large et non parking.",
   "geometrie": {
    "type": "Polygon",
    "coordinates": [
     [
      [
-      4.425581,
-      43.796197
-     ],
-     [
-      4.425382,
-      43.796112
-     ],
-     [
-      4.425648,
-      43.796015
-     ],
-     [
-      4.425406,
-      43.795657
-     ],
-     [
-      4.425524,
-      43.795604
-     ],
-     [
-      4.425605,
-      43.795726
-     ],
-     [
-      4.425669,
-      43.795647
+      4.425851,
+      43.79562
      ],
      [
       4.425798,
       43.79568
      ],
      [
-      4.425851,
-      43.79562
+      4.425669,
+      43.795647
      ],
      [
-      4.426101,
-      43.795724
+      4.425605,
+      43.795726
      ],
      [
-      4.42671,
-      43.795368
+      4.425524,
+      43.795604
      ],
      [
-      4.426739,
-      43.79542
+      4.425406,
+      43.795657
      ],
      [
-      4.426313,
-      43.795693
+      4.425648,
+      43.796015
+     ],
+     [
+      4.425382,
+      43.796112
+     ],
+     [
+      4.425581,
+      43.796197
+     ],
+     [
+      4.426020952638666,
+      43.796028011569256
+     ],
+     [
+      4.426020952638666,
+      43.7959741932039
      ],
      [
       4.426007,
       43.795922
      ],
      [
-      4.426034,
-      43.796023
+      4.426020952638666,
+      43.795911558319425
      ],
      [
-      4.425581,
-      43.796197
+      4.426020952638666,
+      43.79569070029768
+     ],
+     [
+      4.425851,
+      43.79562
      ]
     ]
    ]
   },
-  "surf_m2": 2734.7,
-  "nb_pl_est": 72,
-  "revu_le": "2026-09-29T18:52:06",
-  "operateur": "Allan"
+  "surf_m2": 2098.1,
+  "nb_pl_est": 57,
+  "revu_le": "2026-11-09T17:39:21",
+  "operateur": "Claude, sur validation d'Allan"
  },
  "osm:w1012175766": {
   "statut": "validee",
@@ -361,5 +357,17 @@
   "commentaire": "",
   "revu_le": "2026-09-29T18:52:06",
   "operateur": "Allan"
+ },
+ "manuel:20261109200036": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). File de voitures le long du stade sur Google, stabilisé devant le club-house. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200112": {
+  "statut": "validee",
+  "commentaire": "Relevé sur place, tournée T1 (D45). Accès : libre. Parking nouvellement construit repéré pendant la visite terrain : non visible sur les images satellites ou aériennes",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

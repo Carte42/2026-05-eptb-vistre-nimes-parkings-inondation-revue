@@ -373,5 +373,23 @@
   "commentaire": "",
   "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
+ },
+ "manuel:20261109200000": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Surfaces revêtues autour de la salle. Sorti en cas ambigu au test, retenu par Allan comme parking de la salle.",
+  "revu_le": "2026-11-09T17:39:19",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200007": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Grande aire gravillonnée bordée d'une rangée d'arbres, à l'entrée du centre équestre, quelques véhicules sur Google.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200110": {
+  "statut": "validee",
+  "commentaire": "Relevé sur place, tournée T1 (D45). Accès : libre. Placette sous couvert végétal, mon compte à l'inventaire relevé pendant la tournée de terrain",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

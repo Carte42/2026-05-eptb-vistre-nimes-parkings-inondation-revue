@@ -61,5 +61,11 @@
   "commentaire": "",
   "revu_le": "2026-09-30T10:23:43",
   "operateur": "Allan"
+ },
+ "manuel:20261109200057": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Voitures en rangs sur Google, pré vide sur la photo IGN. Foncier privé, stade et arènes voisins. Revue : Probablement un champ privé utilisé comme parking lors d'événements.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

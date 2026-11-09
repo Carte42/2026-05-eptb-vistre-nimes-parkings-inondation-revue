@@ -131,5 +131,11 @@
   "nb_pl_est": 10,
   "revu_le": "2026-09-29T18:52:07",
   "operateur": "Allan"
+ },
+ "manuel:20261109200050": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Stabilisé au nord et à l'est de la salle, sans voiture, au contact d'une aire inventoriée. Le cadastre indique un privé.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

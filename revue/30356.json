@@ -90,5 +90,30 @@
   "nb_pl_est": 16,
   "revu_le": "2026-09-29T18:52:09",
   "operateur": "Allan"
+ },
+ "manuel:20261109200042": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Gravier planté, voitures en rangs sur les deux dates. Cadastre : public.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200043": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Stabilisé avec une dizaine de voitures sur les deux dates. Cadastre : Région.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200058": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Stabilisé avec îlots plantés, devant les bâtiments du lycée, peu de voitures. Cadastre : Région. Revue : Fermé derrière un portail.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200059": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Rectangle de gravier au pied des jardins familiaux, deux voitures sur Google. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

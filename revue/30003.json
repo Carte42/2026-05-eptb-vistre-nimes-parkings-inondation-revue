@@ -135,11 +135,11 @@
   "operateur": "Allan"
  },
  "osm:w77242298": {
-  "statut": "validee",
-  "motif": null,
-  "commentaire": "Barrieres",
-  "revu_le": "2026-09-29T08:07:07",
-  "operateur": "Allan"
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Tournée T1 : parking du port de plaisance, privé, fermé par une barrière.",
+  "revu_le": "2026-11-09T17:39:21",
+  "operateur": "Claude, sur validation d'Allan"
  },
  "osm:w575943750": {
   "statut": "validee",
@@ -149,11 +149,11 @@
   "operateur": "Allan"
  },
  "osm:w831682784": {
-  "statut": "validee",
-  "motif": null,
-  "commentaire": "",
-  "revu_le": "2026-09-29T08:07:19",
-  "operateur": "Allan"
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Tournée T1 : parking du port de plaisance, privé, fermé par une barrière.",
+  "revu_le": "2026-11-09T17:39:21",
+  "operateur": "Claude, sur validation d'Allan"
  },
  "osm:w77365975": {
   "statut": "validee",
@@ -470,5 +470,11 @@
   },
   "revu_le": "2026-09-29T18:52:05",
   "operateur": "Allan"
+ },
+ "manuel:20261109200048": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Sol nu entre le stade et la rue, sans voiture sur les deux dates. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

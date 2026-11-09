@@ -192,5 +192,24 @@
   "corrections": {
    "statut": "prive"
   }
+ },
+ "manuel:20261109200054": {
+  "statut": "validee",
+  "commentaire": "Rattrapage (D46). Bandes larges avec rangées d'arbres, au contact d'une aire inventoriée, peu de voitures. Cadastre : commune.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200103": {
+  "statut": "rejetee",
+  "motif": "prive",
+  "commentaire": "Rattrapage (D46). Gravier avec trois voitures sur Google et une sur la photo IGN, accès au sud-ouest. Cadastre : société privée. Revue : Privé, fermé.",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261109200113": {
+  "statut": "validee",
+  "commentaire": "Relevé sur place, tournée T1 (D45). Accès : libre. Est possible de stationnement observé au passage pendant la tournée terrain : stabiliser récent non visible sur les photos aériennes et satellites",
+  "revu_le": "2026-11-09T17:39:20",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }
