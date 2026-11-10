@@ -128,9 +128,76 @@
   "operateur": "Allan"
  },
  "manuel:20261109200111": {
+  "statut": "rejetee",
+  "commentaire": "Relevé sur place, tournée T1 : réservé aux locataires ou à leurs clients. Privé, mais accessible en pratique : rangement utilisable, notamment pour les naufragés de la route.",
+  "revu_le": "2026-11-10T10:34:38",
+  "operateur": "Claude, sur validation d'Allan",
+  "motif": "prive_ouvert"
+ },
+ "manuel:20261110084249": {
   "statut": "validee",
-  "commentaire": "Relevé sur place, tournée T1 (D45). Accès : libre. Parking zone d'activité ouvert, réserver au locataire ou à leurs clients",
-  "revu_le": "2026-11-09T17:39:20",
-  "operateur": "Claude, sur validation d'Allan"
+  "commentaire": "Signalé par l'EPTB (S. Baraille). Contour resserré sur le sol revêtu.",
+  "revu_le": "2026-11-10T10:34:38",
+  "operateur": "Claude, sur validation d'Allan",
+  "geometrie": {
+   "type": "Polygon",
+   "coordinates": [
+    [
+     [
+      4.38005954044,
+      43.800162722799996
+     ],
+     [
+      4.38051537868,
+      43.80025197783999
+     ],
+     [
+      4.38036157312,
+      43.800337248279995
+     ],
+     [
+      4.38024761356,
+      43.80034282672
+     ],
+     [
+      4.38007069732,
+      43.800279870039994
+     ],
+     [
+      4.37997427,
+      43.80021133491999
+     ],
+     [
+      4.379894577999999,
+      43.80017148891999
+     ],
+     [
+      4.3801392324399995,
+      43.79997225891999
+     ],
+     [
+      4.38027630268,
+      43.799898942279995
+     ],
+     [
+      4.38040699756,
+      43.799894957679996
+     ],
+     [
+      4.38005954044,
+      43.800162722799996
+     ]
+    ]
+   ]
+  },
+  "surf_m2": 879.2,
+  "nb_pl_est": 35
+ },
+ "manuel:20261110084315": {
+  "statut": "rejetee",
+  "commentaire": "Signalé par l'EPTB (S. Baraille). Privé, mais accessible en pratique : rangement utilisable, notamment pour les naufragés de la route.",
+  "revu_le": "2026-11-10T10:34:38",
+  "operateur": "Claude, sur validation d'Allan",
+  "motif": "prive_ouvert"
  }
 }
