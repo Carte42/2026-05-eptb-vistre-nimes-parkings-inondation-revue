@@ -193,5 +193,11 @@
   "commentaire": "Rattrapage (D46). Enrobé sombre sans marquage, vide sur les deux dates. Cadastre : Région.",
   "revu_le": "2026-11-09T17:39:20",
   "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261110200006": {
+  "statut": "validee",
+  "commentaire": "Rattrapage zones d'activités (D47). File de voitures le long du terrain, sur les deux dates. Cadastre : établissement public. Contrôle : donne sur la voie, sans séparation visible (photo).",
+  "revu_le": "2026-11-10T17:19:14",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

@@ -58,5 +58,12 @@
   "commentaire": "Rattrapage (D46). Bande stabilisée plantée le long de la route, sans voiture. Cadastre : commune. Revue : Fermé par un portail (Street View).",
   "revu_le": "2026-11-09T17:39:20",
   "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261110200019": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "Rattrapage zones d'activités (D47). Bataille marquée le long de la voie, quelques voitures. Cadastre : commune. Contrôle : donne sur la voie, sans séparation visible (photo).",
+  "revu_le": "2026-11-10T17:19:14",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

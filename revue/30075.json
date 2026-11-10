@@ -191,5 +191,12 @@
   "commentaire": "Aire ajoutée à la main",
   "revu_le": "2026-10-08T08:38:57",
   "operateur": "Allan"
+ },
+ "manuel:20261110200018": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "Rattrapage zones d'activités (D47). Grand enrobé le long de la route devant la jardinerie. Cadastre : société privée. Contrôle : donne sur la voie, sans séparation visible (photo).",
+  "revu_le": "2026-11-10T17:19:14",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }

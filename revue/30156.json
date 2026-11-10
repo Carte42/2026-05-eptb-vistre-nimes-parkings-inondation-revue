@@ -391,5 +391,33 @@
   "commentaire": "Relevé sur place, tournée T1 (D45). Accès : libre. Placette sous couvert végétal, mon compte à l'inventaire relevé pendant la tournée de terrain",
   "revu_le": "2026-11-09T17:39:20",
   "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261110200001": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "Rattrapage zones d'activités (D47). Double rangée en bataille marquée autour du grand bâtiment. Cadastre : société privée. Contrôle : donne sur la voie, sans séparation visible (photo).",
+  "revu_le": "2026-11-10T17:19:14",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261110200002": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "Rattrapage zones d'activités (D47). Bande marquée le long de la voie, voitures sur les deux dates. Cadastre : société privée. Contrôle : donne sur la voie, sans séparation visible (photo).",
+  "revu_le": "2026-11-10T17:19:14",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261110200003": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "Rattrapage zones d'activités (D47). File de voitures en arc au pied du bâtiment, sur les deux dates. Cadastre : société privée. Contrôle : donne sur la voie, sans séparation visible (photo).",
+  "revu_le": "2026-11-10T17:19:14",
+  "operateur": "Claude, sur validation d'Allan"
+ },
+ "manuel:20261110200004": {
+  "statut": "rejetee",
+  "motif": "prive_ouvert",
+  "commentaire": "Rattrapage zones d'activités (D47). Bataille marquée le long du bâtiment, voitures sur les deux dates. Cadastre : société privée. Contrôle : donne sur la voie, sans séparation visible (photo).",
+  "revu_le": "2026-11-10T17:19:14",
+  "operateur": "Claude, sur validation d'Allan"
  }
 }
