@@ -7,10 +7,11 @@
   "operateur": "Allan"
  },
  "manuel:20260929090300": {
-  "statut": "validee",
-  "commentaire": "Aire ajoutée à la main",
-  "revu_le": "2026-09-29T09:03:02",
-  "operateur": "Allan"
+  "statut": "rejetee",
+  "commentaire": "Doublon de vivier:30006:008 (même allée arborée, 72 % recouverts), validé par Allan le 11/11/2026.",
+  "revu_le": "2026-11-11T20:53:47",
+  "operateur": "Claude, sur validation d'Allan",
+  "motif": "doublon"
  },
  "manuel:20260929152105": {
   "statut": "validee",
